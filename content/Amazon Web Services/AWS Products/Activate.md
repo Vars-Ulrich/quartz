@@ -1,6 +1,5 @@
 ---
 sticker: vault//Media/icons/aws-icons/Activate.svg
-icon: vault//content/vault_resources/icons/aws-icons/Activate.svg
 ---
  
 # Overview 

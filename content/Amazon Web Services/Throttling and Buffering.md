@@ -2,7 +2,7 @@
 aliases: 
 tags:
 ---
-- ;;AiAPIGateway;;[[API Gateway]]
+- [[API Gateway]]
 - [[Simple Queue Service]]
 - [[Kinesis]]
 
