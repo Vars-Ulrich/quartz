@@ -16,6 +16,7 @@ AWS Direct Connect is a cloud service solution that makes it easy to establish a
 To connect to AWS resources that are reachable by a public IP address such as an Amazon Simple Storage Service (Amazon S3) bucket or AWS public endpoints, use a **public virtual interface**. With a public virtual interface, you can:
 - Connect to all AWS public IP addresses globally
 - Create public virtual interfaces in any direct
+- Access publicly routable Amazon services in any AWS Region (except the AWS China Region).
 
 ### Private Virtual Interface
 
