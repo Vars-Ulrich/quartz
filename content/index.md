@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Kipp's Vault
 icon:
 ---
 # Greetings!
