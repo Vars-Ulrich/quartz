@@ -1,5 +1,0 @@
----
-aliases:
-  - Linux commands
-sticker: ""
----

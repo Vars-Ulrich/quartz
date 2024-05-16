@@ -1,4 +1,5 @@
 %% Begin Waypoint %%
+- [[Blaster Attack]]
 - [[EternalBlue]]
 - [[Reverse Engineering]]
 - [[Social Engineering]]

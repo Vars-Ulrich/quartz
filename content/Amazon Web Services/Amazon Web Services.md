@@ -7,7 +7,6 @@ _sort:
   asc: true
   group: false
 sticker: vault//Media/icons/AWS_Simple_Icons_AWS_Cloud.svg
-icon:
 ---
 %% Begin Waypoint %%
 - **[[AWS Products]]**
