@@ -4,6 +4,41 @@ sticker: vault//Media/icons/aws-icons/Aurora.svg
 # Overview
 Amazon Aurora is a MySQL and PostgreSQL-compatible relational database built for the cloud, that combines the performance and availability of traditional enterprise databases with the simplicity and cost-effectiveness of open source databases.
 
+- Compatible API for PostgreSQL/ MySQL
+- Storage and compute are **seperated** 
+	- Storage
+		- data is stored in 6 replicas, across 3 AZ
+			- Highly available
+			- Self-healing
+			- auto-scaling
+	- Compute
+		- Cluster of DB instance across multiple AZ optional
+		- auto-scaling of Read Replicas
+- Cluster: 
+	- Custom endpoints for writer and reader DB instances
+- Security
+	- Same security/ monitoring/ maintenence features as [[Relational Database Service|RDS]]
+- Backup and restore
+	- **know these fore exam!!!**
+- Aurora Serverless
+	- For unpredicatable/ intermittent workloads
+	- no capacity planning
+- Aurora Global:
+	- up to 16 DB Read instances in each region where database 
+	- sub-second storage replication
+- Aurora Machine Learning
+	- merform ML using sagemaker and Comprehend on Aurora
+- Aurora database cloning
+	- new cluster from existing one
+		- faster than restoring from snapshot
+- Use case
+	- Same as RDS but with: 
+	- less maintenance
+	- more flexibility
+	- more performance
+	- more features
+	- 
+
 
 ## Aurora with multi-master cluster
 

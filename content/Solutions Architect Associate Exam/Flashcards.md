@@ -611,4 +611,19 @@ RDS Multi-AZ follows what kind of replication? :: Synchronous
 RDS Read-replicas follow what kind of replication? :: Asynchronous
 
 AWS Lamda Currently supports how many concurrent executions per AWS account per region? :: 1000
+
+if exam is asking you for a caching solution that does not require a code change then what is definitely not a good choice :: [[ElastiCache]] needs 
+
+True or false: You can use SQL on [[ElastiCache]].  :: False. ElastiCache is not compatible with SQL
+
+Any time that you see that you need to rapidly evolve schemas/have a flexible type of database schema, a great choice would be... :: [[DynamoDB]]
+
+If you encounter an exam question, it's asking about a dynamo DB implementation that is capable of microsecond read latency, you come to mind? :: A [[DynamoDB#Dynamo DB accelerator (DAX)|DynamoDB Accelerator (DAX)]]  cluster can be used as a read cache, providing miscrosecond latency
+
+Which database option is ideal for serverless app development use cases that use small documents or for a distributed serverless cache? :: [[DynamoDB]]
+
+
+
+
+
 ## Deck 4

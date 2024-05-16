@@ -96,6 +96,7 @@ aliases:
 - [[Speech Synthesis Markup Language]]
 - [[SSH File Transfer Protocol]]
 - [[Structured Query Language]]
+- [[Time to live]]
 - [[Transmission Control Protocol]]
 - [[Transport Layer Security]]
 - [[User Datagram Protocol]]

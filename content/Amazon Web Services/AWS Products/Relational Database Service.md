@@ -6,6 +6,26 @@ aliases:
 # RDS (Relational Database Service)
 https://aws.amazon.com/rds/features/multi-az/
 
+- Managed PostgreSQL/ MySQL/Oracle/SQL Server/DB2/Maria DB/Bustom
+- RDS resources are provisioned similar to EC2
+	- RDS instance size and EBS Volume type and size
+	- Auto-scaling
+	- Support for [[#read replica configuration|read replicas]] and [[#Multi-AZ configuration|multi-AZ]]
+- Security through
+	- [[Identity and Access Management|IAM]]
+	- [[Security Groups]]
+	- [[Key Management Service (KMS)]]
+	- SSl in transit
+- Backup/recovery
+	- Automated backup with Point in time restore
+		- Up to 35 days
+	- Manual snapshots for longer term recovery
+- Maintenance
+	- Managed and Schedule (with downtime)
+- Support for IAM authentication, integration with [[Secrets Manager]]
+- RDS Custom for access to and customize underlying instance (Oracle & SQL server)
+
+
 ## Configuration Types
 ### Multi-AZ configuration
 

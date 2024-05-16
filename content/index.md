@@ -1,9 +1,11 @@
 ---
 title: Welcome to Kipp's Vault
-icon:
+icon: 
+aliases:
+  - Home
 ---
 # Greetings!
-Welcome to the digital knowledge garden of [Kipp Burroughs](https://KippBurroughs.com). I am new to Obsidian and this page is very much in the initial stages of construction.
+You've reached the digital knowledge garden of [Kipp Burroughs](https://KippBurroughs.com). I am new to Obsidian and this page is very much in the initial stages of construction.
 
 
 ## Vault Overview
@@ -11,17 +13,15 @@ Welcome to the digital knowledge garden of [Kipp Burroughs](https://KippBurroug
 - [[Information Technology]]
 - [[Music]]
 - [[People]]
-- [[content/History/History]]
+- [[Historical]]
 - [[Unsorted Items]]
 
 
 ### Personal Links
 
+https://linktr.ee/Kipp_it_100
 
-#### Obsidian Resources
-
-
-##### H5 Placeholder
+https://www.youtube.com/@Kipp_it_100
 
 
-###### H6 Placeholder
+

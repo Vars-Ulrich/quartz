@@ -2,6 +2,34 @@
 sticker: vault//Media/icons/aws-icons/ElastiCache.svg
 ---
 # Overview
+
+- Managed [[Redis]] / Memcached 
+	- Similar offering as RDS, but for [[cache|caches]]
+- In-memory data store, sub-millisecond latency
+- Select instance type (eg., cache.m6g.large)
+- Support for: 
+	- clustering (Redis)
+	- Multi AZ, Read Replicas (sharding)
+- Security through:
+	- [[Identity and Access Management|IAM]]
+	- [[Security Groups]]
+	- [[Key Management Service (KMS)]]
+	- Redis Auth
+- Recovery and backup
+	- backup
+	- snapshot
+	- point in time restore feature
+- Managed and Scheduled maintenance
+- **require some application code change to be leveraged**
+- Use Case: 
+	- Key value store
+	- frequent reads, less writes
+	- cache results for DB queries
+	- store session data for websites
+	- **cannot use SQL**
+
+## ChatGPT Overview
+
 ### Service Overview:
 
 AWS ElastiCache is a fully managed in-memory caching service that helps improve the performance and scalability of web applications by caching frequently accessed data. With support for both Redis and Memcached, ElastiCache simplifies the process of setting up and managing a distributed caching layer, allowing developers to focus on building applications without worrying about infrastructure management.
