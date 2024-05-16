@@ -40,6 +40,7 @@ Support high availability by default
 	- Serverless applications development
 		- **small docs** 100s KB
 		- distributed serverless cache
+- 
 
 
 ## DynamoDB w/ global tables

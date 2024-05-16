@@ -9,6 +9,7 @@ sticker: vault//Media/icons/aws-icons/Athena.svg
 - you pay only for the queries that you run. 
 - Athena is used for analytics and **not** to prepare data for analytics.
 
+- 
 #### Exam Alerts
 #saa_exam_alerts 
 - 

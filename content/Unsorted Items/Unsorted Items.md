@@ -5,6 +5,7 @@
 - [[Ada Lovelace]]
 - [[Alan Turing]]
 - [[Apache ActiveMQ]]
+- [[Apache Cassandra]]
 - [[Apache Kafka]]
 - [[Aplastic Anemia]]
 - [[Apple II]]

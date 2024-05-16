@@ -5,6 +5,30 @@ sticker: vault//Media/icons/aws-icons/Timestream.svg
 
 AWS Timestream is a fully managed time series database service designed to handle the scale and complexity of time series data for IoT, operational applications, and DevOps use cases. It enables you to store, analyze, and query time series data at scale with high performance and durability, allowing you to derive insights and make data-driven decisions based on time-varying data streams.
 
+- [[Time series database]]
+- Fully managed
+- fast
+- scalable 
+	- autoscale up/down to adjust capacity
+- serverless
+- 1000s x faster and 1/10th the cost of relation databases
+- Scheduled queries, multi-measure records, SQL compatible
+- Data storage tiering
+	- recent data kept in-memory
+	- historical data kept in a cost-optimized storage
+- Built-in time series analytics functions
+	- this is identify patterns in data in near real-time
+- Encryption
+	- in transit
+	- at rest
+- Use cases: 
+	- IoT apps
+	- operational applications
+	- real-time analytics
+
+## Architecture
+![[Pasted image 20240516002837.png]]
+## ChatGPT Overview
 ### Key Features:
 
 1. **Purpose-built for Time Series Data**: Timestream is purpose-built to handle time series data, offering optimized storage, compression, and indexing techniques tailored for time-based data streams.

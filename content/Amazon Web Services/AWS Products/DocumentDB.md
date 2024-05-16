@@ -5,6 +5,17 @@ sticker: vault//Media/icons/aws-icons/DocumentDB.svg
 
 AWS DocumentDB (with MongoDB compatibility) is a fully managed NoSQL database service provided by Amazon Web Services that supports MongoDB workloads. As a document-oriented database, AWS DocumentDB is designed to store, retrieve, and manage semi-structured data. The service aims to make it simple and cost-effective to operate large scale MongoDB workloads in the cloud with compatibility for MongoDB applications and tools.
 
+- Whereas Aurora is an AWS implementation of PostgreSQL / MySQL, DocumentDB is the same for [[MongoDB]] **NoSQL database** 
+- MongoDB
+	- used to store, query, and index JSON data
+- Similar deployment concepts as [[Aurora]]
+- Fully Managed
+- Highly available 
+	- replication across 3 AZ
+- Document DB automatically grows in increments of 10GB
+- Automatically scales to workloads with **millions of reqs/sec**
+- 
+
 ### Key Features of AWS DocumentDB
 
 1. **MongoDB Compatibility**: AWS DocumentDB is compatible with MongoDB, meaning it supports the same MongoDB application code, drivers, and tools. Developers can use it as a drop-in replacement for MongoDB without needing to rewrite their application logic.

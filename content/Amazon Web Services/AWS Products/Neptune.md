@@ -21,7 +21,20 @@ sticker: vault//Media/icons/aws-icons/Neptune.svg
 	- recommendation engines
 	- social networking
 
-
+## Neptune Streams
+- Real-time ordered sequence of every change to your graph daa
+- Changes are available immediately after writing
+- **No duplicates, strict order**
+- Writes are written to:
+	- Your Neptune cluster
+	- Your Neptune Stream
+		- This stream data is accessible in an [[Hypertext Transfer Protocol|HTTP]] [[REST API]]
+- Use cases
+	- send notifications when certain changes are made
+	- maintain graph data synchronized in another data store
+		- [[Simple Storage Service|S3]]
+		- [[OpenSearch Service|OpenSearch]]
+		- [[ElastiCache]]
 #### Exam Alerts 
 #saa_exam_alerts 
 - any time you see anything related to graph databases, think... :: [[Neptune]]

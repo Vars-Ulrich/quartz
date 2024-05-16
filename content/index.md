@@ -14,12 +14,6 @@ You've reached the digital knowledge garden of [Kipp Burroughs](https://KippBur
 - [[Historical]]
 - [[Unsorted Items]]
 
-
 ### Personal Links
 
 https://linktr.ee/Kipp_it_100
-
-https://www.youtube.com/@Kipp_it_100
-
-
-
