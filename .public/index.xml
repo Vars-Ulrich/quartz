@@ -6,6 +6,12 @@
       <description>Last 10 notes on 🏡Kipp&#039;s Vault</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Welcome to Kipp&#039;s Vault</title>
+    <link>https://quartz.jzhao.xyz/</link>
+    <guid>https://quartz.jzhao.xyz/</guid>
+    <description>Home You’ve reached the digital knowledge garden of Kipp Burroughs. I am new to Obsidian and this page is very much in the initial stages of construction.</description>
+    <pubDate>Thu, 16 May 2024 21:49:31 GMT</pubDate>
+  </item><item>
     <title>RSA</title>
     <link>https://quartz.jzhao.xyz/Information-Technology/RSA</link>
     <guid>https://quartz.jzhao.xyz/Information-Technology/RSA</guid>
@@ -59,12 +65,6 @@
     <guid>https://quartz.jzhao.xyz/Information-Technology/Hacking/Hacking</guid>
     <description> Blaster Attack EternalBlue Reverse Engineering Social Engineering Solar Sunrise wannacry Zero day RDE .</description>
     <pubDate>Thu, 16 May 2024 15:04:37 GMT</pubDate>
-  </item><item>
-    <title>Blaster Attack</title>
-    <link>https://quartz.jzhao.xyz/Information-Technology/Hacking/Blaster-Attack</link>
-    <guid>https://quartz.jzhao.xyz/Information-Technology/Hacking/Blaster-Attack</guid>
-    <description>Overview Key words.</description>
-    <pubDate>Thu, 16 May 2024 15:04:16 GMT</pubDate>
   </item>
     </channel>
   </rss>
