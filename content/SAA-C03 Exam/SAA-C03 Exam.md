@@ -10,7 +10,7 @@ _sort:
 sticker: 
 color: var(--mk-color-blue)
 ---
-# AWS-provided resources
+# Overview
 
 %% Begin Waypoint %%
 - [[Flashcards]]
@@ -42,8 +42,6 @@ color: var(--mk-color-blue)
 		- **sqs**
 
 		- **ssm**
-
-	- **[[Ski Mask Way]]**
 
 
 %% End Waypoint %%
