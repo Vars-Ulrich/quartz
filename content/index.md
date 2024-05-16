@@ -1,6 +1,5 @@
 ---
 title: Welcome to Kipp's Vault
-icon: 
 aliases:
   - Home
 ---
