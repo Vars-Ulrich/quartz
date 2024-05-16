@@ -7,6 +7,7 @@ You've reached the digital knowledge garden of [Kipp Burroughs](https://KippBur
 
 ## Vault Overview
 - [[Amazon Web Services]] 
+- [[Solutions Architect Associate Exam]]
 - [[Information Technology]]
 - [[Music]]
 - [[People]]
