@@ -1,0 +1,6 @@
+---
+aliases:
+  - RAM
+tags:
+---
+# Overview
