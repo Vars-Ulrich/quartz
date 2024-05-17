@@ -38,7 +38,7 @@
 - [[Gavrilo Princip]]
 - [[Genomics]]
 - [[Graphics Processing Unit]]
-- [[Home]]
+- [[home/Unsorted Items/Home]]
 - [[HTTP Live Streaming]]
 - [[Hypervisor]]
 - [[IBM Personal Computer]]
