@@ -6,7 +6,6 @@ _sort:
   field: rank
   asc: true
   group: false
-sticker: vault//Media/icons/AWS_Simple_Icons_AWS_Cloud.svg
 ---
 %% Begin Waypoint %%
 - **[[AWS Products]]**
