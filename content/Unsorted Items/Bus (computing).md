@@ -4,7 +4,7 @@ tags:
 ---
 # Overview
 
-> In computer architecture, a **bus** (historically also called data highway or databus) is a communication system that transfers data between components inside a [[computer]], or between computers. This expression covers all related hardware components (wire, optical fiber, etc.) and software, including communication protocols.
+> In computer architecture, a **bus** (historically also called data highway or databus) is a communication system that transfers data between components inside a [[Computer]], or between computers. This expression covers all related hardware components (wire, optical fiber, etc.) and software, including communication protocols.
 >
 > In most traditional computer architectures, the [[Central Processing Unit|CPU]] and main [[Computer memory|memory]] tend to be tightly coupled, with the internal bus connecting the two being known as the system bus. In systems that include a cache, CPUs use high-performance system buses that operate at speeds greater than memory to communicate with memory. The internal bus (also known as the internal data bus, memory bus or system bus) connects internal components of a computer to the mother board. Local buses connect the CPU and memory to the expansion bus, which in turn connects the computer to peripherals. Bus systems such as the SATA ports in modern computers support multiple peripherals, allowing multiple hard drives to be connected without an expansion card.
 >

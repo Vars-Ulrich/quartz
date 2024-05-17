@@ -4,7 +4,7 @@ tags:
 ---
 # Overview
 
-> **Machine Learning** (ML) is a field of study in [[artificial intelligence]] concerned with the development and study of statistical [[Algorithm|algorithms]] that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions. Recently, artificial [[Neural Network|neural networks]] have been able to surpass many previous approaches in performance.
+> **Machine Learning** (ML) is a field of study in [[Artificial Intelligence]] concerned with the development and study of statistical [[Algorithm|algorithms]] that can learn from data and generalize to unseen data, and thus perform tasks without explicit instructions. Recently, artificial [[Neural Network|neural networks]] have been able to surpass many previous approaches in performance.
 >
 > ML finds application in many fields, including natural language processing, computer vision, speech recognition, email filtering, agriculture, and medicine. When applied to business problems, it is known under the name predictive analytics. Although not all machine learning is statistically based, computational statistics is an important source of the field's methods.
 >

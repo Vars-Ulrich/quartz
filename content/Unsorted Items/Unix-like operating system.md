@@ -4,7 +4,7 @@ tags:
 ---
 # Overview
 
-> A **Unix-like (sometimes referred to as UNX or nix) operating system** is one that behaves in a manner similar to a [[Unix|Unix system]], although not necessarily conforming to or being certified to any version of the Single UNIX Specification. A Unix-like application is one that behaves like the corresponding Unix command or shell. Although there are general philosophies for Unix design, there is no technical standard defining the term, and opinions can differ about the degree to which a particular operating system or application is Unix-like.
+> A **Unix-like (sometimes referred to as UNX or nix) operating system** is one that behaves in a manner similar to a [[UNIX|Unix system]], although not necessarily conforming to or being certified to any version of the Single UNIX Specification. A Unix-like application is one that behaves like the corresponding Unix command or shell. Although there are general philosophies for Unix design, there is no technical standard defining the term, and opinions can differ about the degree to which a particular operating system or application is Unix-like.
 >
 > Some well-known examples of Unix-like operating systems include Linux and BSD. These systems are often used on servers as well as on personal computers and other devices. Many popular applications, such as the Apache web server and the Bash shell, are also designed to be used on Unix-like systems.
 >
