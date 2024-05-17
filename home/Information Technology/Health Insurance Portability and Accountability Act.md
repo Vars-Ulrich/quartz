@@ -1,5 +1,0 @@
----
-aliases:
-  - HIPAA
----
-## Overview

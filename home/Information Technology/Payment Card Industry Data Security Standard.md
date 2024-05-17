@@ -1,5 +1,0 @@
----
-aliases:
-  - PCI Standard
----
-## Overview

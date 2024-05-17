@@ -1,5 +1,0 @@
----
-aliases:
-  - python
-  - python3
----

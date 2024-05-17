@@ -10,25 +10,61 @@
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
     <description>You’ve reached the digital knowledge garden of Kipp Burroughs. I am new to Obsidian and this page is very much in the initial stages of construction. Vault Overview Amazon Web Services SAA-C03 Exam Information Technology Music People Historical Unsorted Items Personal Links Link Tree LinkedIn YouTube SoundCloud Twitch [Dev] [GitHub].</description>
-    <pubDate>Fri, 17 May 2024 09:47:49 GMT</pubDate>
-  </item><item>
-    <title>AWS</title>
-    <link>https://quartz.jzhao.xyz/Amazon-Web-Services/Amazon-Web-Services</link>
-    <guid>https://quartz.jzhao.xyz/Amazon-Web-Services/Amazon-Web-Services</guid>
-    <description>...</description>
-    <pubDate>Fri, 17 May 2024 08:41:54 GMT</pubDate>
+    <pubDate>Fri, 17 May 2024 10:30:47 GMT</pubDate>
   </item><item>
     <title>Information Technology</title>
     <link>https://quartz.jzhao.xyz/Information-Technology/Information-Technology</link>
     <guid>https://quartz.jzhao.xyz/Information-Technology/Information-Technology</guid>
     <description>...</description>
-    <pubDate>Fri, 17 May 2024 08:14:13 GMT</pubDate>
+    <pubDate>Fri, 17 May 2024 10:17:01 GMT</pubDate>
   </item><item>
     <title>SAA-C03 Exam</title>
     <link>https://quartz.jzhao.xyz/SAA-C03-Exam/SAA-C03-Exam</link>
     <guid>https://quartz.jzhao.xyz/SAA-C03-Exam/SAA-C03-Exam</guid>
     <description>Overview ;;bad Flashcards SAA Exam Alerts Udemy SAA course Course Code api-gateway cli cloudformation ebs ec2-fundamentals efs kinesis kms route53 s3 s3-advanced sqs ssm exam ...</description>
-    <pubDate>Fri, 17 May 2024 08:14:13 GMT</pubDate>
+    <pubDate>Fri, 17 May 2024 10:15:20 GMT</pubDate>
+  </item><item>
+    <title>AWS</title>
+    <link>https://quartz.jzhao.xyz/Amazon-Web-Services/Amazon-Web-Services</link>
+    <guid>https://quartz.jzhao.xyz/Amazon-Web-Services/Amazon-Web-Services</guid>
+    <description>...</description>
+    <pubDate>Fri, 17 May 2024 10:10:49 GMT</pubDate>
+  </item><item>
+    <title>Historical</title>
+    <link>https://quartz.jzhao.xyz/Historical/Historical</link>
+    <guid>https://quartz.jzhao.xyz/Historical/Historical</guid>
+    <description> Art Movements Tech History 🗓.</description>
+    <pubDate>Fri, 17 May 2024 10:00:15 GMT</pubDate>
+  </item><item>
+    <title>Flashcards</title>
+    <link>https://quartz.jzhao.xyz/SAA-C03-Exam/Flashcards</link>
+    <guid>https://quartz.jzhao.xyz/SAA-C03-Exam/Flashcards</guid>
+    <description>Deck 1 deck1 Cloud Formation does not have any additional cost but you are charged for the underlying resources it builds. ::: You have five CloudFormation templates; each template is for a different application architecture.</description>
+    <pubDate>Fri, 17 May 2024 10:00:15 GMT</pubDate>
+  </item><item>
+    <title>Udemy SAA course</title>
+    <link>https://quartz.jzhao.xyz/SAA-C03-Exam/Udemy-SAA-course/Udemy-SAA-course</link>
+    <guid>https://quartz.jzhao.xyz/SAA-C03-Exam/Udemy-SAA-course/Udemy-SAA-course</guid>
+    <description>Overview Key words.</description>
+    <pubDate>Fri, 17 May 2024 10:00:15 GMT</pubDate>
+  </item><item>
+    <title>SAA Exam Alerts</title>
+    <link>https://quartz.jzhao.xyz/SAA-C03-Exam/SAA-Exam-Alerts</link>
+    <guid>https://quartz.jzhao.xyz/SAA-C03-Exam/SAA-Exam-Alerts</guid>
+    <description>SAA Exam Alerts saa_exam_alerts .</description>
+    <pubDate>Fri, 17 May 2024 10:00:15 GMT</pubDate>
+  </item><item>
+    <title>Gavrilo Princip</title>
+    <link>https://quartz.jzhao.xyz/Unsorted-Items/Gavrilo-Princip</link>
+    <guid>https://quartz.jzhao.xyz/Unsorted-Items/Gavrilo-Princip</guid>
+    <description>Overview Gavrilo Princip (Serbian Cyrillic: Гаврило Принцип, pronounced [ɡǎʋrilo prǐntsip]; 25 July 1894 – 28 April 1918) was a Bosnian Serb student who assassinated Archduke ...</description>
+    <pubDate>Fri, 17 May 2024 10:00:15 GMT</pubDate>
+  </item><item>
+    <title>Cache (computing)</title>
+    <link>https://quartz.jzhao.xyz/Unsorted-Items/Cache-(computing)</link>
+    <guid>https://quartz.jzhao.xyz/Unsorted-Items/Cache-(computing)</guid>
+    <description>Overview In computing, a cache ( KASH) is a hardware or software component that stores data so that future requests for that data can be served faster; the data stored in a cache might ...</description>
+    <pubDate>Fri, 17 May 2024 10:00:15 GMT</pubDate>
   </item>
     </channel>
   </rss>
