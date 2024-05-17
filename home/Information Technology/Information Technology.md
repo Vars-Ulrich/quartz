@@ -1,6 +1,7 @@
 ---
 aliases:
   - IT
+icon: MiHappyMac
 ---
 %% Begin Waypoint %%
 - [[Acknowledgment (Computer Networking)]]

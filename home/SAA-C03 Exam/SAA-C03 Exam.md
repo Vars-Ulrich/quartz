@@ -1,16 +1,14 @@
 ---
 _filters: 
 _contexts: 
-_links:
-  - old_saa entry
 _sort:
   field: rank
   asc: false
   group: false
-sticker: 
 color: var(--mk-color-blue)
+icon: MiSaaBadge
 ---
-# Overview
+# Overview ;;bad
 
 %% Begin Waypoint %%
 - [[Flashcards]]

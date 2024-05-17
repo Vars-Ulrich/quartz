@@ -7,6 +7,7 @@ _sort:
   asc: true
   group: false
 icon: MiAWSSimpleIconsAWSCloud
+title: AWS
 ---
 %% Begin Waypoint %%
 - **[[AWS Products]]**
