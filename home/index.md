@@ -1,7 +1,7 @@
 ---
-title: 🏡Home
+title: Vault Home
 aliases:
-  - Home
+  - 🏡home
 ---
 You've reached the digital knowledge garden of [Kipp Burroughs](https://KippBurroughs.com). I am new to Obsidian and this page is very much in the initial stages of construction.
 

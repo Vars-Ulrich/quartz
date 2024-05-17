@@ -5,66 +5,6 @@
       <link>https://quartz.jzhao.xyz</link>
       <description>Last 10 notes on 🏡Kipp&#039;s Vault</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
-      <item>
-    <title>Amazon Web Services</title>
-    <link>https://quartz.jzhao.xyz/Amazon-Web-Services/Amazon-Web-Services</link>
-    <guid>https://quartz.jzhao.xyz/Amazon-Web-Services/Amazon-Web-Services</guid>
-    <description>...</description>
-    <pubDate>Fri, 17 May 2024 00:36:57 GMT</pubDate>
-  </item><item>
-    <title>SAA-C03 Exam</title>
-    <link>https://quartz.jzhao.xyz/SAA-C03-Exam/SAA-C03-Exam</link>
-    <guid>https://quartz.jzhao.xyz/SAA-C03-Exam/SAA-C03-Exam</guid>
-    <description>Overview Flashcards SAA Exam Alerts Udemy SAA course Course Code api-gateway cli cloudformation ebs ec2-fundamentals efs kinesis kms route53 s3 s3-advanced sqs ssm exam details ...</description>
-    <pubDate>Thu, 16 May 2024 23:55:57 GMT</pubDate>
-  </item><item>
-    <title>Information Technology</title>
-    <link>https://quartz.jzhao.xyz/Information-Technology/Information-Technology</link>
-    <guid>https://quartz.jzhao.xyz/Information-Technology/Information-Technology</guid>
-    <description>...</description>
-    <pubDate>Thu, 16 May 2024 23:55:57 GMT</pubDate>
-  </item><item>
-    <title>Historical</title>
-    <link>https://quartz.jzhao.xyz/Historical/Historical</link>
-    <guid>https://quartz.jzhao.xyz/Historical/Historical</guid>
-    <description> Art Movements Tech History .</description>
-    <pubDate>Thu, 16 May 2024 23:55:57 GMT</pubDate>
-  </item><item>
-    <title>Unsorted Items</title>
-    <link>https://quartz.jzhao.xyz/Unsorted-Items/Unsorted-Items</link>
-    <guid>https://quartz.jzhao.xyz/Unsorted-Items/Unsorted-Items</guid>
-    <description>Unsorted Items Actuator Ada Lovelace Alan Turing Apache ActiveMQ Apache Cassandra Apache Kafka Aplastic Anemia Apple II Apple, Inc. Bosnia-Herzegovina Bus (computing) C programming language Cache (computing) Central Processing Unit Chernobyl Disaster Complex instruction set computer Computer Architecture Computer memory Computer science Computer Computing cryptoprocessor Cyrillic Script DOS dynamic random-access memory (DRAM) Eastern Bloc Eurasia February Revolution File Allocation Table Fire OS Floating-point arithmetic Floppy Disk FreeBSD Friedrich Engels Gavrilo Princip Genomics Graphics Processing Unit HTTP Live Streaming Hypervisor IBM Personal Computer IBM Industry Standard Architecture Internet of Things Internet iOS iPadOS Jeopardy Wrongs John Williams (author) Joseph Stalin Karl Marx Kubernetes Leon Trotsky Local bus Macintosh operating system Macintosh System Software Macintosh Marie Curie Mensheviks Microarchitecture microprocessor Microsoft Hyper-V MS-DOS Neural Network New Technology File System NeXTSTEP October Revolution Operating System Paradigm PCI Peripheral Component Interconnect Personal Computer Power adaptor voltage reasoning PowerPC Processor Architecture RabbitMQ Real-Time Messaging Protocol Real-Time Operating System Redis Reduced instruction set computer Research Unix Runtime System Soviet Union Steve Jobs Steve Wozniak Stream Control Transmission Protocol Sun Microsystems SunOS synchronous vs asynchronous approaches to input-output The Communist Manifesto tvOS Universal Serial Bus Unix-like operating system Untitled 1 Untitled 2 Untitled Vladimir Lenin Voice over Internet Protocol Warsaw Pact Windows 8 Windows NT Windows Server Windows XP x86 .</description>
-    <pubDate>Thu, 16 May 2024 23:55:57 GMT</pubDate>
-  </item><item>
-    <title>People</title>
-    <link>https://quartz.jzhao.xyz/People/People</link>
-    <guid>https://quartz.jzhao.xyz/People/People</guid>
-    <description> Fridtjof Nansen H. G. Wells John Keats Nansen and Peary Robert Edwin Peary Virgil (Roman) .</description>
-    <pubDate>Thu, 16 May 2024 23:55:57 GMT</pubDate>
-  </item><item>
-    <title>Flashcards</title>
-    <link>https://quartz.jzhao.xyz/SAA-C03-Exam/Flashcards</link>
-    <guid>https://quartz.jzhao.xyz/SAA-C03-Exam/Flashcards</guid>
-    <description>Deck 1 deck1 Cloud Formation does not have any additional cost but you are charged for the underlying resources it builds. ::: You have five CloudFormation templates; each template is for a different application architecture.</description>
-    <pubDate>Thu, 16 May 2024 23:55:57 GMT</pubDate>
-  </item><item>
-    <title>Udemy SAA course</title>
-    <link>https://quartz.jzhao.xyz/SAA-C03-Exam/Udemy-SAA-course/Udemy-SAA-course</link>
-    <guid>https://quartz.jzhao.xyz/SAA-C03-Exam/Udemy-SAA-course/Udemy-SAA-course</guid>
-    <description>Overview Key words.</description>
-    <pubDate>Thu, 16 May 2024 23:55:57 GMT</pubDate>
-  </item><item>
-    <title>SAA Exam Alerts</title>
-    <link>https://quartz.jzhao.xyz/SAA-C03-Exam/SAA-Exam-Alerts</link>
-    <guid>https://quartz.jzhao.xyz/SAA-C03-Exam/SAA-Exam-Alerts</guid>
-    <description>SAA Exam Alerts saa_exam_alerts .</description>
-    <pubDate>Thu, 16 May 2024 23:55:57 GMT</pubDate>
-  </item><item>
-    <title>Ada Lovelace</title>
-    <link>https://quartz.jzhao.xyz/Unsorted-Items/Ada-Lovelace</link>
-    <guid>https://quartz.jzhao.xyz/Unsorted-Items/Ada-Lovelace</guid>
-    <description>Overview Augusta Ada King, Countess of Lovelace (née Byron; 10 December 1815 – 27 November 1852) was an English mathematician and writer, chiefly known for her work on Charles Babbage’s ...</description>
-    <pubDate>Thu, 16 May 2024 23:55:57 GMT</pubDate>
-  </item>
+      
     </channel>
   </rss>
