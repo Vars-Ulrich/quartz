@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/ApplicationCostProfiler.svg
+icon: AiApplicationCostProfiler
 ---
 ## Overview
 The AWS Application Cost Profiler is a service that helps you understand and manage the costs associated with multi-tenant applications by tracking the consumption of shared AWS resources. This service enables organizations, particularly Independent Software Vendors (ISVs), to get detailed, tenant-specific cost breakdowns. This can help in understanding the gross margin per tenant and improving profitability through better cost allocation and pricing strategies.

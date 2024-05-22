@@ -1,6 +1,6 @@
 ---
 aliases: 
-icon:
+icon: MiPerson
 ---
 %% Begin Waypoint %%
 - [[Fridtjof Nansen]]

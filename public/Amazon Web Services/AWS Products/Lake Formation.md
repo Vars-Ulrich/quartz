@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/LakeFormation.svg
+icon: AiLakeFormation
 ---
 # Overview
 

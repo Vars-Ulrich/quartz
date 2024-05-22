@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/Lightsail.svg
+icon: AiLightsail
 ---
 # Lightsail
 Amazon Lightsail is designed to be the easiest way to launch and manage a virtual private server with AWS. Lightsail plans include everything you need to jumpstart your project – a virtual machine, SSD- based storage, data transfer, DNS management, and a static IP address – for a low, predictable price. It is not used to run batch jobs.

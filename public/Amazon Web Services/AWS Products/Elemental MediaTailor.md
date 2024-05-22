@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/ElementalMediaTailor.svg
+icon: AiElementalMediaTailor
 ---
 # Overview
 

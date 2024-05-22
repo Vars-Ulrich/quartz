@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/VirtualPrivateCloud.svg
+icon: AiVirtualPrivateCloud
 aliases:
   - VPC
 ---

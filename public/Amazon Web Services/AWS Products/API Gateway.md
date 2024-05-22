@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/APIGateway.svg
+icon: AiAPIGateway
 ---
 # Overview
 - Fully Managed

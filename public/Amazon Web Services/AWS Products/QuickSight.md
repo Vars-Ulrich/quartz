@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/QuickSight.svg
+icon: AiQuickSight
 ---
 # Overview
 

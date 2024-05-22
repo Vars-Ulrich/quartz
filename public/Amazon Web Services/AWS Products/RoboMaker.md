@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/RoboMaker.svg
+icon: AiRoboMaker
 ---
 # Overview
 

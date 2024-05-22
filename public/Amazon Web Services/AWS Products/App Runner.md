@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/AppRunner.svg
+icon: AiAppRunner
 ---
 # Overview
 AWS App Runner is a fully managed service provided by Amazon Web Services that simplifies the process of deploying and running containerized web applications and APIs at scale. It abstracts away much of the underlying infrastructure management, allowing developers to focus on writing code without worrying about the operational aspects of deploying and maintaining it. Here's an overview of its key features, benefits, and use cases:

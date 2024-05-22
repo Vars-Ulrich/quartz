@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/IoTAnalytics.svg
+icon: AiIoTAnalytics
 ---
 # Overview
 

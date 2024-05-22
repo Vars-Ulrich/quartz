@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/SystemsManager.svg
+icon: AiSystemsManager
 ---
 # Systems Manager
 Systems Manager provides a unified user interface so you can view operational data from multiple AWS services and allows you to automate operational tasks across your AWS resources. With Systems Manager, you can group resources, like Amazon EC2 instances, [[Simple Storage Service|Amazon S3]] buckets, or [[Relational Database Service|Amazon RDS]] instances, by application, view operational data for monitoring and troubleshooting, and take action on your groups of resources. You cannot use Systems Manager to share the reserved EC2 instances amongst multiple AWS accounts.

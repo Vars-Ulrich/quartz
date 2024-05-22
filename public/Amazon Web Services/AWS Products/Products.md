@@ -1,4 +1,5 @@
 ---
+icon: AiProducts
 _filters: []
 _contexts: []
 _links: []

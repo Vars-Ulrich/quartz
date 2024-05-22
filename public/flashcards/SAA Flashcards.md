@@ -1,36 +1,174 @@
-## Deck 1
-#deck1
-Cloud Formation does not have any additional cost but you are charged for the underlying resources it builds. ::: You have five CloudFormation templates; each template is for a different application architecture. This architecture varies between your blog apps and your gaming apps. What determines the cost of using the CloudFormation templates?
+---
+title: 
+tags: 
+icon: 
+aliases: 
+---
+## Main Deck
 
-TCP ::: If you want to use an SSL protocol but do not want to terminate the connection on your load balancer, you can use a __________ protocol for connection from the client to your load balancer.
+#flashcards/saa 
 
-Amazon AWS DevPay and Amazon AWS FPS ::: If you want to build your own payments application, then you should take advantage of the richness and flexibility of _____________.
+How many dimensions can you have per cloudwatch metric? :: There are **up to 30 dimensions per metric**
+<!--SR:!2024-05-21,3,252-->
 
-A single Amazon S3 bucket ::: You are building an automated transcription service in which "Amazon EC2 worker" instances process an uploaded audio file and generate a text file. You must store both of these files in the same durable storage until the text file is retrieved, but you do not know what the storage capacity requirements are. Which storage option is both cost-efficient and scalable?
+When being asked about improving performance for applications over TCP or UDP think... :: [[Global Accelerator]]
+<!--SR:!2024-05-19,1,232-->
 
-Reference the logical IDs of both the block stores and the instance ::: If you want to map Amazon Elastic Block Store to an Amazon EC2 instance for AWS CloudFormation resources?
+Which data sources are supported by GuardDuty? :: VPC Flow Logs, DNS Logs, CloudTrail events 
+
+Scenarios necessitating serverless architecture wont include what AWS product? :: EC2
+
+How many messages per second are supported by SQS FIFO? :: 300
+<!--SR:!2024-05-22,4,272-->
+
+How many batch messages per operation are supported by SQS FIFO :: 10
+<!--SR:!2024-05-21,3,252-->
+
+EC2 Spot Blocks can be used for up to how long? :: 6 hours
+<!--SR:!2024-05-21,3,252-->
+
+RDS Multi-AZ follows what kind of replication? :: Synchronous
+<!--SR:!2024-05-21,3,252-->
+
+RDS Read-replicas follow what kind of replication? :: Asynchronous
+<!--SR:!2024-05-21,3,252-->
+
+AWS Lamda Currently supports how many concurrent executions per AWS account per region? :: 1000
+<!--SR:!2024-05-21,3,252-->
+
+if exam is asking you for a caching solution that does not require a code change then what is definitely not a good choice :: [[ElastiCache]] needs 
+
+True or false: You can use SQL on [[ElastiCache]].  :: False. ElastiCache is not compatible with SQL
+<!--SR:!2024-05-21,3,252-->
+
+Any time that you see that you need to rapidly evolve schemas/have a flexible type of database schema, a great choice would be... :: [[DynamoDB]]
+<!--SR:!2024-05-22,4,272-->
+
+If you encounter an exam question, it's asking about a dynamo DB implementation that is capable of microsecond read latency, you come to mind? :: A [[DynamoDB#Dynamo DB accelerator (DAX)|DynamoDB Accelerator (DAX)]]  cluster can be used as a read cache, providing miscrosecond latency
+<!--SR:!2024-05-19,1,230-->
+
+Which database option is ideal for serverless app development use cases that use small documents or for a distributed serverless cache? :: [[DynamoDB]]
+<!--SR:!2024-05-19,1,232-->
+
+What is the max object size that can be stored using [[Simple Storage Service|S3]]? :: 5 terabytes is the max object size for storage in [[Simple Storage Service|S3]]
+
+when the exam presents a scenario with a need for NoSQL databases, you should be thinking? (2) :: [[DocumentDB]] and [[DynamoDB]]
+<!--SR:!2024-05-21,3,252-->
+
+When you see something related to graph databases, think... :: [[Neptune]]
+<!--SR:!2024-05-22,4,272-->
+
+Any time you see Apache Cassandra or the Cassandra Query Language (CQL), think [[Keyspaces]]
+
+Any time you see financial transactions and "ledger" think... :: [[Quantum Ledger Database|QLDB]]
+<!--SR:!2024-05-19,1,232-->
+
+Which AWS databases support both in-transit and at-rest encryption? :: All of AWS database options are capable of encryption in-transit and at-rest.
+
+Which database helps you store relational datasets, with SQL language compatibility and the capability of processing transactions such as insert, update, and delete? :: [[Relational Database Service]]
+
+Which AWS service provides you with caching capability that is compatible with Redis API? :: [[ElastiCache]]
+
+You want to migrate an on-premises MongoDB NoSQL database to AWS. You don't want to manage any database servers, so you want to use a managed NoSQL Serverless database, that provides you with high availability, durability, and reliability, and the capability to take your database global. Which database should you choose? :: [[DynamoDB]]
+<!--SR:!2024-05-19,1,232-->
+
+You are looking to perform Online Transaction Processing (OLTP). You would like to use a database that has built-in auto-scaling capabilities and provides you with the maximum number of replicas for its underlying storage. What AWS service do you recommend? :: [[Aurora]]
+<!--SR:!2024-05-21,3,252-->
+
+As a Solutions Architect, a startup company asked you for help as they are working on an architecture for a social media website where users can be friends with each other, and like each other's posts. The company plan on performing some complicated queries such as _"What are the number of likes on the posts that have been posted by the friends of Mike?"_. Which database do you recommend?  :: [[Neptune]]
+<!--SR:!2024-05-21,3,252-->
+
+You have a set of files, 100MB each, that you want to store in a reliable and durable key-value store. Which AWS service do you recommend? :: [[Simple Storage Service|S3]] is a key-value store (where the key is the full path of the object in the bucket)
+<!--SR:!2024-05-22,4,272-->
+
+A company has an on-premises website that uses ReactJS as its frontend, NodeJS as its backend, and MongoDB for the database. There are some issues with the self-hosted MongoDB database as there is a lot of maintenance required and they don’t have and can’t afford the resources or experience to handle those issues. So, a decision was made to migrate the website to AWS. They have decided to host the frontend ReactJS application in an S3 bucket and the NodeJS backend on a set of EC2 instances. Which AWS service can they use to migrate the MongoDB database that provides them with high scalability and availability without making any code changes? :: [[DocumentDB]]
+<!--SR:!2024-05-21,3,250-->
+
+A company using a self-hosted on-premises Apache Cassandra database which they want to migrate to AWS. Which AWS service can they use which provides them with a fully managed, highly available, and scalable Apache Cassandra database? :: [[Keyspaces]]
+
+An online payment company is using AWS to host its infrastructure. Due to the application’s nature, they have a strict requirement to store an accurate record of financial transactions such as credit and debit transactions. Those transactions must be stored in secured, immutable, encrypted storage which can be cryptographically verified. Which AWS service is best suited for this use case? :: [[Quantum Ledger Database]]
+
+A startup is working on developing a new project to reduce forest fires due to climate change. The startup is developing sensors that will be spread across the entire forest to make some readings such as temperature, humidity, and pressures which will help detect the forest fires before it happens. They are going to have thousands of sensors that are going to store a lot of readings each second. There is a requirement to store those readings and do fast analytics so they can predict if there is a fire. Which AWS service can they use to store those readings? :: [[Timestream]]
+
+Any time you need to analyze data in S3 using a serverless SQL engine, think... : [[Athena]]
+
+[[CloudFormation]] does not have any additional cost but you are charged for the underlying resources it builds. ::: You have five [[CloudFormation]] templates; each template is for a different application architecture. This architecture varies between your blog apps and your gaming apps. What determines the cost of using the CloudFormation templates?
+<!--SR:!2000-01-01,1,250!2024-05-22,4,272-->
+
+[[Transmission Control Protocol|TCP]] ::: If you want to use an [[Secure Sockets Layer|SSL]] protocol but do not want to terminate the connection on your load balancer, you can use a __________ protocol for connection from the client to your load balancer.
+<!--SR:!2000-01-01,1,250!2024-05-21,3,252-->
+
+A single Amazon [[Simple Storage Service|S3]] bucket ::: You are building an automated transcription service in which "Amazon EC2 worker" instances process an uploaded audio file and generate a text file. You must storer retrieved, but you do not know what the storage capacity requirements  both of these files in the same durable storage until the text file is are. Which storage option is both cost-efficient and scalable?
+<!--SR:!2024-05-19,1,232!2024-05-22,4,270-->
 
 Multiple Availability Zones ::: In the event of a planned or an unplanned outage of your primary DB instance, Amazon RDS automatically switches to a standby replica in another Availability Zone if you have enabled_________.
 
 Maintain two snapshots: the original snapshot and the latest incremental snapshot. ::: Which of the following approaches provides the lowest cost for Amazon elastic block store snapshots while giving you the ability to fully restore data?
-
-Subnet ::: In a VPC network, access control lists (ACLs) act as a firewall for associated subnets, controlling both inbound and outbound traffic at the __________ level.
+<!--SR:!2000-01-01,1,250!2024-05-21,3,252-->
 
 It will not return any data as the dimension for Box=UAT does not exist ::: A user has created multiple data points for the CloudWatch metrics with the dimensions, Box=UAT, App = Document and Box = UAT, App = Notes. If the user queries CloudWatch with the dimensions parameter as, Server=prod, what data will he get?
 
 Versioning is not enabled on that bucket. ::: You try to enable lifecycle policies on one of the S3 buckets created by you, but you are not able to do so on that particular bucket. What could be the reason?
-
-Elastic Network Interface ::: Each EC2 instance has a default network interface that is assigned a primary private IP address on your Amazon VPC network. What is the name given to the additional network interfaces that can be created and attached to any Amazon EC2 instance in your VPC?
+<!--SR:!2024-05-21,3,252!2024-05-21,3,252-->
 
 AWS: secure transport ::: Which IAM policy condition key should be used if you want to check whether the request was sent using SSL?
+<!--SR:!2024-05-21,3,252!2000-01-01,1,250-->
 
 Allow users to use actions that start with 'Describe' across all the EC2 resources. ::: What does the following policy for Amazon EC2 do? { "Statement": [{ "Effect":"Allow", "Action":"ec2: Describe*", "Resource":"*" }
+<!--SR:!2024-05-19,1,232!2024-05-19,1,232-->
 
-To create an Amazon EBS-backed AMI from an Amazon EBS-backed instance that is either running or has stopped ::: For what purpose is the string "create image" API action used?
+To create an Amazon [[Elastic Block Store|EBS-backed]] from an Amazon EBS-backed instance that is either running or has stopped ::: For what purpose is the string "create image" API action used?
+<!--SR:!2024-05-22,4,270!2000-01-01,1,250-->
 
-dedicated instance ::: If you launch an instance into a VPC that has an instance tenancy of a ______________, your instance is automatically a Dedicated Instance, regardless of the tenancy of the instance
+dedicated instance ::: If you launch an instance into a [[Virtual Private Cloud|VPC]] that has an <mark style="background: #FFB8EBA6;">instance tenancy</mark> of a ______________, your instance is automatically a Dedicated Instance, regardless of the tenancy of the instance
+
+This is a serverless query service used to analyze data stored on [[Simple Storage Service|S3]]. :: [[Athena]]
+
+What language is used by [[Athena]] to query files? :: [[Athena]] uses standard SQL language to query files.
+
+What other AWS service is Athena commonly used with for the purpose of reporting/dashboards?  :: [[QuickSight]]. 
+
+
+
+
+
+## Other decks
+
+
+```
+#### other 1
+
+
+
+
+Amazon AWS DevPay and Amazon AWS FPS ::: If you want to build your own payments application, then you should take advantage of the richness and flexibility of _____________.
+
+
+
+Reference the logical IDs of both the block stores and the instance ::: If you want to map Amazon Elastic Block Store to an Amazon EC2 instance for AWS CloudFormation resources?
+
+
+
+
+
+Subnet ::: In a VPC network, access control lists (ACLs) act as a firewall for associated subnets, controlling both inbound and outbound traffic at the __________ level.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 1, 1 MB ::: In DynamoDB you can issue a scan request. By default, the scan operation processes data sequentially. DynamoDB returns data to the application in _________ increments, and an application performs additional scan operations to retrieve the next ___________ of data
+
+
 
 Amazon Resource Names ::: AWS requires ____________ when you need to specify a resource uniquely across all of AWS, such as in IAM policies, Amazon Relational Database Service (Amazon RDS) tags, and API calls.
 
@@ -124,10 +262,7 @@ AWS S3 ::: www.picnic.com is a photo and video hosting website and they have mil
 Verify that the private key file corresponds to the Amazon EC2 key pair assigned at launch, Verify that you are connecting with the appropriate user name for your AMI. ::: You try to connect via SSH to a newly created Amazon EC2 instance and get one of the following error messages: 'Network error: connection timed out" or "Error connecting to [instance], reason :-> Connection timed out: connect,' you have confirmed that the network and security group rules are configured correctly and the instance is passing status checks. What steps should you take to identify the source of the behavior? (Select all that apply)
 
 5 ::: With regards to VPC, what is the default maximum number of virtual private gateways allowed per region?
-## Deck 2
-
-#saa 
-#deck2
+#### other 2
 
 VPC :: *Virtual Private Cloud*
 
@@ -590,71 +725,11 @@ S3 - Pre-Signed URLs :: A __________ URL provides access to an object without re
 When you create a __________ URL, you must provide your security credentials, specify a bucket name, an object key, an HTTP method, and an expiration date and time. 
 The pre-signed URL is valid only for the specified duration.
 
-## Deck 3
-#deck3
-How many dimensions can you have per cloudwatch metric? :: There are **up to 30 dimensions per metric**
-
-When being asked about improving performance for applications over TCP or UDP think... :: [[Global Accelerator]]
-
-Which data sources are supported by GuardDuty? :: VPC Flow Logs, DNS Logs, CloudTrail events 
-
-Scenarios necessitating serverless architecture wont include what AWS product? :: EC2
-
-How many messages per second are supported by SQS FIFO? :: 300
-
-How many batch messages per operation are supported by SQS FIFO :: 10
-
-EC2 Spot Blocks can be used for up to how long? :: 6 hours
-
-RDS Multi-AZ follows what kind of replication? :: Synchronous
-
-RDS Read-replicas follow what kind of replication? :: Asynchronous
-
-AWS Lamda Currently supports how many concurrent executions per AWS account per region? :: 1000
-
-if exam is asking you for a caching solution that does not require a code change then what is definitely not a good choice :: [[ElastiCache]] needs 
-
-True or false: You can use SQL on [[ElastiCache]].  :: False. ElastiCache is not compatible with SQL
-
-Any time that you see that you need to rapidly evolve schemas/have a flexible type of database schema, a great choice would be... :: [[DynamoDB]]
-
-If you encounter an exam question, it's asking about a dynamo DB implementation that is capable of microsecond read latency, you come to mind? :: A [[DynamoDB#Dynamo DB accelerator (DAX)|DynamoDB Accelerator (DAX)]]  cluster can be used as a read cache, providing miscrosecond latency
-
-Which database option is ideal for serverless app development use cases that use small documents or for a distributed serverless cache? :: [[DynamoDB]]
-
-What is the max object size that can be stored using [[Simple Storage Service|S3]]? :: 5 terabytes is the max object size for storage in [[Simple Storage Service|S3]]
-
-when the exam presents a scenario with a need for NoSQL databases, you should be thinking? (2) :: [[DocumentDB]] and [[DynamoDB]]
-
-When you see something related to graph databases, think... :: [[Neptune]]
-
-Any time you see Apache Cassandra or the Cassandra Query Language (CQL), think [[Keyspaces]]
-
-Any time you see financial transactions and "ledger" think... :: [[Quantum Ledger Database|QLDB]]
-
-Which AWS databases support both in-transit and at-rest encryption? :: All of AWS database options are capable of encryption in-transit and at-rest.
-
-Which database helps you store relational datasets, with SQL language compatibility and the capability of processing transactions such as insert, update, and delete? :: [[Relational Database Service]]
-
-Which AWS service provides you with caching capability that is compatible with Redis API? :: [[ElastiCache]]
-
-You want to migrate an on-premises MongoDB NoSQL database to AWS. You don't want to manage any database servers, so you want to use a managed NoSQL Serverless database, that provides you with high availability, durability, and reliability, and the capability to take your database global. Which database should you choose? :: [[DynamoDB]]
-
-You are looking to perform Online Transaction Processing (OLTP). You would like to use a database that has built-in auto-scaling capabilities and provides you with the maximum number of replicas for its underlying storage. What AWS service do you recommend? :: [[Aurora]]
-
-As a Solutions Architect, a startup company asked you for help as they are working on an architecture for a social media website where users can be friends with each other, and like each other's posts. The company plan on performing some complicated queries such as _"What are the number of likes on the posts that have been posted by the friends of Mike?"_. Which database do you recommend?  :: [[Neptune]]
-
-You have a set of files, 100MB each, that you want to store in a reliable and durable key-value store. Which AWS service do you recommend? :: [[Simple Storage Service|S3]] is a key-value store (where the key is the full path of the object in the bucket)
-
-A company has an on-premises website that uses ReactJS as its frontend, NodeJS as its backend, and MongoDB for the database. There are some issues with the self-hosted MongoDB database as there is a lot of maintenance required and they don’t have and can’t afford the resources or experience to handle those issues. So, a decision was made to migrate the website to AWS. They have decided to host the frontend ReactJS application in an S3 bucket and the NodeJS backend on a set of EC2 instances. Which AWS service can they use to migrate the MongoDB database that provides them with high scalability and availability without making any code changes? :: [[DocumentDB]]
-
-A company using a self-hosted on-premises Apache Cassandra database which they want to migrate to AWS. Which AWS service can they use which provides them with a fully managed, highly available, and scalable Apache Cassandra database? :: [[Keyspaces]]
-
-An online payment company is using AWS to host its infrastructure. Due to the application’s nature, they have a strict requirement to store an accurate record of financial transactions such as credit and debit transactions. Those transactions must be stored in secured, immutable, encrypted storage which can be cryptographically verified. Which AWS service is best suited for this use case? :: [[Quantum Ledger Database]]
-
-A startup is working on developing a new project to reduce forest fires due to climate change. The startup is developing sensors that will be spread across the entire forest to make some readings such as temperature, humidity, and pressures which will help detect the forest fires before it happens. They are going to have thousands of sensors that are going to store a lot of readings each second. There is a requirement to store those readings and do fast analytics so they can predict if there is a fire. Which AWS service can they use to store those readings? :: [[Timestream]]
-
-Any time you need to analyze data in S3 using a serverless SQL engine, think... : [[Athena]]
+```
 
 
-## Deck 4
+
+```
+
+
+

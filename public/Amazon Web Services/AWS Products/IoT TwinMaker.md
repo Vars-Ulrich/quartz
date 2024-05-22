@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/IoTTwinMaker.svg
+icon: AiIoTTwinMaker
 ---
 # Overview
 

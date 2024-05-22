@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/MemoryDBForRedis.svg
+icon: AiMemoryDBForRedis
 ---
 # Overview
 

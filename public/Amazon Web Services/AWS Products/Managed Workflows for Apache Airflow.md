@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/ManagedWorkflowsForApacheAirflow.svg
+icon: AiManagedWorkflowsForApacheAirflow
 ---
 # Overview
 

@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/Organizations.svg
+icon: AiOrganizations
 ---
 # Organizations
 

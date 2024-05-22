@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/Glue.svg
+icon: AiGlue
 ---
 # Overview
 

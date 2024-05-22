@@ -1,3 +1,3 @@
 ---
-sticker: vault//Media/icons/aws-icons/ECSAnywhere.svg
+icon: AiECSAnywhere
 ---

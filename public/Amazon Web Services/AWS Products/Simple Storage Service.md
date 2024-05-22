@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/SimpleStorageService.svg
+icon: AiSimpleStorageService
 aliases:
   - S3
   - Amazon S3

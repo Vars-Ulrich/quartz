@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/AugmentedAIA2I.svg
+icon: AiAugmentedAIA2I
 aliases:
   - A2I
 ---

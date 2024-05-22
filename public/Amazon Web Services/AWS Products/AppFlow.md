@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/AppFlow.svg
+icon: AiAppFlow
 ---
 # Overview
 AWS AppFlow is a fully managed integration service that enables you to securely transfer data between [[Software-as-a-Service]] (SaaS) applications like Salesforce, Slack, and ServiceNow, and AWS services like [[Simple Storage Service|Amazon S3]] and [[Redshift|Amazon Redshift]], as well as custom APIs. It is designed to simplify data flows and automate data integration tasks, making it an excellent tool for building data pipelines without writing custom code.

@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/CloudDirectory.svg
+icon: AiCloudDirectory
 ---
 # Overview
 AWS Cloud Directory is a highly scalable, fully managed directory service provided by Amazon Web Services that enables developers to build flexible, cloud-native directories for organizing hierarchies of data along multiple dimensions. Unlike traditional directory services that are restricted to a single hierarchical data model (like [[Lightweight Directory Access Protocol|LDAP]] or [[Active Directory]]), Cloud Directory supports [[Multiple Hierarchical|multiple hierarchies]], creating more versatile and complex relationships between data items.

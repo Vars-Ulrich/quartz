@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/CostAndUsageReport.svg
+icon: AiCostAndUsageReport
 ---
 # Overview
 - Contains **most comprehensive** set of cost and usage data available

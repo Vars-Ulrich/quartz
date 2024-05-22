@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/BackintAgent.svg
+icon: AiBackintAgent
 ---
 # Overview
 

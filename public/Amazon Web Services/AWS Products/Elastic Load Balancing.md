@@ -1,6 +1,7 @@
 ---
-sticker: vault//Media/icons/aws-icons/ElasticLoadBalancing.svg
+icon: AiElasticLoadBalancing
 aliases:
+- ELB
 ---
 # Elastic Load Balancing (ELB)
 

@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/TorchServe.svg
+icon: AiTorchServe
 ---
 # Overview
 

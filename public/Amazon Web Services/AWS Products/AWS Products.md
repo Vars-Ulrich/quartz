@@ -105,7 +105,7 @@
 - [[Elastic File System (EFS)]]
 - [[Elastic Inference]]
 - [[Elastic Kubernetes Service]]
-- [[Elastic Load Balancing (ELB)]]
+- [[Elastic Load Balancing]]
 - [[Elastic MapReduce (EMR)]]
 - [[Elastic Transcoder]]
 - [[ElastiCache]]

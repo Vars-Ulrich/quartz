@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/Redshift.svg
+icon: AiRedshift
 ---
 # Redshift
 Amazon Redshift is a fully-mannaged

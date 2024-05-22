@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/SecretsManager.svg
+icon: AiSecretsManager
 ---
 # Overview 
 - helps you protect secrets needed to access your applications services and IT resources

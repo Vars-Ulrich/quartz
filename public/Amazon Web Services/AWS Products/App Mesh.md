@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/AppMesh.svg
+icon: AiAppMesh
 ---
 # Overview
   

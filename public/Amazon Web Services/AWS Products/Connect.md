@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/Connect.svg
+icon: AiConnect
 ---
 # Overview
 

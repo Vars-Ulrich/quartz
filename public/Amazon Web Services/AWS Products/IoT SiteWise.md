@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/IoTSiteWise.svg
+icon: AiIoTSiteWise
 ---
 # Overview
 

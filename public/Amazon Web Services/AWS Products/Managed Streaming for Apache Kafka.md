@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/ManagedStreamingForApacheKafka.svg
+icon: AiManagedStreamingForApacheKafka
 aliases:
   - MSK
 ---

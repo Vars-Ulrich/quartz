@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/Budgets.svg
+icon: AiBudgets
 ---
 
 # Overview

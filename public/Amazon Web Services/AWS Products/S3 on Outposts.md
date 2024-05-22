@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/S3OnOutposts.svg
+icon: AiS3OnOutposts
 ---
 # Overview
 

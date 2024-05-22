@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/SimpleQueueService.svg
+icon: AiSimpleQueueService
 aliases:
   - SQS
 ---

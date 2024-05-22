@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/AppStream.svg
+icon: AiAppStream
 aliases:
   - AppStream 2.0
 ---

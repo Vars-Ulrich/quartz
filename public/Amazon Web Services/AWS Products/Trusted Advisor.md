@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/TrustedAdvisor.svg
+icon: AiTrustedAdvisor
 ---
 # Trusted Advisor
 AWS Trusted Advisor is an online tool that provides you real-time guidance to help you provision your resources following AWS best practices on cost optimization, security, fault tolerance, service limits, and performance improvement. You cannot use Trusted Advisor to share the reserved EC2 instances amongst multiple AWS accounts.

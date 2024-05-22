@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/SimpleNotificationService.svg
+icon: AiSimpleNotificationService
 aliases:
   - SNS
 ---

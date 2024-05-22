@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/Shield.svg
+icon: AiShield
 ---
 # Overview
 

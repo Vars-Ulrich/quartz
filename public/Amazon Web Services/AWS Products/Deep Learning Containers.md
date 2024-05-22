@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/DeepLearningContainers.svg
+icon: AiDeepLearningContainers
 ---
 # Overview
 

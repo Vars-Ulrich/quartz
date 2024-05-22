@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/ElasticBlockStore.svg
+icon: AiElasticBlockStore
 aliases:
   - EBS
 ---

@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/Omics.svg
+icon: AiOmics
 ---
 # Overview
 

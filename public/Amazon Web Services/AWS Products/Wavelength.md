@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/Wavelength.svg
+icon: AiWavelength
 ---
 # Overview
 

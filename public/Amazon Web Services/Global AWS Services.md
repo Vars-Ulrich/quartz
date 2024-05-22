@@ -1,8 +1,6 @@
 ---
-undefined: ""
-sticker: emoji//1f310
-color: ""
-aliases: []
+title: 
+icon: 
 ---
 ## These AWS products are global in scope
 

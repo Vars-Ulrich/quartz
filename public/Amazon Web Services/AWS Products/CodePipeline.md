@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/CodePipeline.svg
+icon: AiCodePipeline
 ---
 # Overview
 AWS CodePipeline is a continuous delivery service that enables you to model, visualize, and automate the steps required to release your software. With AWS CodePipeline, you model the full release process for building your code, deploying to pre-production environments, testing your application and releasing it to

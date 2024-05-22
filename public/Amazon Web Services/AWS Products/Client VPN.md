@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/ClientVPN.svg
+icon: AiClientVPN
 ---
 # Overview
 

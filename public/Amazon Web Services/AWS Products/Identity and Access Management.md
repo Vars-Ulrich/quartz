@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/IdentityAndAccessManagement.svg
+icon: AiIdentityAndAccessManagement
 aliases:
   - IAM
 ---

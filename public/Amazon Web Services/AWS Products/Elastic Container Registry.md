@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/ElasticContainerRegistry.svg
+icon: AiElasticContainerRegistry
 aliases:
   - ECR
 ---

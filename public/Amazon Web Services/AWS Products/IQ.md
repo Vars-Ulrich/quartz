@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/IQ.svg
+icon: AiIQ
 ---
 AWS IQ is a service offered by Amazon Web Services (AWS) that connects customers with AWS Certified experts for on-demand project work, consulting engagements, and ongoing support. It provides customers with access to a network of skilled professionals who can help with a wide range of AWS-related tasks, from architecture design and implementation to troubleshooting and optimization.
 

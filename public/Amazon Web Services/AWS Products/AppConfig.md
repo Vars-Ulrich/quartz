@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/AppConfig.svg
+icon: AiAppConfig
 ---
 # Overview
 AWS AppConfig is a capability of AWS Systems Manager that helps you manage configurations for your applications separately from the application code. This service is designed to enable controlled configuration deployments to applications at runtime, which is particularly useful for managing feature toggles, A/B testing configurations, and more. Here’s an overview of its key features, benefits, and how it operates:

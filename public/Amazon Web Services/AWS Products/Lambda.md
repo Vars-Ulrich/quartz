@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/Lambda.svg
+icon: AiLambda
 ---
 # Overview
 lets you run code without provisioning or managing servers

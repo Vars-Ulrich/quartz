@@ -8,10 +8,10 @@ _sort:
 color: var(--mk-color-blue)
 icon: MiSaaBadge
 ---
-# Overview ;;bad
+# Overview
 
 %% Begin Waypoint %%
-- [[Flashcards]]
+- [[public/SAA-C03 Exam/Decks]]
 - [[SAA Exam Alerts]]
 - **[[Udemy SAA course]]**
 	- **Course Code**
@@ -52,4 +52,3 @@ icon: MiSaaBadge
 [Architecture Center](https://aws.amazon.com/architecture/?nc1=f_cc)
 
 
-# [[Flashcards]]

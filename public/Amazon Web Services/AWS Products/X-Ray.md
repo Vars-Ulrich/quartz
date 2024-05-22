@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/XRay.svg
+icon: AiXRay
 ---
 # Overview
 

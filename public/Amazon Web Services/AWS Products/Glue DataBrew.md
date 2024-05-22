@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/GlueDataBrew.svg
+icon: AiGlueDataBrew
 ---
 # Overview
 

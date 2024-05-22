@@ -1,4 +1,5 @@
 # VPN
+icon: AiVPN
 Site-to-Site VPN
 
 Consists of the following components

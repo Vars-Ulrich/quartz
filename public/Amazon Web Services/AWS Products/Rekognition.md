@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/Rekognition.svg
+icon: AiRekognition
 ---
 # Rekognition
 Regional in scope

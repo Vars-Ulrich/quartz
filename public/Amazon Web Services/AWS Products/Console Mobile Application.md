@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/ConsoleMobileApplication.svg
+icon: AiConsoleMobileApplication
 ---
 # Overview
 

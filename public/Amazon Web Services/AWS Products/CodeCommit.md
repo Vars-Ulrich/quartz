@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/CodeCommit.svg
+icon: AiCodeCommit
 ---
 # Overview
 AWS CodeCommit is a fully-managed source control service that hosts secure Git-based repositories. It makes it easy for teams to collaborate on code in a secure and highly scalable ecosystem.

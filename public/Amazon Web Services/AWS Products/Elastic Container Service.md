@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/ElasticContainerService.svg
+icon: AiElasticContainerService
 aliases:
   - ECS
 ---

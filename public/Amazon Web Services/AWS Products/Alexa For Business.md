@@ -1,5 +1,5 @@
 ---
-sticker:
+icon: AiAlexaForBusiness
 ---
 # Overview
   

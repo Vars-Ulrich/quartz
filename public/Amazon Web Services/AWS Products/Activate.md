@@ -1,7 +1,6 @@
 ---
-sticker: 
-icon: AiActivate
 title: Activate
+icon: AiActivate
 ---
  
 # Overview 

@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/DatabaseMigrationService.svg
+icon: AiDatabaseMigrationService
 aliases:
   - DMS
 ---

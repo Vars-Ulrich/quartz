@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/FraudDetector.svg
+icon: AiFraudDetector
 ---
 # Overview
 

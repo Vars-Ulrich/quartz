@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/ManagedServiceForPrometheus.svg
+icon: AiManagedServiceForPrometheus
 ---
 # Overview
 

@@ -1,12 +1,17 @@
+---
+icon: MiWhiteQuestionMark
+---
 # [[Unsorted Items]]
-
 %% Begin Waypoint %%
 - [[Actuator]]
 - [[Ada Lovelace]]
 - [[Alan Turing]]
 - [[Apache ActiveMQ]]
 - [[Apache Cassandra]]
+- [[Apache Hadoop]]
 - [[Apache Kafka]]
+- [[Apache ORC]]
+- [[Apache Parquet]]
 - [[Aplastic Anemia]]
 - [[Apple II]]
 - [[Apple, Inc.]]

@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/FSxForWFS.svg
+icon: AiFSxForWFS
 ---
 # Overview
 

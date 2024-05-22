@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/ApplicationComposer.svg
+icon: AiApplicationComposer
 ---
 ## Overview
 AWS Application Composer is a visual development tool designed to help you quickly build and configure serverless applications on AWS. It simplifies the process of creating applications by allowing you to drag and drop AWS services into a visual canvas, where you can easily connect and configure them without needing deep expertise in AWS CloudFormation.

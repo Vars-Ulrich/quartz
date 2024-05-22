@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/Detective.svg
+icon: AiDetective
 ---
 # Overview
 

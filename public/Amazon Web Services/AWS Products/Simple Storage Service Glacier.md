@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/SimpleStorageServiceGlacier.svg
+icon: AiSimpleStorageServiceGlacier
 aliases:
   - S3 Glacier
 ---

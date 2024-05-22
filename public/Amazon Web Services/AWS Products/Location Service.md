@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/LocationService.svg
+icon: AiLocationService
 ---
 # Overview
 

@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/Chatbot.svg
+icon: AiChatbot
 ---
 # Overview
 

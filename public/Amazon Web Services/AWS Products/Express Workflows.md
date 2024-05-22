@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/ExpressWorkflows.svg
+icon: AiExpressWorkflows
 ---
 # Overview
 

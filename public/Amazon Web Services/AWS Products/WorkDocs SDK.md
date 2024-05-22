@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/WorkDocsSDK.svg
+icon: AiWorkDocsSDK
 ---
 # Overview
 

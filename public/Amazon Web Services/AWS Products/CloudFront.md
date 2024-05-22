@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/CloudFront.svg
+icon: AiCloudFront
 ---
 # Overview
 - Amazon CloudFront is a fast content delivery network (CDN) service that securely delivers data, videos, applications, and APIs to customers globally with low latency, high transfer speeds, all within a developer-friendly environment.
@@ -24,13 +24,13 @@ There are 216 points of presence globally
 			- OAC is replacing Origin Access Identity (OAI) 
 	- CloudFront can be used as an ingress (to upload files to S3)
 - Custom Origins ([[Hypertext Transfer Protocol|HTTP]])
-	-  [[Elastic Load Balancing (ELB)#Application load balancer]]
+	-  [[Elastic Load Balancing#Application load balancer]]
 	- [[Elastic Cloud Compute|EC2]] instance
 	- [[Simple Storage Service|S3]] **static** website
 		- bucket needs static s3 hosting enabled as it is not by default
 
 ## CloudFront vs S3 Cross Region Replication
-- CloudFront
+- <mark style="background: #FF5582A6;">CloudFront</mark>
 	- Global
 	- Cached for TTL (~24 hours)
 	- For static content that must be available everywhere

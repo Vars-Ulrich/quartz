@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/IoTRoboRunner.svg
+icon: AiIoTRoboRunner
 ---
 # Overview
 

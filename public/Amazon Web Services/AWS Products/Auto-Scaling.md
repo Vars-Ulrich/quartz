@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/AutoScaling.svg
+icon: AiAutoScaling
 ---
 # Overview
 

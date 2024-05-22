@@ -1,9 +1,10 @@
 ---
 title: Home
-aliases: 
-icon: MiHome
+aliases:
+  - Home
+icon: MiHomeOrangeRoof
 ---
-You've reached the digital knowledge garden of [Kipp Burroughs](https://KippBurroughs.com). I am new to Obsidian and this page is very much in the initial stages of construction.
+You've reached the digital knowledge garden of [Kipp Burroughs](https://KippBurroughs.com).    
 ## Vault Overview
 
 - [[Amazon Web Services]] 
@@ -13,7 +14,6 @@ You've reached the digital knowledge garden of [Kipp Burroughs](https://KippBur
 - [[People]]
 - [[Historical]]
 - [[Unsorted Items]]
-
 ## Personal Links
 
 [Link Tree](https://linktr.ee/Kipp_it_100)
@@ -29,5 +29,4 @@ You've reached the digital knowledge garden of [Kipp Burroughs](https://KippBur
 [Dev]
 
 [GitHub]
-
 

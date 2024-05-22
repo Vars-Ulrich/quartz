@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/ElementalAppliances&Software.svg
+icon: AiElementalAppliances&Software
 ---
 # Overview
 

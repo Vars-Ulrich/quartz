@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/Neptune.svg
+icon: AiNeptune
 ---
 # Overview 
 - Fully-managed graph database

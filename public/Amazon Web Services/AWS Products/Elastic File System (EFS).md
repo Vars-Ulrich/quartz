@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/EFS.svg
+icon: AiEFS
 aliases:
   - EFS
   - Amazon EFS

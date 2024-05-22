@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/Backup.svg
+icon: AiBackup
 ---
 # Overview
 

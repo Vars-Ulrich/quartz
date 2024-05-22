@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/KinesisDataAnalytics.svg
+icon: AiKinesisDataAnalytics
 ---
 # Overview
 

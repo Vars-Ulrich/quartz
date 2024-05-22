@@ -1,0 +1,173 @@
+== Added by TickTickSync -- 1.0.30 == 
+- [x] Cancel adobe  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/6623cd60a282d105716b3f73) #ticktick  %%[ticktick_id:: 6623cd60a282d105716b3f73]%% 📅 2024-04-25 ✅ 2024-05-18
+- [x] Reapply for Countycare  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241dd0bd101e28965c9) #ticktick  %%[ticktick_id:: 661b8241dd0bd101e28965c9]%% 📅 2023-11-05 ✅ 2023-12-30
+- [x] Student loans  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241db749101e28965cb) #ticktick  %%[ticktick_id:: 661b8241db749101e28965cb]%% 📅 2023-12-03 ✅ 2023-12-03
+- [x] Two Paystubs from Julie  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241dde91101e28965cd) #ticktick  %%[ticktick_id:: 661b8241dde91101e28965cd]%% ✅ 2023-12-03
+- [x] Whiten teeth  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241ddd65101e28965d0) #ticktick  %%[ticktick_id:: 661b8241ddd65101e28965d0]%% ✅ 2023-12-15
+- [x] Whiten teeth  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241ddf51101e28965d3) #ticktick  %%[ticktick_id:: 661b8241ddf51101e28965d3]%% ✅ 2024-01-08
+- [x] Whiten teeth  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d7b81101e28965d6) #ticktick  %%[ticktick_id:: 661b8241d7b81101e28965d6]%% ✅ 2024-01-10
+- [x] Whiten teeth  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d7a89101e28965d9) #ticktick  %%[ticktick_id:: 661b8241d7a89101e28965d9]%% ✅ 2024-02-07
+- [x] Whiten teeth  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d7ab1101e28965dc) #ticktick  %%[ticktick_id:: 661b8241d7ab1101e28965dc]%% ✅ 2024-02-07
+- [x] Whiten teeth  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d7991101e28965df) #ticktick  %%[ticktick_id:: 661b8241d7991101e28965df]%% ✅ 2024-02-28
+- [x] Whiten teeth  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d79ed101e28965e2) #ticktick  %%[ticktick_id:: 661b8241d79ed101e28965e2]%% ✅ 2024-03-09
+- [x] Whiten teeth  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d7949101e28965e5) #ticktick  %%[ticktick_id:: 661b8241d7949101e28965e5]%% 📅 2023-08-22 24:00 ✅ 2024-03-16
+- [x] Whiten teeth  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5f39101e28965ea) #ticktick  %%[ticktick_id:: 661b8241d5f39101e28965ea]%% 📅 2024-03-18 24:00 ✅ 2024-05-18
+- [x] Photos for marketplace  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5825101e28965ef) #ticktick  %%[ticktick_id:: 661b8241d5825101e28965ef]%% 📅 2023-12-04 ✅ 2023-12-30
+- [x] Address changes  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5919101e28965f1) #ticktick  %%[ticktick_id:: 661b8241d5919101e28965f1]%% ✅ 2024-03-26
+- [x] Computershare  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5995101e28965f3) #ticktick  %%[ticktick_id:: 661b8241d5995101e28965f3]%% ✅ 2024-03-18
+- [x] Creditors  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5aa5101e28965f5) #ticktick  %%[ticktick_id:: 661b8241d5aa5101e28965f5]%% ✅ 2024-03-18
+- [x] Cefcu  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5895101e28965f7) #ticktick  %%[ticktick_id:: 661b8241d5895101e28965f7]%% ✅ 2024-03-18
+- [x] Restart ETSY sales  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5bf9101e28965f9) #ticktick  %%[ticktick_id:: 661b8241d5bf9101e28965f9]%% ✅ 2024-03-26
+- [x] Standing desk warranty  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5869101e28965fb) #ticktick  %%[ticktick_id:: 661b8241d5869101e28965fb]%% ✅ 2023-12-08
+- [x] Flue and covid shots  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5bd5101e28965fd) #ticktick  %%[ticktick_id:: 661b8241d5bd5101e28965fd]%% ✅ 2023-12-30
+- [x] Apply to UPS  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d59c1101e28965ff) #ticktick  %%[ticktick_id:: 661b8241d59c1101e28965ff]%% ✅ 2023-12-30
+- [x] Dusty’s lights  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5855101e2896601) #ticktick  %%[ticktick_id:: 661b8241d5855101e2896601]%% ✅ 2023-12-08
+- [x] clean google drive  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5af5101e2896604) #ticktick  %%[ticktick_id:: 661b8241d5af5101e2896604]%% ✅ 2024-01-08
+- [x] Taxes  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d596d101e2896606) #ticktick  %%[ticktick_id:: 661b8241d596d101e2896606]%% 📅 2023-08-22
+- [ ] Affirm payments  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d597d101e2896608) #ticktick  %%[ticktick_id:: 661b8241d597d101e2896608]%%
+- [x] VPN Configured  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5bed101e289660a) #ticktick  %%[ticktick_id:: 661b8241d5bed101e289660a]%% 📅 2023-08-19 ✅ 2024-03-18
+- [x] Sort NAS  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d586d101e289660c) #ticktick  %%[ticktick_id:: 661b8241d586d101e289660c]%% 📅 2023-08-22 ✅ 2024-03-18
+- [x] Whiten teeth  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5b11101e289660e) #ticktick  %%[ticktick_id:: 661b8241d5b11101e289660e]%% 📅 2023-09-29 ✅ 2023-10-07
+- [x] Whiten teeth  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d59a9101e2896610) #ticktick  %%[ticktick_id:: 661b8241d59a9101e2896610]%% ✅ 2023-11-28
+- [x] Whiten teeth  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d59ad101e2896613) #ticktick  %%[ticktick_id:: 661b8241d59ad101e2896613]%% ✅ 2023-11-28
+- [x] Whiten teeth  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241dddc9101e2896616) #ticktick  %%[ticktick_id:: 661b8241dddc9101e2896616]%% ✅ 2023-12-02
+- [x] Fully Finish desk setup  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241ddd35101e2896619) #ticktick  %%[ticktick_id:: 661b8241ddd35101e2896619]%% 📅 2023-08-21 ✅ 2024-03-21
+- [x] Clear out Mac storage  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241ddf15101e289661b) #ticktick  %%[ticktick_id:: 661b8241ddf15101e289661b]%% 📅 2023-08-22 ✅ 2024-03-25
+- [x] Haircut  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241ddd4d101e289661d) #ticktick  %%[ticktick_id:: 661b8241ddd4d101e289661d]%% ✅ 2024-03-25
+- [x] Consolidate Windows accounts  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241dde4d101e289661f) #ticktick  %%[ticktick_id:: 661b8241dde4d101e289661f]%% 📅 2023-09-28 ✅ 2023-10-07
+- [x] Bad horsey power supply  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241dde21101e2896621) #ticktick  %%[ticktick_id:: 661b8241dde21101e2896621]%% ✅ 2023-10-13
+- [x] Air purifier filter  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241dd939101e2896623) #ticktick  %%[ticktick_id:: 661b8241dd939101e2896623]%% ✅ 2023-11-28
+- [x] Chad, iCloud  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241dd985101e2896625) #ticktick  %%[ticktick_id:: 661b8241dd985101e2896625]%% 📅 2023-09-30 ✅ 2023-10-07
+- [x] So  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241dcde1101e2896627) #ticktick  %%[ticktick_id:: 661b8241dcde1101e2896627]%% 📅 2023-09-28 ✅ 2023-09-30
+- [x] Web server  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241dc661101e2896629) #ticktick  %%[ticktick_id:: 661b8241dc661101e2896629]%% ✅ 2023-10-08
+- [x] Humidifier  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241deb45101e289662b) #ticktick  %%[ticktick_id:: 661b8241deb45101e289662b]%% 📅 2023-09-30 ✅ 2023-10-07
+- [x] Clean basement  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241deb25101e289662d) #ticktick  %%[ticktick_id:: 661b8241deb25101e289662d]%% 📅 2023-09-30 ✅ 2023-10-07
+- [x] Beard balm  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241de98d101e289662f) #ticktick  %%[ticktick_id:: 661b8241de98d101e289662f]%% ✅ 2024-03-25
+- [x] Face lotion  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241de9c5101e2896631) #ticktick  %%[ticktick_id:: 661b8241de9c5101e2896631]%% ✅ 2024-03-25
+- [x] Vitamins  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241dea1d101e2896633) #ticktick  %%[ticktick_id:: 661b8241dea1d101e2896633]%% ✅ 2024-03-25
+- [x] AirTag batteries  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241de881101e2896635) #ticktick  %%[ticktick_id:: 661b8241de881101e2896635]%% ✅ 2023-11-28
+- [x] MagSafe cradle  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241deb79101e2896637) #ticktick  %%[ticktick_id:: 661b8241deb79101e2896637]%% ✅ 2023-11-28
+- [x] Buddy's video  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241de8b1101e2896639) #ticktick  %%[ticktick_id:: 661b8241de8b1101e2896639]%% 📅 2023-10-13 ✅ 2023-11-17
+- [x] Review caterpillar  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241de8ad101e289663b) #ticktick  %%[ticktick_id:: 661b8241de8ad101e289663b]%% ✅ 2023-12-02
+- [x] Haircut  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241de8c9101e289663d) #ticktick  %%[ticktick_id:: 661b8241de8c9101e289663d]%% 📅 2023-10-26 ✅ 2023-11-28
+- [x] Venmo  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241deb59101e289663f) #ticktick  %%[ticktick_id:: 661b8241deb59101e289663f]%% ✅ 2023-11-28
+- [x] New Reminder  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241de9b1101e2896641) #ticktick  %%[ticktick_id:: 661b8241de9b1101e2896641]%% ✅ 2023-11-28
+- [x] What is waking my PC?  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241deac1101e2896643) #ticktick  %%[ticktick_id:: 661b8241deac1101e2896643]%% ✅ 2023-12-02
+- [x] You should make a list of things you currently do or dont do and call it your “shame list”  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241de9a9101e2896645) #ticktick  %%[ticktick_id:: 661b8241de9a9101e2896645]%% ✅ 2023-12-02
+- [x] After today, for the rest of this month, no adderall for anything other than  planned out time periods of job and Latika work  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241de975101e2896647) #ticktick  %%[ticktick_id:: 661b8241de975101e2896647]%% 📅 2023-10-29 ✅ 2023-11-28
+- [x] Arrangements for Friday  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241de849101e2896649) #ticktick  %%[ticktick_id:: 661b8241de849101e2896649]%% 📅 2023-11-04 ✅ 2023-11-28
+- [x] Refrigerator  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241de951101e289664b) #ticktick  %%[ticktick_id:: 661b8241de951101e289664b]%% ✅ 2023-12-02
+- [x] Cancer a cappella service  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241deabd101e289664d) #ticktick  %%[ticktick_id:: 661b8241deabd101e289664d]%% 📅 2023-12-02 ✅ 2023-12-02
+- [x] Soy milk  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241de8cd101e289664f) #ticktick  %%[ticktick_id:: 661b8241de8cd101e289664f]%% ✅ 2023-12-02
+- [x] Salad raspberry pie  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241de401101e2896651) #ticktick  %%[ticktick_id:: 661b8241de401101e2896651]%% ✅ 2023-12-02
+- [x] Delete glacier storage  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241de09d101e2896653) #ticktick  %%[ticktick_id:: 661b8241de09d101e2896653]%% 📅 2023-12-02 ✅ 2023-12-02
+- [x] Take out the trash  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241de35d101e2896655) #ticktick  %%[ticktick_id:: 661b8241de35d101e2896655]%% ✅ 2023-12-02
+- [x] Grab the mail too, please  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241ddf99101e2896658) #ticktick  %%[ticktick_id:: 661b8241ddf99101e2896658]%% ✅ 2023-11-29
+- [x] UPS store  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241dcead101e289665b) #ticktick  %%[ticktick_id:: 661b8241dcead101e289665b]%% ✅ 2023-12-15
+- [x] Change mail forwarding for Allie to somewhat read the benefits of this “hide my email” bullshit little thing? Or would that just be totally retarded?  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241dca3d101e289665d) #ticktick  %%[ticktick_id:: 661b8241dca3d101e289665d]%% 📅 2023-12-16 ✅ 2024-01-08
+- [x] internet payment  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241dcaf5101e289665f) #ticktick  %%[ticktick_id:: 661b8241dcaf5101e289665f]%% 📅 2024-02-15 ✅ 2024-03-01
+- [x] internet payment  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241ddb85101e2896661) #ticktick  %%[ticktick_id:: 661b8241ddb85101e2896661]%% 📅 2024-03-15 ✅ 2024-03-25
+- [ ] internet payment  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241ddf91101e2896663) #ticktick  %%[ticktick_id:: 661b8241ddf91101e2896663]%% 📅 2024-04-15
+- [x] VPN configuration  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241dcab1101e2896665) #ticktick  %%[ticktick_id:: 661b8241dcab1101e2896665]%% ✅ 2024-03-25
+- [x] Do this  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241de4d9101e2896667) #ticktick  %%[ticktick_id:: 661b8241de4d9101e2896667]%% ✅ 2024-02-08
+- [x] PR jobs  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241dc785101e2896669) #ticktick  %%[ticktick_id:: 661b8241dc785101e2896669]%% ✅ 2024-01-20
+- [ ] Get sun inside  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241de14d101e289666b) #ticktick  %%[ticktick_id:: 661b8241de14d101e289666b]%% 📅 2024-03-14
+- [x] Call computershare  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241df539101e289666d) #ticktick  %%[ticktick_id:: 661b8241df539101e289666d]%% ✅ 2024-03-01
+- [x] AWS bill minimized  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241df7a1101e289666f) #ticktick  %%[ticktick_id:: 661b8241df7a1101e289666f]%% ✅ 2024-03-18
+- [ ] Cancel services  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241de8b9101e2896671) #ticktick  %%[ticktick_id:: 661b8241de8b9101e2896671]%% 📅 2024-03-14
+- [ ] Lf  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d30ad101e2896673) #ticktick  %%[ticktick_id:: 661b8241d30ad101e2896673]%%
+- [ ] Soundiiz  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d32b1101e2896675) #ticktick  %%[ticktick_id:: 661b8241d32b1101e2896675]%%
+- [ ] Any chaturbate clubs  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d329d101e2896677) #ticktick  %%[ticktick_id:: 661b8241d329d101e2896677]%%
+- [x] Fansly except may  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d3251101e2896679) #ticktick  %%[ticktick_id:: 661b8241d3251101e2896679]%% ✅ 2024-03-25
+- [ ] Parsec?  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d30bd101e289667b) #ticktick  %%[ticktick_id:: 661b8241d30bd101e289667b]%%
+- [x] Adobe stock  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d3229101e289667d) #ticktick  %%[ticktick_id:: 661b8241d3229101e289667d]%% ✅ 2024-03-25
+- [x] Schedule haircut  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d31c9101e289667f) #ticktick  %%[ticktick_id:: 661b8241d31c9101e289667f]%% 📅 2024-02-08 ✅ 2024-02-28
+- [x] Taxes  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d2b81101e2896681) #ticktick  %%[ticktick_id:: 661b8241d2b81101e2896681]%% 📅 2024-03-01 ✅ 2024-03-25
+- [ ] Assemble daily calendar  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d25dd101e2896683) #ticktick  %%[ticktick_id:: 661b8241d25dd101e2896683]%% 📅 2024-03-14
+- [x] Long cord for Elwood’  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d2141101e2896685) #ticktick  %%[ticktick_id:: 661b8241d2141101e2896685]%% ✅ 2024-03-01
+- [ ] Sell stuff  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d1c89101e2896687) #ticktick  %%[ticktick_id:: 661b8241d1c89101e2896687]%%
+- [ ] Water sensor  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d1a09101e2896689) #ticktick  %%[ticktick_id:: 661b8241d1a09101e2896689]%%
+- [ ] Fridge  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d1861101e289668b) #ticktick  %%[ticktick_id:: 661b8241d1861101e289668b]%%
+- [ ] Glockenspiel  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d1afd101e289668d) #ticktick  %%[ticktick_id:: 661b8241d1afd101e289668d]%%
+- [ ] Ashley earbuds  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d182d101e289668f) #ticktick  %%[ticktick_id:: 661b8241d182d101e289668f]%% 📅 2024-03-14
+- [x] Pics of UPS  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d1949101e2896691) #ticktick  %%[ticktick_id:: 661b8241d1949101e2896691]%% 📅 2024-03-02 ✅ 2024-03-09
+- [x] Plastic on upstairs window  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d1c0d101e2896693) #ticktick  %%[ticktick_id:: 661b8241d1c0d101e2896693]%% ✅ 2024-03-09
+- [x] Sheets/laundry  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d1e3d101e2896695) #ticktick  %%[ticktick_id:: 661b8241d1e3d101e2896695]%% ✅ 2024-03-25
+- [x] Tennis shoes  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d2145101e2896697) #ticktick  %%[ticktick_id:: 661b8241d2145101e2896697]%% ✅ 2024-03-25
+- [ ] 2 ip cams  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d227d101e2896699) #ticktick  %%[ticktick_id:: 661b8241d227d101e2896699]%%
+- [x] Cable ties  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d2631101e289669b) #ticktick  %%[ticktick_id:: 661b8241d2631101e289669b]%% ✅ 2024-03-25
+- [x] No pornography  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d2039101e289669d) #ticktick  %%[ticktick_id:: 661b8241d2039101e289669d]%% ✅ 2024-03-25
+- [x] Set screw for double bass  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d4c61101e289669f) #ticktick  %%[ticktick_id:: 661b8241d4c61101e289669f]%% ✅ 2024-03-25
+- [x] Penetrating oil  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d4d15101e28966a1) #ticktick  %%[ticktick_id:: 661b8241d4d15101e28966a1]%% ✅ 2024-03-25
+- [ ] Adapt strict morning schedule  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d4cfd101e28966a3) #ticktick  %%[ticktick_id:: 661b8241d4cfd101e28966a3]%%
+- [x] Echo dots  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d4e7d101e28966a5) #ticktick  %%[ticktick_id:: 661b8241d4e7d101e28966a5]%% ✅ 2024-03-25
+- [x] AirTag batteries  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d4e39101e28966a7) #ticktick  %%[ticktick_id:: 661b8241d4e39101e28966a7]%% ✅ 2024-03-26
+- [x] Clean monitors and desk  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d4dc1101e28966a9) #ticktick  %%[ticktick_id:: 661b8241d4dc1101e28966a9]%% 📅 2023-08-22 ✅ 2024-03-16
+- [x] neofetch  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d4fa1101e28966ab) #ticktick  %%[ticktick_id:: 661b8241d4fa1101e28966ab]%% ✅ 2024-03-25
+- [x] Cords  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d4b09101e28966ad) #ticktick  %%[ticktick_id:: 661b8241d4b09101e28966ad]%% ✅ 2024-03-25
+- [x] Raise credit score  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d4ba5101e28966af) #ticktick  %%[ticktick_id:: 661b8241d4ba5101e28966af]%% ✅ 2024-03-25
+- [x] Xbox  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d4b7d101e28966b1) #ticktick  %%[ticktick_id:: 661b8241d4b7d101e28966b1]%% ✅ 2024-03-26
+- [x] Get desk out of basement  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d4a91101e28966b3) #ticktick  %%[ticktick_id:: 661b8241d4a91101e28966b3]%% ✅ 2024-03-25
+- [x] Voice assistant Accent  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d4b59101e28966b5) #ticktick  %%[ticktick_id:: 661b8241d4b59101e28966b5]%% ✅ 2024-03-25
+- [x] Mythbusters  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d4561101e28966b7) #ticktick  %%[ticktick_id:: 661b8241d4561101e28966b7]%% ✅ 2024-03-25
+- [x] Loyal fans  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d4555101e28966b9) #ticktick  %%[ticktick_id:: 661b8241d4555101e28966b9]%% ✅ 2024-03-25
+- [x] Michelle's Comcast  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d45a9101e28966bb) #ticktick  %%[ticktick_id:: 661b8241d45a9101e28966bb]%% 📅 2023-08-23 ✅ 2024-03-16
+- [x] Better touch tool  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d3e05101e28966bd) #ticktick  %%[ticktick_id:: 661b8241d3e05101e28966bd]%% ✅ 2024-03-25
+- [x] Gigakipp vids  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d3f89101e28966bf) #ticktick  %%[ticktick_id:: 661b8241d3f89101e28966bf]%% ✅ 2024-03-25
+- [x] One Adderall per day  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d3a09101e28966c1) #ticktick  %%[ticktick_id:: 661b8241d3a09101e28966c1]%% ✅ 2024-03-25
+- [x] Fix universal clipboard  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d2f8d101e28966c3) #ticktick  %%[ticktick_id:: 661b8241d2f8d101e28966c3]%% ✅ 2024-03-25
+- [x] Saxophone  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d2355101e28966c5) #ticktick  %%[ticktick_id:: 661b8241d2355101e28966c5]%% ✅ 2024-03-25
+- [x] All OF  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5a61101e28966c7) #ticktick  %%[ticktick_id:: 661b8241d5a61101e28966c7]%% ✅ 2024-03-25
+- [x] Hard drive?  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5a81101e28966c9) #ticktick  %%[ticktick_id:: 661b8241d5a81101e28966c9]%% ✅ 2024-03-25
+- [x] Meal prep  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5b91101e28966cb) #ticktick  %%[ticktick_id:: 661b8241d5b91101e28966cb]%% 📅 2023-08-27 ✅ 2024-03-16
+- [x] DraftKings  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5765101e28966cd) #ticktick  %%[ticktick_id:: 661b8241d5765101e28966cd]%% ✅ 2024-03-25
+- [x] Report fraud charges  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5539101e28966cf) #ticktick  %%[ticktick_id:: 661b8241d5539101e28966cf]%% ✅ 2024-03-25
+- [x] Bad horsie?  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5621101e28966d1) #ticktick  %%[ticktick_id:: 661b8241d5621101e28966d1]%% ✅ 2024-03-25
+- [x] Check treasury  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5719101e28966d3) #ticktick  %%[ticktick_id:: 661b8241d5719101e28966d3]%% 📅 2023-08-14 ✅ 2024-03-16
+- [x] The covenants  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5679101e28966d5) #ticktick  %%[ticktick_id:: 661b8241d5679101e28966d5]%% ✅ 2024-03-25
+- [x] 1poe switch  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5639101e28966d7) #ticktick  %%[ticktick_id:: 661b8241d5639101e28966d7]%% ✅ 2024-03-25
+- [x] Fan for work  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d55b1101e28966d9) #ticktick  %%[ticktick_id:: 661b8241d55b1101e28966d9]%% ✅ 2024-03-25
+- [x] Affirm  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d56c9101e28966db) #ticktick  %%[ticktick_id:: 661b8241d56c9101e28966db]%% ✅ 2024-03-25
+- [x] Binder complex  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5525101e28966dd) #ticktick  %%[ticktick_id:: 661b8241d5525101e28966dd]%% ✅ 2024-03-25
+- [x] Update nas packages  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d559d101e28966df) #ticktick  %%[ticktick_id:: 661b8241d559d101e28966df]%% ✅ 2024-03-25
+- [x] The yacht club band  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5465101e28966e1) #ticktick  %%[ticktick_id:: 661b8241d5465101e28966e1]%% ✅ 2024-03-25
+- [x] Aunt Sue iCloud  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d54d1101e28966e3) #ticktick  %%[ticktick_id:: 661b8241d54d1101e28966e3]%% 📅 2023-08-26 ✅ 2024-03-16
+- [x] Restring guitar  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d56b9101e28966e5) #ticktick  %%[ticktick_id:: 661b8241d56b9101e28966e5]%% ✅ 2024-03-25
+- [x] $100,000 job  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5589101e28966e7) #ticktick  %%[ticktick_id:: 661b8241d5589101e28966e7]%% ✅ 2024-03-25
+- [x] American horror story  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5681101e28966e9) #ticktick  %%[ticktick_id:: 661b8241d5681101e28966e9]%% ✅ 2024-03-25
+- [x] Cosmopolis  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d57f5101e28966eb) #ticktick  %%[ticktick_id:: 661b8241d57f5101e28966eb]%% ✅ 2024-03-25
+- [x] MIDI routing video  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5605101e28966ed) #ticktick  %%[ticktick_id:: 661b8241d5605101e28966ed]%% ✅ 2024-03-25
+- [x] Camping stove  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5489101e28966ef) #ticktick  %%[ticktick_id:: 661b8241d5489101e28966ef]%% ✅ 2024-03-25
+- [x] Apply!  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d56c1101e28966f1) #ticktick  %%[ticktick_id:: 661b8241d56c1101e28966f1]%% 📅 2023-08-22 ✅ 2024-03-16
+- [x] Sawzall?  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d55c5101e28966f3) #ticktick  %%[ticktick_id:: 661b8241d55c5101e28966f3]%% ✅ 2024-03-25
+- [x] The rover  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d2a69101e28966f5) #ticktick  %%[ticktick_id:: 661b8241d2a69101e28966f5]%% ✅ 2024-03-25
+- [ ] Adapt nightly schedule  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d2575101e28966f7) #ticktick  %%[ticktick_id:: 661b8241d2575101e28966f7]%%
+- [x] Stereo receiver?  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d2bdd101e28966f9) #ticktick  %%[ticktick_id:: 661b8241d2bdd101e28966f9]%% ✅ 2024-03-25
+- [x] Bad Boys  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d2c99101e28966fb) #ticktick  %%[ticktick_id:: 661b8241d2c99101e28966fb]%% ✅ 2024-03-25
+- [x] CB fan club  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d2c05101e28966fd) #ticktick  %%[ticktick_id:: 661b8241d2c05101e28966fd]%% ✅ 2024-03-25
+- [x] Wrap saa cert  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d32cd101e28966ff) #ticktick  %%[ticktick_id:: 661b8241d32cd101e28966ff]%% ✅ 2024-03-26
+- [x] smarthome  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d315d101e2896701) #ticktick  %%[ticktick_id:: 661b8241d315d101e2896701]%% ✅ 2024-03-25
+- [x] 1 Apple TV  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d3609101e2896703) #ticktick  %%[ticktick_id:: 661b8241d3609101e2896703]%% ✅ 2024-03-25
+- [x] Standing desk warranty  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5d25101e2896705) #ticktick  %%[ticktick_id:: 661b8241d5d25101e2896705]%% 📅 2023-08-22 ✅ 2024-03-16
+- [x] Report fraud charges  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d570d101e2896707) #ticktick  %%[ticktick_id:: 661b8241d570d101e2896707]%% ✅ 2024-03-25
+- [x] Student loans  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5749101e2896709) #ticktick  %%[ticktick_id:: 661b8241d5749101e2896709]%% ✅ 2024-03-25
+- [x] amcrest homekit integration  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d56cd101e289670b) #ticktick  %%[ticktick_id:: 661b8241d56cd101e289670b]%% ✅ 2024-03-25
+- [x] Beau is afraid  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d569d101e289670d) #ticktick  %%[ticktick_id:: 661b8241d569d101e289670d]%% ✅ 2024-03-25
+- [x] Ryan $30  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5581101e289670f) #ticktick  %%[ticktick_id:: 661b8241d5581101e289670f]%% 📅 2024-03-21 ✅ 2024-03-25
+- [x] Couch cover  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5701101e2896711) #ticktick  %%[ticktick_id:: 661b8241d5701101e2896711]%% 📅 2024-03-23 ✅ 2024-03-25
+- [x] Floor  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d5389101e2896713) #ticktick  %%[ticktick_id:: 661b8241d5389101e2896713]%% 📅 2024-03-23 ✅ 2024-03-25
+- [x] Garbages  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d53d1101e2896715) #ticktick  %%[ticktick_id:: 661b8241d53d1101e2896715]%% 📅 2024-03-23 ✅ 2024-03-25
+- [x] DVI adapter  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d4d81101e2896717) #ticktick  %%[ticktick_id:: 661b8241d4d81101e2896717]%% 📅 2024-03-26 16:40 ✅ 2024-04-14
+- [ ] Caterpillar, secure network machinery, proving grounds  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d756d101e289671b) #ticktick  %%[ticktick_id:: 661b8241d756d101e289671b]%%
+- [ ] Aunt catalog  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d7555101e289671d) #ticktick  %%[ticktick_id:: 661b8241d7555101e289671d]%%
+- [ ] fix amphet  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d7589101e289671f) #ticktick  %%[ticktick_id:: 661b8241d7589101e289671f]%%
+- [ ] obsidian size  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d75a1101e2896721) #ticktick  %%[ticktick_id:: 661b8241d75a1101e2896721]%%
+- [ ] Steps reporter  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d772d101e2896723) #ticktick  %%[ticktick_id:: 661b8241d772d101e2896723]%%
+- [ ] delete third-party keyboards from iPad and phone  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d77b9101e2896725) #ticktick  %%[ticktick_id:: 661b8241d77b9101e2896725]%%
+- [ ] Firebase for KippBurroughs.com  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d7721101e2896727) #ticktick  %%[ticktick_id:: 661b8241d7721101e2896727]%%
+- [ ] Firebase for Justice-Page.com  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d76c9101e2896729) #ticktick  %%[ticktick_id:: 661b8241d76c9101e2896729]%%
+- [ ] make macos BTT video tonight  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d74ed101e289672b) #ticktick  %%[ticktick_id:: 661b8241d74ed101e289672b]%%
+- [ ] look into icc training  think  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d7689101e289672d) #ticktick  %%[ticktick_id:: 661b8241d7689101e289672d]%%
+- [ ] apple TV for Michelle  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d74dd101e289672f) #ticktick  %%[ticktick_id:: 661b8241d74dd101e289672f]%%
+- [ ] write a script and alfred cmd that restarts Obsidian  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d7449101e2896731) #ticktick  %%[ticktick_id:: 661b8241d7449101e2896731]%%
+- [ ] ChatGPT mod application  [link](https://ticktick.com/webapp/#p/661b8241dd049101e28965c8/tasks/661b8241d74d9101e2896733) #ticktick  %%[ticktick_id:: 661b8241d74d9101e2896733]%%

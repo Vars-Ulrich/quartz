@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/SiteToSiteVPN.svg
+icon: AiSiteToSiteVPN
 ---
 ![[Pasted image 20240419103008.png]]
 

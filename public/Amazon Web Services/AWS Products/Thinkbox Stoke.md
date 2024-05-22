@@ -1,3 +1,3 @@
 ---
-sticker: vault//Media/icons/aws-icons/ThinkboxStoke.svg
+icon: AiThinkboxStoke
 ---

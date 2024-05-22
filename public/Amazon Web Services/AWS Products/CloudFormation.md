@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/CloudFormation.svg
+icon: AiCloudFormation
 ---
 # Overview
 

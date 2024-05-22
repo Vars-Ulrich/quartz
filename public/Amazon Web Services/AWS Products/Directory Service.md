@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/DirectoryService.svg
+icon: AiDirectoryService
 ---
 # Overview
 

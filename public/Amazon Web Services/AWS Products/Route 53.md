@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/Route53.svg
+icon: AiRoute53
 ---
 ## Routing Policies
 

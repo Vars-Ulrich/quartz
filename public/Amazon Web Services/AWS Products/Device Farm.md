@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/DeviceFarm.svg
+icon: AiDeviceFarm
 ---
 
 # Overview

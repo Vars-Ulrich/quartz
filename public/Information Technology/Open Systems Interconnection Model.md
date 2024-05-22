@@ -14,6 +14,8 @@ The OSI Model, short for "Open Systems Interconnection," is a conceptual framewo
 ### Layer 7 - Application
 The Application layer is the closest to the end user. It interacts with software applications that implement a communicating component. This layer provides services such as email, file transfer, and web browsing.
 
+Devices
+
 ### Layer 6 - Presentation
 This layer translates data between the application layer and the network. It's responsible for data encryption, decryption, compression, and conversion to ensure that data from the application layer of one system can be read by the application layer of another.
 
@@ -30,4 +32,12 @@ This layer is responsible for packet forwarding, including routing through inter
 The Data Link layer is responsible for node-to-node data transfer—a link between two directly connected nodes. It also handles error correction from the physical layer, flow control, and frame synchronization.
 
 ### Layer 1 - Physical
-This layer deals with the physical connection between devices and the transmission and reception of raw bit streams over a physical medium. It includes specifications for cables, connectors, and signal specifications.
+This layer deals with the physical connection between devices and the transmission and reception of raw bit streams over a physical medium. It includes specifications for cables, connectors, and signal specification
+
+## Flashcards
+#flashcards/osi
+
+which layer is the closest to the user(Number and name)? :: Layer 7, the Application layer.
+<!--SR:!2024-05-22,4,270-->
+
+which layer occurs at 

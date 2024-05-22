@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/Batch.svg
+icon: AiBatch
 ---
 # Batch
 You can use AWS Batch to plan, schedule and execute your batch computing workloads across the full range of AWS compute services. AWS Batch dynamically provisions the optimal quantity and type of compute resources (e.g., CPU or memory optimized instances) based on the volume and specific resource requirements of the batch jobs submitted. AWS Batch provisions compute resources and optimizes the job distribution based on the volume and resource requirements of the submitted batch jobs.

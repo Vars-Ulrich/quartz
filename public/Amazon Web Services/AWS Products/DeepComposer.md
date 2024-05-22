@@ -1,5 +1,5 @@
 ---
-sticker: vault//Media/icons/aws-icons/DeepComposer.svg
+icon: AiDeepComposer
 ---
 # Overview
 
