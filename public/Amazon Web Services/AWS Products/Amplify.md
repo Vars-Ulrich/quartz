@@ -1,6 +1,5 @@
 ---
 icon: AiAmplify
-icon: AiAmplify
 ---
 # Overview
 AWS Amplify is a set of tools and services provided by Amazon Web Services to help developers build scalable full-stack applications powered by AWS. It's particularly popular for mobile and web applications due to its ease of use and deep integration with AWS cloud services. Here’s a broad overview of its key features and capabilities:
