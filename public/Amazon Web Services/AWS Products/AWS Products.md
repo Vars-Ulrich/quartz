@@ -106,7 +106,7 @@
 - [[Elastic Inference]]
 - [[Elastic Kubernetes Service]]
 - [[Elastic Load Balancing]]
-- [[Elastic MapReduce (EMR)]]
+- [[Elastic MapReduce]]
 - [[Elastic Transcoder]]
 - [[ElastiCache]]
 - [[Elemental Appliances & Software]]

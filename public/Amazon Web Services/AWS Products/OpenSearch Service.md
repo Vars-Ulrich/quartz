@@ -1,7 +1,41 @@
 ---
 icon: AiOpenSearchService
 ---
-# Overview
+- Successor to ElasticSearch
+- With OpenSearch, you can search any field, even partial matches
+	- whereas in [[DynamoDB]], queries only exist by primary key or indexes
+- It is common to use OpenSearch as a complement to another database
+- Two modes
+	- managed cluster
+		- instances are provisioned and will be visible
+	- serverless cluster
+		- everything from scaling to operations are managed by AWS
+- Does **not** natively support [[Structured Query Language|SQL]]
+	- but can be enabled via a plugin
+- Ingestion from
+	-  [[Kinesis Firehose]] 
+	- AWS IoT
+	- [[CloudWatch]] logs
+	- or any of your custom built app
+- Security
+	- [[Cognito]]
+	- [[Identity and Access Management|IAM]]
+	- [[Key Management Service (KMS)|KMS]] encryption
+	- [[Transport Layer Security|TLS]]
+- Comes with OpenSearch Dashboards (visualization)
+
+## Opensearch Patterns
+- [[DynamoDB]]
+	- ![[Screenshot 2024-05-21 at 22.57.42.png]]
+	  
+- [[CloudWatch]] logs
+	- ![[Screenshot 2024-05-21 at 22.59.22.png]]
+
+- [[Kinesis Data Streams]] & [[Kinesis Firehose]]
+	- ![[Screenshot 2024-05-21 at 23.27.18.png]]
+	- ![[Screenshot 2024-05-21 at 23.30.23.png]]
+
+## ChatGPT Overview
 
 AWS OpenSearch Service is a managed service provided by Amazon Web Services (AWS) that allows you to deploy, operate, and scale open-source search and analytics engines such as Elasticsearch and Kibana in the AWS Cloud. It simplifies the setup and management of Elasticsearch clusters, making it easier for developers and organizations to build powerful search and analytics applications.
 
