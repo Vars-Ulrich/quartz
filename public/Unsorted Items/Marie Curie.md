@@ -13,8 +13,7 @@ tags:
 > [Wikipedia](https://en.wikipedia.org/wiki/Marie%20Curie)
 
 
-#### Exam Alerts
-#saa_exam_alerts
+
 
 
 ###### Key words

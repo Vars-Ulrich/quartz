@@ -4,7 +4,12 @@ tags:
 icon: 
 aliases: 
 ---
-## Main Deck
+This note is home for all flashcards for the purpose of prep for the  ([[SAA-C03 Exam|AWS Certified Solutions Architect-Associate (SAA-C03) Exam]]
+
+Heading defining different decks are solely for the purpose of reducing clutter.  Grouping is without method or reason.
+
+Dynamo
+## SAA Deck 1
 
 #flashcards/saa 
 
@@ -154,6 +159,37 @@ What kind of pricing model does [[Redshift]] follow? :: Pay-as-you-go based on *
 Any time you see anything related to big data  clusters with [[Apache Hadoop|Hadoop]] clusters, you would think... :: [[Elastic MapReduce]]
 
 reserved instances require a a minimum reservation time of how long? :: 1 year
+
+Logs from this AWS product are stored in an [[Simple Storage Service|Amazon S3]] bucket, so if you see mentions of "S3 storage for logs" or "log file storage," it could indicate... :: [[CloudTrail]]
+
+- Think infrastructure as code, think... :: [[CloudFormation]]
+
+
+## SAA Deck 2
+#flashcards/saa 
+
+What does ETL stand for? :: Extract, Transform, and Load
+
+[[DynamoDB]]: SQL or NoSql? :: Dynamo DB is **NoSQL**
+
+
+
+## SAA Deck 3
+#flashcards/saa_exam
+
+A junior scientist working with the Deep Space Research Laboratory at NASA is trying to upload a high-resolution image of a nebula into Amazon S3. The image size is approximately 3 gigabytes. The junior scientist is using Amazon S3 Transfer Acceleration (Amazon S3TA) for faster image upload. It turns out that Amazon S3TA did not result in an accelerated transfer.  Given this scenario, which of the following is correct regarding the charges for this image transfer?
+- 1
+- 2
+- 3
+- 4
+?
+- 2
+
+
+
+
+
+
 
 
 

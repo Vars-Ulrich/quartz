@@ -26,17 +26,12 @@ AWS CloudTrail is a service that enables governance, compliance, operational aud
 
 
 
-Keywords
-
 
 https://tutorialsdojo.com/aws-cloudtrail/
 
-#### Exam Alerts
-#saa_exam_alerts 
-- Logs from this AWS product are stored in an [[Simple Storage Service|Amazon S3]] bucket, so if you see mentions of "S3 storage for logs" or "log file storage," it could indicate... :: CloudTrail.
-<!--SR:!2024-05-04,1,230-->
 
 ##### Key words
+#saa_exam_alerts 
 see above notes
 - account-specific activity and audit
 - audit

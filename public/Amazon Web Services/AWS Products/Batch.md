@@ -6,5 +6,4 @@ You can use AWS Batch to plan, schedule and execute your batch computing workloa
 
 #### Exam Alerts
 #saa_exam_alerts 
-
 Understand the difference between[[Step Functions|AWS Step Functions]] and [[Batch|AWS Batch]]. You may get questions to choose one over the other. AWS Batch runs batch computing workloads by provisioning the compute resources. AWS Step Function does not provision any resources. Step Function only orchestrates AWS services required for a given workflow. You cannot use Step Functions to plan, schedule and execute your batch computing workloads by provisioning underlying resources.

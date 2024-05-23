@@ -1,7 +1,28 @@
 ---
 icon: AiGlue
 ---
-# Overview
+# ;;AiGlue;; AWS Glue
+
+- Managed ETL service
+- Used to **prepare and transform data FOR analytics**
+	- does not perform analytics in and of itself
+- Fully **serverless**
+-  
+
+## Glue Data Catalog
+- Catalog of datasets
+- ![[Pasted image 20240522184513.png]]
+
+
+- #saa_exam_alerts know about how to use [[Glue]] to transform data into the [[Apache Parquet]] format
+	- columnar data format
+		- therefore, better for use in a service such as [[Athena]]
+	- ![[Pasted image 20240522183948.png]]
+	  
+- 
+
+
+## ChatGPT Overview
 
 AWS Glue is a fully managed extract, transform, and load (ETL) service that makes it easy for customers to prepare and load their data for analytics. It simplifies the process of preparing and transforming data for analytics and machine learning (ML) by providing tools for discovering, cataloging, cleaning, enriching, and transforming data at scale. Here's an overview of AWS Glue's key features and capabilities:
 

@@ -53,8 +53,8 @@ Amazon Aurora (Aurora) is a fully managed relational database engine that's comp
 		- If a writer instance in cluster becomes unavailable, Aurora automatically promotes one of the reader instances to take its place as a new writer
 Up to 15 Aurora replicas can be distributed across the AZs that a DB cluster spans within an AWS Region
 #### Exam Alerts
-#saa_exam_alerts 
+#flashcards/saa 
 - If you see a sentence pertaining to sub-second cross-region replication for your database, it is a hint to use... :: Global [[Aurora]]
-<!--SR:!2024-05-04,1,230-->
+<!--SR:!2024-05-23,1,210-->
 -  
 

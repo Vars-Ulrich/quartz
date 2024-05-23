@@ -17,8 +17,5 @@ tags:
 > [Wikipedia](https://en.wikipedia.org/wiki/Android%20(operating%20system))
 
 
-#### Exam Alerts
-#saa_exam_alerts
-
 
 ###### Key words

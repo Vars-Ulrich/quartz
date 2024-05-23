@@ -30,4 +30,3 @@ icon: MiAWSCloudOrange
 > Amazon markets AWS to subscribers as a way of obtaining large-scale computing capacity more quickly and cheaply than building an actual physical server farm. All services are billed based on usage, but each service measures usage in varying ways. As of 2021 Q4, AWS has 33% market share for cloud infrastructure while the next two competitors Microsoft Azure and Google Cloud have 21%, and 10% respectively, according to Synergy Group.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Amazon%20Web%20Services)
-;;MiAWSSimpleIconsAWSCloud;;

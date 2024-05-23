@@ -9,8 +9,7 @@ tags:
 > [Wikipedia](https://en.wikipedia.org/wiki/Fire%20OS)
 
 
-#### Exam Alerts
-#saa_exam_alerts
+
 
 
 ###### Key words

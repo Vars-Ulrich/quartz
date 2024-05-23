@@ -54,10 +54,8 @@ DynamoDB global tables replicate data automatically across your choice of AWS Re
 ## Dynamo DB Streams
 
 
-#### Exam Alerts 
-#saa_exam_alerts 
-- Any time that you see that you need to rapidly evolve schemas/have a flexible type of database schema, a great choice would be... :: [[DynamoDB]]
-<!--SR:!2024-05-04,1,230-->
+
+
 
 
 ##### Key words

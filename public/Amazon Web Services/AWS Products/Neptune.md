@@ -35,10 +35,7 @@ icon: AiNeptune
 		- [[Simple Storage Service|S3]]
 		- [[OpenSearch Service|OpenSearch]]
 		- [[ElastiCache]]
-#### Exam Alerts 
-#saa_exam_alerts 
-- any time you see anything related to graph databases, think... :: [[Neptune]]
-<!--SR:!2024-05-04,1,230-->
-- 
+
+
 
 ###### Key words

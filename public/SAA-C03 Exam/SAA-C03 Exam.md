@@ -10,9 +10,20 @@ icon: MiSaaBadge
 ---
 # Overview
 
+## Self-Pointers and Fleeting Thoughts
+- each question is set up similarly to how a comedian might set up a joke. There is a **set up** and there is a **punchline.**
+	- the set up like a joke is typically long-winded, and comes before the actual punchline.  It provides **only context.**
+	- the punchline is the actual question being asked.
+		- **fucking pay closer attention to it**
+
+## Areas of Weakness
+- pricing of multitiered services
+	- [[Simple Storage Service|S3]]
+	- [[Elastic File System (EFS)|EFS]]
+	- [[Elastic Block Store]]
+- 
+
 %% Begin Waypoint %%
-- [[public/SAA-C03 Exam/Decks]]
-- [[SAA Exam Alerts]]
 - **[[Udemy SAA course]]**
 	- **Course Code**
 		- **api-gateway**

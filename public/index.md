@@ -4,7 +4,12 @@ aliases:
   - Home
 icon: MiHomeOrangeRoof
 ---
-You've reached the digital knowledge garden of [Kipp Burroughs](https://KippBurroughs.com).    
+You've reached the knowledge vault of  [Kipp Burroughs](https://KippBurroughs.com)
+
+- Created using Obsidian
+- Built using Quartz
+- Hosted on GitHub Pages
+
 ## Vault Overview
 
 - [[Amazon Web Services]] 

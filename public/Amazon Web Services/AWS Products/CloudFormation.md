@@ -9,8 +9,3 @@ icon: AiCloudFormation
 
 - CloudFormation **cannot** be used to debug performance issues for this serverless application built using a microservices architecture.
 
-#### Exam Alerts
-#saa_exam_alerts 
-- Think infrastructure as code, think... :: [[CloudFormation]]
-<!--SR:!2024-05-04,1,230-->
--   
