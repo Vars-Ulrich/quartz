@@ -8,7 +8,7 @@ This note is home for all flashcards for the purpose of prep for the  ([[SAA-C03
 
 Heading defining different decks are solely for the purpose of reducing clutter.  Grouping is without method or reason.
 
-Dynamo
+
 ## SAA Deck 1
 
 #flashcards/saa 
@@ -170,7 +170,13 @@ Logs from this AWS product are stored in an [[Simple Storage Service|Amazon S3]]
 
 What does ETL stand for? :: Extract, Transform, and Load
 
-[[DynamoDB]]: SQL or NoSql? :: Dynamo DB is **NoSQL**
+[[DynamoDB]]: SQL or NoSQL? :: [[DynamoDB]] is **NoSQL**
+
+[[Aurora]]: SQL or NoSQL? :: [[Aurora]] is a **MySQL** and **PostgreSQL**- compatible **relational database**
+
+Aurora Global can have up to how many read instances in each region where database is...unfinished :: Up to 16 DB read instances.
+
+How fast can [[Aurora|Aurora Global]] perform storage replication? :: [[Aurora|Aurora Global]] is capable of **sub-second** storage replication  
 
 
 

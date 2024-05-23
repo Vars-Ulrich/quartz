@@ -21,6 +21,7 @@ icon: MiSaaBadge
 	- [[Simple Storage Service|S3]]
 	- [[Elastic File System (EFS)|EFS]]
 	- [[Elastic Block Store]]
+- Database differentiation
 - 
 
 %% Begin Waypoint %%

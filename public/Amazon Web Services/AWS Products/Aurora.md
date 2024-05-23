@@ -2,7 +2,7 @@
 icon: AiAurora
 ---
 # Overview
-Amazon Aurora is a MySQL and PostgreSQL-compatible relational database built for the cloud, that combines the performance and availability of traditional enterprise databases with the simplicity and cost-effectiveness of open source databases.
+Amazon Aurora is a **MySQL and PostgreSQL**-compatible **relational database** built for the cloud, that combines the performance and availability of traditional enterprise databases with the simplicity and cost-effectiveness of open source databases.
 
 - Compatible API for PostgreSQL/ MySQL
 - Storage and compute are **seperated** 
@@ -25,9 +25,9 @@ Amazon Aurora is a MySQL and PostgreSQL-compatible relational database built for
 	- no capacity planning
 - Aurora Global:
 	- up to 16 DB Read instances in each region where database 
-	- sub-second storage replication
+	- **sub-second** storage replication
 - Aurora Machine Learning
-	- merform ML using sagemaker and Comprehend on Aurora
+	- perform ML using [[SageMaker]] and Comprehend on Aurora
 - Aurora database cloning
 	- new cluster from existing one
 		- faster than restoring from snapshot
@@ -56,5 +56,9 @@ Up to 15 Aurora replicas can be distributed across the AZs that a DB cluster spa
 #flashcards/saa 
 - If you see a sentence pertaining to sub-second cross-region replication for your database, it is a hint to use... :: Global [[Aurora]]
 <!--SR:!2024-05-23,1,210-->
--  
+
+#saa_exam_alerts 
+#### Keywords
+- sub-second latency as it regards storage replication can indicate Aurora Global
+- 
 

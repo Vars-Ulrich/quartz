@@ -1,8 +1,8 @@
 ---
-icon: AiApacheMXnetOnAWS
+icon: AiApacheMXNetOnAWS
 ---
 # Overview
-Apache MXNet on AWS is a powerful, scalable deep learning framework that supports efficient training and inference of deep neural networks. MXNet is designed to be highly flexible and efficient, making it a popular choice for both academic researchers and industrial applications. When deployed on AWS, MXNet leverages the extensive cloud infrastructure to provide enhanced performance, scalability, and accessibility. Here’s an overview of its key aspects:
+Apache MXNet on AWS is a powerful, scalable deep learning framework that supports efficient training and inference of deep neural networks. MXNet is designed to be highly flexible and efficient, making it a popular choice for both academic researchers and industrial applications. When deployed on AWS, MXNet leverages the extensive cloud infrastructure to provide enhanced performance, scalability, and accessibility. Here’s an overview of its key aspects: 
 
 ### Key Features of Apache MXNet
 
