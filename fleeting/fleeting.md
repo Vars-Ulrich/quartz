@@ -2,7 +2,7 @@
 
 ## Vault Guidelines and Protocols
 
-###        Indenting Subheading
+###        Indenting Subheadings
 - to indent a subheading (like the one directly above this line), place 7 spaces after the initial space proceeding a # that will format that line as a header.  So 8 total
 - 
 

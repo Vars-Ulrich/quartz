@@ -6,7 +6,7 @@ _sort:
   field: rank
   asc: false
   group: false
-sticker: vault//Media/icons/Apple_Computer_Logo_rainbow.svg
+icon: MiAppleRetroRainbow
 ---
 # Overview
 

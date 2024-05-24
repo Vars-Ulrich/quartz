@@ -6,7 +6,7 @@ _sort:
   field: rank
   asc: false
   group: false
-sticker: emoji//1f7e6
+icon: MiWindowsIconBlue
 ---
 # Overview
 

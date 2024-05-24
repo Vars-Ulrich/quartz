@@ -8,6 +8,7 @@ _sort:
   group: false
 sticker: vault//Media/icons/tux_linux_penguin.svg
 color: ""
+icon: MiTuxLinuxPenguin
 ---
 # Overview
 
