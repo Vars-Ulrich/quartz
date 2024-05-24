@@ -3,7 +3,7 @@ aliases:
   - IT
 icon: MiHappyMac
 ---
-%% Begin Waypoint %% 
+%% Begin Waypoint %%
 - [[Acknowledgment (Computer Networking)]]
 - [[Active Directory]]
 - [[Address Resolution Protocol]]
@@ -52,6 +52,7 @@ icon: MiHappyMac
 - [[Hypertext Transfer Protocol]]
 - [[Hypervisor]]
 - [[Infrastructure-as-a-Service]]
+- [[Internet Problems? Here's How to Tell if It's Your ISP's Fault]]
 - [[Internet Protocol Address]]
 - [[Internet Protocol Suite]]
 - [[Internet Protocol]]
