@@ -14,7 +14,7 @@ icon: MiSaaBadge
 - each question is set up similarly to how a comedian might set up a joke. There is a **set up** and there is a **punchline.**
 	- the set up like a joke is typically long-winded, and comes before the actual punchline.  It provides **only context.**
 	- the punchline is the actual question being asked.
-		- **fucking pay closer attention to it**
+		- **fucking pay closer attention to it** 
 
 ## Areas of Weakness
 - pricing of multitiered services

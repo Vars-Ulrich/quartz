@@ -12,7 +12,7 @@ AWS Database Migration Service (DMS) is a fully managed service that helps users
 
 ### Key Features:
 
-1. **Homogeneous and Heterogeneous Migration**: DMS supports both homogeneous and heterogeneous migrations, allowing users to migrate data between databases of the same or different platforms, such as Oracle, SQL Server, MySQL, PostgreSQL, MongoDB, and Amazon Aurora.
+1. **Homogeneous and Heterogeneous Migration**: DMS supports both homogeneous and heterogeneous migrations, allowing users to migrate data between databases of the same or different platforms, such as Oracle, SQL Server, MySQL, PostgreSQL, [[MongoDB]], and Amazon Aurora.
 2. **Continuous Data Replication**: DMS enables continuous data replication from the source database to the target database, ensuring data consistency and minimizing downtime during the migration process.
 3. **Schema Conversion**: DMS can automatically convert the schema of the source database to match the target database, facilitating seamless migration between different database engines.
 4. **Full Load and CDC**: DMS supports full load and change data capture (CDC) migration methods, allowing users to migrate existing data and capture ongoing changes in real-time.
@@ -47,7 +47,7 @@ AWS Database Migration Service (DMS) is a fully managed service that helps users
 1. **Database Consolidation**: Organizations use DMS to consolidate multiple databases into a single database platform, simplifying management and reducing infrastructure costs.
 2. **Database Migration to AWS**: DMS helps organizations migrate on-premises databases to AWS, enabling them to take advantage of the scalability, reliability, and cost-effectiveness of cloud computing.
 3. **Database Replication and Disaster Recovery**: DMS facilitates database replication and disaster recovery strategies by continuously replicating data to standby databases or secondary AWS regions.
-4. **Database Platform Migration**: DMS enables organizations to migrate databases between different database platforms, such as Oracle to Amazon Aurora, SQL Server to MySQL, or MongoDB to Amazon DocumentDB.
+4. **Database Platform Migration**: DMS enables organizations to migrate databases between different database platforms, such as Oracle to Amazon Aurora, SQL Server to MySQL, or [[MongoDB]] to Amazon DocumentDB.
 5. **Data Center Exit Strategy**: Organizations use DMS as part of their data center exit strategy to migrate databases from on-premises data centers to the cloud, reducing data center footprint and operational overhead.
 
 AWS Database Migration Service simplifies and accelerates database migrations to AWS, enabling organizations to migrate databases with confidence, minimize downtime, and unlock the benefits of cloud computing.

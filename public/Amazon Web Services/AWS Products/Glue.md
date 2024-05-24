@@ -11,14 +11,12 @@ icon: AiGlue
 
 ## Glue Data Catalog
 - Catalog of datasets
-- ![[Pasted image 20240522184513.png]]
-
+- ![[Pasted image 20240523210616.png]]
 
 - #saa_exam_alerts know about how to use [[Glue]] to transform data into the [[Apache Parquet]] format
 	- columnar data format
 		- therefore, better for use in a service such as [[Athena]]
-	- ![[Pasted image 20240522183948.png]]
-	  
+	- ![[Pasted image 20240523210015.png]]
 - 
 
 
