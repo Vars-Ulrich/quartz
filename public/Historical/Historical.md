@@ -2,7 +2,7 @@
 icon: MiCenturion
 ---
 
-%% Begin Waypoint %%
+%% Begin Waypoint %% 
 - **[[Art Movements]]**
 - [[Tech History]]
 

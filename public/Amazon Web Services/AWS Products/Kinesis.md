@@ -1,11 +1,10 @@
 ---
 icon: AiKinesis
 ---
-# Overview
-
-### Service Overview:
-
+# Kinesis
 AWS Kinesis is a suite of fully managed services provided by Amazon Web Services (AWS) that enables users to build real-time data streaming applications for collecting, processing, and analyzing large volumes of data in real-time. Kinesis offers a range of services tailored to different use cases and requirements, including data ingestion, real-time processing, and data analytics, allowing users to easily scale and manage their streaming data workflows in the cloud.
+
+# ChatGPT Overview
 
 ### Key Features:
 
@@ -44,3 +43,8 @@ AWS Kinesis is a suite of fully managed services provided by Amazon Web Services
 5. **Streaming Data Workflows**: Data engineers and analysts use Kinesis for building end-to-end streaming data workflows, including data ingestion, transformation, processing, and delivery, enabling real-time data integration and analytics across multiple sources and destinations.
 
 AWS Kinesis empowers organizations to build scalable, real-time data streaming applications for collecting, processing, and analyzing streaming data in the cloud, with simplicity, reliability, and cost-effectiveness. Whether for real-time analytics, IoT data processing, log streaming, or recommendation engines, Kinesis offers a comprehensive suite of services and features to meet the diverse needs of modern data-driven applications.
+
+
+# Relevant links
+- [Stream Data at scale from millions of sources with Amazon Kinesis - An Introduction](https://dev.to/asanka_botheju/stream-data-at-scale-from-millions-of-sources-with-amazon-kinesis-an-introduction-2kg1)
+- 

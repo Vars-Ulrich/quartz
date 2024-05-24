@@ -3,7 +3,7 @@ aliases:
   - IT
 icon: MiHappyMac
 ---
-%% Begin Waypoint %%
+%% Begin Waypoint %% 
 - [[Acknowledgment (Computer Networking)]]
 - [[Active Directory]]
 - [[Address Resolution Protocol]]
