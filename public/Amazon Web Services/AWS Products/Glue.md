@@ -1,7 +1,7 @@
 ---
 icon: AiGlue
 ---
-# ;;AiGlue;; AWS Glue
+# Glue
 
 - Managed ETL service
 - Used to **prepare and transform data FOR analytics**
@@ -16,7 +16,7 @@ icon: AiGlue
 - #saa_exam_alerts know about how to use [[Glue]] to transform data into the [[Apache Parquet]] format
 	- columnar data format
 		- therefore, better for use in a service such as [[Athena]]
-	- ![[Pasted image 20240523210015.png]]
+- ![[Pasted image 20240523210015.png]]
 - 
 
 
