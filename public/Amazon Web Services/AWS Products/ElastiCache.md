@@ -13,7 +13,7 @@ icon: AiElastiCache
 - Security through:
 	- [[Identity and Access Management|IAM]]
 	- [[Security Groups]]
-	- [[Key Management Service (KMS)]]
+	- [[Key Management Service]]
 	- Redis Auth
 - Recovery and backup
 	- backup

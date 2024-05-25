@@ -4,7 +4,7 @@ aliases:
   - EFS
   - Amazon EFS
 ---
-# Elastic File System (EFS)
+# Elastic File System
 Support high availability by default
 
 EC2 can access EFS files across many AZs, Regions, and [[Virtual Private Cloud|VPCs]]

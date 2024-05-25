@@ -81,6 +81,7 @@ icon: MiWhiteQuestionMark
 - [[synchronous vs asynchronous approaches to input-output]]
 - [[Tableau Software]]
 - [[The Communist Manifesto]]
+- [[Tmux usage]]
 - [[tvOS]]
 - [[Universal Serial Bus]]
 - [[Unix-like operating system]]

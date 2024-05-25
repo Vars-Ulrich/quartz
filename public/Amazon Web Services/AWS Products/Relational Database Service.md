@@ -14,7 +14,7 @@ https://aws.amazon.com/rds/features/multi-az/
 - Security through
 	- [[Identity and Access Management|IAM]]
 	- [[Security Groups]]
-	- [[Key Management Service (KMS)]]
+	- [[Key Management Service]]
 	- SSl in transit
 - Backup/recovery
 	- Automated backup with Point in time restore

@@ -20,7 +20,7 @@ icon: AiOpenSearchService
 - Security
 	- [[Cognito]]
 	- [[Identity and Access Management|IAM]]
-	- [[Key Management Service (KMS)|KMS]] encryption
+	- [[Key Management Service|KMS]] encryption
 	- [[Transport Layer Security|TLS]]
 - Comes with OpenSearch Dashboards (visualization)
 

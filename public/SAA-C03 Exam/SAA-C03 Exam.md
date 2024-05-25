@@ -19,14 +19,14 @@ icon: MiSaaBadge
 ## Areas of Weakness
 - pricing of multitiered services
 	- [[Simple Storage Service|S3]]
-	- [[Elastic File System (EFS)|EFS]]
+	- [[Elastic File System|EFS]]
 	- [[Elastic Block Store]]
 - Database differentiation
 - 
 
 %% Begin Waypoint %%
 - **[[Udemy SAA course]]**
-	- **Course Code**
+	- **[[Course Code]]**
 		- **api-gateway**
 
 		- **cli**
