@@ -119,6 +119,7 @@ icon: MiHappyMac
 - [[Storm Worm]]
 - [[Structured Query Language]]
 - [[StuxNet]]
+- [[Synchronous vs asynchronous replication]]
 - [[Time to live]]
 - [[Transmission Control Protocol]]
 - [[Transport Layer Security]]

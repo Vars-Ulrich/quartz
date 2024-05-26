@@ -96,7 +96,7 @@ icon: MiWhiteQuestionMark
 - [[Universal Serial Bus]]
 - [[Unix-like operating system]]
 - [[Untitled 2]]
-- [[Untitled]]
+- [[public/Unsorted Items/Untitled]]
 - [[Vladimir Lenin]]
 - [[Voice over Internet Protocol]]
 - [[Warsaw Pact]]

@@ -227,10 +227,19 @@ RDS engines available with both of these deployment types are:
 - Amazon RDS for [[IBM Db2|Db2]]
 
 Which two [[Relational Database Service|RDS]] engines are compatible with Multi-AZ with two readable standbys?
+?
+- [[Relational Database Service|Amazon RDS]] for [[PostgreSQL]]
+- [[Relational Database Service|Amazon RDS]] for [[MySQL]]
 
-
+[[Aurora|Aurora type]]
 ## SAA Deck 3
 #flashcards/saa_exam
+
+Which two [[Relational Database Service|RDS]] engines are compatible with Multi-AZ with two readable standbys?
+?
+Multi-AZ/double standby RDS deploys
+- [[Relational Database Service|Amazon RDS]] for [[PostgreSQL]]
+- [[Relational Database Service|Amazon RDS]] for [[MySQL]]
 
 
 
