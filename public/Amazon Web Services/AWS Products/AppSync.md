@@ -3,7 +3,7 @@ icon: AiAppSync
 ---
 # Overview
 
-AWS AppSync is a managed serverless GraphQL service provided by Amazon Web Services that simplifies application development by enabling developers to create flexible, scalable, and real-time applications with a unified GraphQL API. It helps you securely access, manipulate, and combine data from one or more data sources.
+AWS AppSync is a managed serverless [[GraphQL]] service provided by Amazon Web Services that simplifies application development by enabling developers to create flexible, scalable, and real-time applications with a unified GraphQL API. It helps you securely access, manipulate, and combine data from one or more data sources.
 
 ### Key Features of AWS AppSync
 

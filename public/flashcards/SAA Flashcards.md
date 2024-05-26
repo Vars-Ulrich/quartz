@@ -37,7 +37,7 @@ EC2 Spot Blocks can be used for up to how long? :: 6 hours
 RDS Multi-AZ follows what kind of replication? :: Synchronous
 <!--SR:!2024-05-26,2,232-->
 
-RDS Read-replicas follow what kind of replication? :: Asynchronous
+RDS Read replicas follow what kind of replication? :: Asynchronous
 <!--SR:!2024-05-26,2,232-->
 
 AWS Lamda Currently supports how many concurrent executions per AWS account per region? :: 1000
@@ -187,10 +187,53 @@ Aurora Global can have up to how many read instances in each region where databa
 How fast can [[Aurora|Aurora Global]] perform storage replication? :: [[Aurora|Aurora Global]] is capable of **sub-second** storage replication
 <!--SR:!2024-05-26,2,232-->
 
+What is the main purpose of [[Relational Database Service|RDS]]Multi-AZ deployments?
+?
+The primary purpose of Multi-AZ is **high availability** 
+
+[[Relational Database Service|RDS]]Read replicas can be within which infrastructural locations?
+?
+Read replicas can be within:
+- an Availability Zone
+- Cross-AZ
+- Cross-Region
+
+what is the main purpose of [[Relational Database Service|RDS]] Multi-Region deployments?
+?
+the main purposes of Multi-Region 
+- **disaster recovery**
+- **local performance**
+
+RDS Multi-region deployments follow which kind of replication?
+?
+Multi-region deploys follow **Asynchronous** replication
+
+how rapidly can [[Relational Database Service|RDS]] Multi-AZ with **two readable standbys** can be expected to achieve auto-failover?
+?
+[[Relational Database Service]] deployments with Multi-AZ with two readable standbys typically auto-failover in **under 35 seconds**.  This occurs with zero data loss and obvi, no manual intervention.
+
+how rapidly can [[Relational Database Service|RDS]] Multi-AZ with **one standby** can be expected to achieve auto-failover?
+?
+60 seconds
+
+There are 7 [[Relational Database Service]] engines that are compatible with both Single-AZ and Multi-AZ/**single standby** deployments. What are they?
+?
+RDS engines available with both of these deployment types are:
+- Amazon RDS for [[PostgreSQL]]
+- Amazon RDS for [[MySQL]]
+- Amazon RDS for [[MariaDB]]
+- Amazon RDS for [[SQL Server]]
+- Amazon RDS for [[Oracle Corporation|Oracle]]
+- Amazon RDS for [[IBM Db2|Db2]]
+
+Which two [[Relational Database Service|RDS]] engines are compatible with Multi-AZ with two readable standbys?
 
 
 ## SAA Deck 3
 #flashcards/saa_exam
+
+
+
 
 A junior scientist working with the Deep Space Research Laboratory at NASA is trying to upload a high-resolution image of a nebula into Amazon S3. The image size is approximately 3 gigabytes. The junior scientist is using Amazon S3 Transfer Acceleration (Amazon S3TA) for faster image upload. It turns out that Amazon S3TA did not result in an accelerated transfer.  Given this scenario, which of the following is correct regarding the charges for this image transfer?
 - 1
@@ -199,7 +242,7 @@ A junior scientist working with the Deep Space Research Laboratory at NASA is tr
 - 4
 ?
 - 2
-<!--SR:!2024-05-25,1,212-->
+<!--SR:!2024-05-26,1,192-->
 
 
 

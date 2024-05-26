@@ -10,6 +10,39 @@ icon: MiSaaBadge
 ---
 # Overview
 
+
+## Exam Scope
+### Relavent [[AWS Products|Products]]
+
+- [[API Gateway]]
+- [[Artifact]]
+- [[Athena]]
+- [[Aurora]]
+- [[Command Line Interface]]
+- [[CloudFormation]]
+- [[Elastic Block Store]]
+- [[Elastic Cloud Compute]]
+- [[Kinesis]]
+- [[Kinesis Data Streams]]
+- [[Kinesis Firehose]]
+- [[Key Management Service]]
+- [[Route 53]]
+- [[Simple Storage Service]]
+- [[Simple Storage Service Glacier]]
+- [[Simple Queue Service]]
+- [[FSx]]
+- [[FSx for Lustre]]
+- [[FSx for NetApp ONTAP]]
+- [[FSx for OpenZFS]]
+- [[FSx for WFS]]
+- [[Fargate]]
+- [[Global Accelerator]]
+- [[Elastic Beanstalk]]
+- [[Elastic File System]]
+- [[ElastiCache]]
+- [[Elastic Load Balancing]]
+- [[EventBridge]]
+- [[Glue]]
 ## Self-Pointers and Fleeting Thoughts
 - each question is set up similarly to how a comedian might set up a joke. There is a **set up** and there is a **punchline.**
 	- the set up like a joke is typically long-winded, and comes before the actual punchline.  It provides **only context.**
@@ -22,9 +55,26 @@ icon: MiSaaBadge
 	- [[Elastic File System|EFS]]
 	- [[Elastic Block Store]]
 - Database differentiation
-- 
+- **[[Udemy SAA course]]**
+	- **Course Code**
+		- **api-gateway**
+		- **cli**
+		- **cloudformation**
+		- **ebs**
+		- **ec2-fundamentals**
+		- **efs**
+		- **kinesis**
+		- **kms**
+		- **route53**
+		- **s3**
+
+		- **s3-advanced**
+		- **sqs**
+		- **ssm**
 
 %% Begin Waypoint %%
+- **Practice Exams**
+
 - **[[Udemy SAA course]]**
 	- **[[Course Code]]**
 		- **api-gateway**

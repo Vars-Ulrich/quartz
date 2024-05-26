@@ -6,7 +6,7 @@ tags:
 
 > The **Apple II** is an early personal computer that was created by Apple Inc. It was one of the first successful mass-produced microcomputer products, and it played a significant role in the early development of the personal computer industry. It has an 8-bit microprocessor.
 >
-> The Apple II was designed primarily by [[Steve Wozniak]]; Jerry Manock developed the design of Apple II's foam-molded plastic case, Rod Holt developed the switching power supply, while Steve Jobs was not involved in the design or development of the computer. It was introduced by Jobs and Wozniak at the 1977 West Coast Computer Faire, and marks Apple's first launch of a personal computer aimed at a consumer market—branded toward American households rather than businessmen or computer hobbyists.
+> The Apple II was designed primarily by [[Steve Wozniak]]; Jerry Manock developed the design of Apple II's foam-molded plastic case, Rod Holt developed the switching power supply, while [[Steve Jobs]] was not involved in the design or development of the computer. It was introduced by Jobs and Wozniak at the 1977 West Coast Computer Faire, and marks Apple's first launch of a personal computer aimed at a consumer market—branded toward American households rather than businessmen or computer hobbyists.
 >
 > 
 >
