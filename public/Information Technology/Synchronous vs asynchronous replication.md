@@ -4,7 +4,7 @@ tags:
 icon: 
 aliases: 
 ---
-Replication is a process used to duplicate data from one location to another to ensure consistency and availability in distributed systems. Two primary methods of replication are synchronous replication and asynchronous replication. Each has its own advantages and disadvantages, making them suitable for different use cases. Here’s an in-depth comparison of the two methods:
+Replication is a process used to duplicate data from one location to another to ensure consistency and availability in distributed systems. Two primary methods of replication are synchronous replication and asynchronous replication. Each hxas its own advantages and disadvantages, making them suitable for different use cases. Here’s an in-depth comparison of the two methods:
 
 ### Synchronous Replication
 

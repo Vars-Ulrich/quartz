@@ -10,3 +10,5 @@ icon: AiAPIGateway
 		- enable stateless client-server communication
 	- WebSocket APIs
 		- adhere to the WebSocket protocol, which enables stateful, full-duplex communication between client and server
+## Supported API Types
+- ![[Pasted image 20240528101414.png]]

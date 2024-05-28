@@ -10,6 +10,7 @@ icon: MiAWSCloudOrange
 > 
 %% Begin Waypoint %%
 - **[[AWS Products]]**
+- [[AWS Serverless Application Model]]
 - [[Global AWS Services]]
 - [[Global Infrastructure]]
 - [[High Availability]]

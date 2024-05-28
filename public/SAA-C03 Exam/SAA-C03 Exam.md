@@ -10,7 +10,7 @@ icon: MiSaaBadge
 ---
 # Overview
 
-
+Bear in mind that some of this was sourced from ChatGPT and therefore, if something doesn't turn up any results, it might not be real.
 ## Exam Scope
 ### Relavent [[AWS Products|Products]]
 
@@ -44,33 +44,63 @@ icon: MiSaaBadge
 - [[EventBridge]]
 - [[Glue]]
 ## Self-Pointers and Fleeting Thoughts
-- each question is set up similarly to how a comedian might set up a joke. There is a **set up** and there is a **punchline.**
-	- the set up like a joke is typically long-winded, and comes before the actual punchline.  It provides **only context.**
-	- the punchline is the actual question being asked.
-		- **fucking pay closer attention to it** 
+- **fucking pay closer attention to the actual punchline of the question** 
+- SSE-S3 keys cant be used to audit trail usage of the keys
+	- but SSE-KMS keys can
+- Solutions can suffer from DNS cashing issues, especially for mobile users.
+	- this causes a delay in traffic redirection
+		- consider these things with differentiating between [[CloudFront]] and [[Route 53]]
 
-## Areas of Weakness
-- pricing of multitiered services
+## Areas of Weakness (pink highlights elsewhere)
+- ### pricing of multitiered services
 	- [[Simple Storage Service|S3]]
 	- [[Elastic File System|EFS]]
 	- [[Elastic Block Store]]
-- Database differentiation
-- **[[Udemy SAA course]]**
-	- **Course Code**
-		- **api-gateway**
-		- **cli**
-		- **cloudformation**
-		- **ebs**
-		- **ec2-fundamentals**
-		- **efs**
-		- **kinesis**
-		- **kms**
-		- **route53**
-		- **s3**
+- ### Database differentiation
+- ### LB types and specs
+	- **The Application Load Balancer (ALB) is best suited for load balancing HTTP and HTTPS** traffic and provides advanced request routing targeted at the delivery of modern application architectures, including microservices and containers. Operating at the individual request level ([[Open Systems Interconnection Model#Layer 7 - Application|Layer 7]]), the Application Load Balancer routes traffic to targets within Amazon Virtual Private Cloud (Amazon VPC) based on the content of the request.
+	- NLB cant do content-based routing
+- ### Cloudtrail insights
+	- what the fuck even are they bro?
+- ### Kinesis Data Streams vs Firehose
+	- what firehose can and cannot write to directly
+		- Amazon Kinesis Data Firehose is a fully managed service for delivering real-time streaming data to destinations such as Amazon Simple Storage Service (Amazon S3), Amazon Redshift, Amazon OpenSearch Service, Splunk, and any custom HTTP endpoint or HTTP endpoints owned by supported third-party service providers, including Datadog, Dynatrace, LogicMonitor, MongoDB, New Relic, and Sumo Logic.
+		- Firehose **cannot** directly write into a DynamoDB table
+- ### Business Intelligence
+	- overview of the concept
+- ### Limitations of services and products
+	- What can and cannot write what to where and vice-versa?
+- ### Transfer Charges for RDS read replicas
+	- cross-region data replication **DOES** incur xfer charges
+		- while it does not when the replication is occurring within the same region
+			- This is the case regardless of AZs, even cross-AZ. As long as they are within the same region, there are no charges for the transfer
+- ### [[Virtual Private Cloud|VPC]]
+	- Shared services VPC
+- ### [[Lambda]]
+	- lamda authorizer?
+- ### [[Cognito]]
+	- #### User vs Identity pools
+		- User Pools
+			- Provides built-in user management and authentication.
+		    - Allows you to create and manage user directories, and handle sign-up, sign-in, and user profile management.
+		    - Integrates directly with API Gateway for authorization using JWT tokens.
+		    - **Built-in user management**: Yes
+		- Identity pools
+			- Provides temporary AWS credentials for users to access AWS services.
+			- Primarily used for federating user identities from external identity providers (like Facebook, Google, etc.) to access AWS resources.
+			- Does not handle user management directly; instead, it complements User Pools by providing access to AWS resources after authentication.
+			- **Built-in user management**: No (complements User Pools for federated access)
+- ## Blue-Green deployment
+- ## [[Aurora]]
+	- provisioned vs serverless clusters
+		- hflkhslkfjsdlkhsdlf
+	- 
 
-		- **s3-advanced**
-		- **sqs**
-		- **ssm**
+
+
+
+
+
 
 %% Begin Waypoint %%
 - **Practice Exams**
@@ -78,31 +108,19 @@ icon: MiSaaBadge
 - **[[Udemy SAA course]]**
 	- **[[Course Code]]**
 		- **api-gateway**
-
 		- **cli**
-
 		- **cloudformation**
-
 		- **ebs**
-
 		- **ec2-fundamentals**
-
 		- **efs**
-
 		- **kinesis**
-
 		- **kms**
-
 		- **route53**
-
 		- **s3**
 
 		- **s3-advanced**
-
 		- **sqs**
-
 		- **ssm**
-
 
 %% End Waypoint %%
 
