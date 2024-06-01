@@ -303,29 +303,6 @@ Which [[cognito]] pool type boasts built-in user management?
 
 
 
-
-
-
-
-
-
-A junior scientist working with the Deep Space Research Laboratory at NASA is trying to upload a high-resolution image of a nebula into Amazon S3. The image size is approximately 3 gigabytes. The junior scientist is using Amazon S3 Transfer Acceleration (Amazon S3TA) for faster image upload. It turns out that Amazon S3TA did not result in an accelerated transfer.  Given this scenario, which of the following is correct regarding the charges for this image transfer?
-- 1
-- 2
-- 3
-- 4
-?
-- 2
-<!--SR:!2024-06-02,1,152-->
-
-
-
-
-
-
-
-
-
 ## Other decks
 
 

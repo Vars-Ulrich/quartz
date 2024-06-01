@@ -98,8 +98,6 @@ icon: MiWhiteQuestionMark
 - [[tvOS]]
 - [[Universal Serial Bus]]
 - [[Unix-like operating system]]
-- [[Untitled 2]]
-- [[Untitled]]
 - [[Vladimir Lenin]]
 - [[Voice over Internet Protocol]]
 - [[Warsaw Pact]]
