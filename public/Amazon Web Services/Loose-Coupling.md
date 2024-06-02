@@ -5,5 +5,5 @@ aliases:
 
 - A **loosely-coupled architecture** is one in which the system's individual elements do not directly depend on any one other element to the point of one's failure bringing the system to a halt.
 
-- a **brittle architecture** is just as it sounds.  It breaks easily.  Single points of failure define a brittle cloud architecture.
+- a **brittle architecture** is just as it sounds: it breaks easily.  Single points of failure define a brittle cloud architecture.
 

@@ -1,5 +1,3 @@
-# Ove
-  
 A "markup language" is a system for annotating a document in a way that is syntactically distinguishable from the text. The primary purpose of a markup language is to define and describe elements within a document, and these definitions are usually intended to instruct software how to display and interact with the document's content. Here are specific characteristics that delineate a language as being a markup language:
 
 1. **Tag-based Syntax**: Most markup languages use a system of tags to denote elements in a document. These tags generally come in pairs (a start tag and an end tag), and they surround content to apply formatting or to define the structure. For example, in HTML, `<p>` and `</p>` are used to denote a paragraph.

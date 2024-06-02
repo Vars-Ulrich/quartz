@@ -3,6 +3,7 @@ icon: MiWhiteQuestionMark
 ---
 # [[Unsorted Items]]
 %% Begin Waypoint %%
+- [[Aaron Swartz]]
 - [[Actuator]]
 - [[Ada Lovelace]]
 - [[Alan Turing]]
@@ -56,6 +57,7 @@ icon: MiWhiteQuestionMark
 - [[Macintosh System Software]]
 - [[MariaDB]]
 - [[Marie Curie]]
+- [[Markdown]]
 - [[May-24-2024]]
 - [[Mensheviks]]
 - [[Microarchitecture]]

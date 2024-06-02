@@ -15,6 +15,7 @@ icon: MiAWSCloudOrange
 - [[Global Infrastructure]]
 - [[High Availability]]
 - [[Loose-Coupling]]
+- **[[SAA-C03 Exam]]**
 - [[Shared Responsibility Model]]
 - [[Startup Loft]]
 - [[Throttling and Buffering]]

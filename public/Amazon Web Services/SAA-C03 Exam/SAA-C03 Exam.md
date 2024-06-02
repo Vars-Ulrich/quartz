@@ -109,19 +109,31 @@ Bear in mind that some of this was sourced from ChatGPT and therefore, if someth
 - **[[Udemy SAA course]]**
 	- **[[Course Code]]**
 		- **api-gateway**
+
 		- **cli**
+
 		- **cloudformation**
+
 		- **ebs**
+
 		- **ec2-fundamentals**
+
 		- **efs**
+
 		- **kinesis**
+
 		- **kms**
+
 		- **route53**
+
 		- **s3**
 
 		- **s3-advanced**
+
 		- **sqs**
+
 		- **ssm**
+
 
 %% End Waypoint %%
 

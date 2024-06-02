@@ -1,10 +1,12 @@
 ---
 aliases: 
+- ROM BIOS
+- Basic Input/Output System
 tags:
 ---
 # Overview
 
-The Basic Input/Output System (BIOS) is the first thing that runs when booting a [[Computer|computer]].  The BIOS interface is where one changes settings related to the motherboard and the low-level interaction between various hardware elements. 
+**The Basic Input/Output System (BIOS)** is the first thing that runs when booting a [[Computer|computer]].  The BIOS interface is where one changes settings related to the motherboard and the low-level interaction between various hardware elements. 
 
 > In [[Computing|computing]], **BIOS** (, BY-oss, -⁠ohss; Basic Input/Output System, also known as the System BIOS, ROM BIOS, BIOS ROM or PC BIOS) is firmware used to provide runtime services for operating systems and programs and to perform hardware initialization during the booting process (power-on startup). The BIOS firmware comes pre-installed on an IBM PC or IBM PC compatible's system board and exists in some UEFI-based systems to maintain compatibility with operating systems that do not support UEFI native operation. The name originates from the Basic Input/Output System used in the CP/M operating system in 1975. The BIOS originally proprietary to the IBM PC has been reverse engineered by some companies (such as Phoenix Technologies) looking to create compatible systems. The interface of that original system serves as a de facto standard.
 >

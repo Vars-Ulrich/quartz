@@ -4,7 +4,7 @@ aliases:
   - Software as a Service
 ---
 # Overview
-Software as a Service (SaaS) is a software distribution model in which applications are hosted by a third-party provider and made available to customers over the internet. This model allows users to access software applications on a subscription basis without the need for internal infrastructure or hardware. SaaS is one of the primary categories of cloud computing, alongside [[Infrastructure-as-a-Service|Infrastructure-as-a-Service (IaaS)]]  and [[Platform-as-a-Service|Platform-as-a-Service (PaaS)]].
+Software as a Service (SaaS) is a software distribution model in which applications are hosted by a third-party provider and made available to customers over the internet. This model allows users to access software applications on a subscription basis without the need for internal infrastructure or hardware. SaaS is one of the primary categories of cloud computing, alongside [[Infrastructure as a service|Infrastructure-as-a-Service (IaaS)]]  and [[Platform as a service|Platform-as-a-Service (PaaS)]].
 
 ### Key Characteristics of SaaS
 
