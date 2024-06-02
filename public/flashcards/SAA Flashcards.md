@@ -294,8 +294,13 @@ Which [[cognito]] pool type boasts built-in user management?
 [[Cognito]] **User pools**
 <!--SR:!2024-06-02,1,209-->
 
+How many virtual CPUs (vCPUs) does an [[Snowball|AWS Snowball]] Edge Storage Optimized device contain:
+?
+**40 vCPUs**
 
-
+Each [[Aurora]] database cluster is/can have how many primary instances?
+?
+**One:** clusters can have one and only one primary instance.  Emphasis on the singular form of the word "instance"
 
 
 ## SAA Deck 3

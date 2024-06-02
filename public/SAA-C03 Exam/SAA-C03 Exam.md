@@ -52,33 +52,33 @@ Bear in mind that some of this was sourced from ChatGPT and therefore, if someth
 		- consider these things with differentiating between [[CloudFront]] and [[Route 53]]
 
 ## Areas of Weakness (pink highlights elsewhere)
-- ### pricing of multitiered services
-	- [[Simple Storage Service|S3]]
-	- [[Elastic File System|EFS]]
-	- [[Elastic Block Store]]
-- ### Database differentiation
-- ### LB types and specs
-	- **The Application Load Balancer (ALB) is best suited for load balancing HTTP and HTTPS** traffic and provides advanced request routing targeted at the delivery of modern application architectures, including microservices and containers. Operating at the individual request level ([[Open Systems Interconnection Model#Layer 7 - Application|Layer 7]]), the Application Load Balancer routes traffic to targets within Amazon Virtual Private Cloud (Amazon VPC) based on the content of the request.
-	- NLB cant do content-based routing
-- ### Cloudtrail insights
-	- what the fuck even are they bro?
-- ### Kinesis Data Streams vs Firehose
-	- what firehose can and cannot write to directly
-		- Amazon Kinesis Data Firehose is a fully managed service for delivering real-time streaming data to destinations such as Amazon Simple Storage Service (Amazon S3), Amazon Redshift, Amazon OpenSearch Service, Splunk, and any custom HTTP endpoint or HTTP endpoints owned by supported third-party service providers, including Datadog, Dynatrace, LogicMonitor, MongoDB, New Relic, and Sumo Logic.
-		- Firehose **cannot** directly write into a DynamoDB table
-- ### Business Intelligence
-	- overview of the concept
-- ### Limitations of services and products
-	- What can and cannot write what to where and vice-versa?
-- ### Transfer Charges for RDS read replicas
-	- cross-region data replication **DOES** incur xfer charges
-		- while it does not when the replication is occurring within the same region
-			- This is the case regardless of AZs, even cross-AZ. As long as they are within the same region, there are no charges for the transfer
-- ### [[Virtual Private Cloud|VPC]]
-	- Shared services VPC
-- ### [[Lambda]]
-	- lamda authorizer?
-- ### [[Cognito]]
+### pricing of multitiered services
+- [[Simple Storage Service|S3]]
+- [[Elastic File System|EFS]]
+- [[Elastic Block Store]]
+### Database differentiation
+### LB types and specs
+- **The Application Load Balancer (ALB) is best suited for load balancing HTTP and HTTPS** traffic and provides advanced request routing targeted at the delivery of modern application architectures, including microservices and containers. Operating at the individual request level ([[Open Systems Interconnection Model#Layer 7 - Application|Layer 7]]), the Application Load Balancer routes traffic to targets within Amazon Virtual Private Cloud (Amazon VPC) based on the content of the request.
+- NLB cant do content-based routing
+### Cloudtrail insights
+- what the fuck even are they bro?
+### Kinesis Data Streams vs Firehose
+- what firehose can and cannot write to directly
+	- Amazon Kinesis Data Firehose is a fully managed service for delivering real-time streaming data to destinations such as Amazon Simple Storage Service (Amazon S3), Amazon Redshift, Amazon OpenSearch Service, Splunk, and any custom HTTP endpoint or HTTP endpoints owned by supported third-party service providers, including Datadog, Dynatrace, LogicMonitor, MongoDB, New Relic, and Sumo Logic.
+	- Firehose **cannot** directly write into a DynamoDB table
+### Business Intelligence
+- overview of the concept
+### Limitations of services and products
+- What can and cannot write what to where and vice-versa?
+### Transfer Charges for RDS read replicas
+- cross-region data replication **DOES** incur xfer charges
+	- while it does not when the replication is occurring within the same region
+		- This is the case regardless of AZs, even cross-AZ. As long as they are within the same region, there are no charges for the transfer
+### [[Virtual Private Cloud|VPC]]
+- Shared services VPC
+### [[Lambda]]
+- lamda authorizer?
+### [[Cognito]]
 	- #### User vs Identity pools
 		- User Pools
 			- Provides built-in user management and authentication.
@@ -90,11 +90,19 @@ Bear in mind that some of this was sourced from ChatGPT and therefore, if someth
 			- Primarily used for federating user identities from external identity providers (like Facebook, Google, etc.) to access AWS resources.
 			- Does not handle user management directly; instead, it complements User Pools by providing access to AWS resources after authentication.
 			- **Built-in user management**: No (complements User Pools for federated access)
-- ## Blue-Green deployment
-- ## [[Aurora]]
-	- provisioned vs serverless clusters
-		- hflkhslkfjsdlkhsdlf
-	- 
+### [[Blue-green deployment]]
+### [[Aurora]]
+- provisioned vs serverless clusters
+### [[Key Management Service|KMS]]
+- multi-region keys
+	- refer to practice test # 2_2 (question 7)
+### [[Global Accelerator]]
+- can use endpoint weights to determine the proportion of traffic that is directed to endpoints in an **endpoint group**
+	- This is the better choice for exam questions dealing in blue/green deployments in which problems with **DNS caching** on devices is a foreseeable issue
+		- ie: select this over route 53 weighted routing
+
+
+
 
 
 

@@ -35,6 +35,7 @@ Is not transitive and is, therefore, Difficult to manage
 
 [[SAA Course Slides.pdf#page=688&selection=14,0,17,0|SAA Course Slides, page 688]]
 
+
 #### Exam Alerts
 ##### [[IPv6]] Troubleshooting
 - [[IPv4]] CANNOT be disabled for you VPC and subnets

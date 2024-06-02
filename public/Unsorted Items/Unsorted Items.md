@@ -13,6 +13,7 @@ icon: MiWhiteQuestionMark
 - [[Aplastic Anemia]]
 - [[Apple Lisa]]
 - [[Apple, Inc.]]
+- [[Blue-green deployment]]
 - [[Bosnia-Herzegovina]]
 - [[Bus (computing)]]
 - [[Central Processing Unit]]

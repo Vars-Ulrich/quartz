@@ -3,6 +3,7 @@ icon: AiIoTCore
 ---
 # Overview
 
+## ChatGPT Overview
 ### Service Overview:
 
 AWS IoT Core is a managed cloud service provided by Amazon Web Services (AWS) that enables users to securely connect, manage, and interact with IoT devices and applications at scale. It serves as the backbone of the AWS IoT platform, offering features for device connectivity, message processing, security, and integration with other AWS services, facilitating the development of scalable and secure IoT solutions.
