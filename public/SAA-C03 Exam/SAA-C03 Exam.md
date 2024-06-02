@@ -99,14 +99,7 @@ Bear in mind that some of this was sourced from ChatGPT and therefore, if someth
 ### [[Global Accelerator]]
 - can use endpoint weights to determine the proportion of traffic that is directed to endpoints in an **endpoint group**
 	- This is the better choice for exam questions dealing in blue/green deployments in which problems with **DNS caching** on devices is a foreseeable issue
-		- ie: select this over route 53 weighted routing
-
-
-
-
-
-
-
+		- ie: select this over route 53 weighted routing in this case
 
 
 

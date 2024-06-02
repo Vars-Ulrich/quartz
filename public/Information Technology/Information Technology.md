@@ -80,6 +80,7 @@ icon: MiHappyMac
 - [[Musical Instrument Digital Interface]]
 - [[Natural Language Processing]]
 - [[Natural Language Understanding]]
+- [[Netcat]]
 - [[Network Address Translation]]
 - [[Network File System]]
 - [[Network Time Protocol]]

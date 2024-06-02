@@ -84,6 +84,7 @@ icon: MiWhiteQuestionMark
 - [[Redis]]
 - [[Reduced instruction set computer]]
 - [[Research Unix]]
+- [[Reverse access techniques]]
 - [[Runtime System]]
 - [[Soviet Union]]
 - [[SQL Server]]
