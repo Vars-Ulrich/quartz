@@ -79,17 +79,17 @@ Bear in mind that some of this was sourced from ChatGPT and therefore, if someth
 ### [[Lambda]]
 - lamda authorizer?
 ### [[Cognito]]
-	- #### User vs Identity pools
-		- User Pools
-			- Provides built-in user management and authentication.
-		    - Allows you to create and manage user directories, and handle sign-up, sign-in, and user profile management.
-		    - Integrates directly with API Gateway for authorization using JWT tokens.
-		    - **Built-in user management**: Yes
-		- Identity pools
-			- Provides temporary AWS credentials for users to access AWS services.
-			- Primarily used for federating user identities from external identity providers (like Facebook, Google, etc.) to access AWS resources.
-			- Does not handle user management directly; instead, it complements User Pools by providing access to AWS resources after authentication.
-			- **Built-in user management**: No (complements User Pools for federated access)
+- #### User vs Identity pools
+	- User Pools
+		- Provides built-in user management and authentication.
+		- Allows you to create and manage user directories, and handle sign-up, sign-in, and user profile management.
+		- Integrates directly with API Gateway for authorization using JWT tokens.
+		- **Built-in user management**: Yes
+	- Identity pools
+		- Provides temporary AWS credentials for users to access AWS services.
+		- Primarily used for federating user identities from external identity providers (like Facebook, Google, etc.) to access AWS resources.
+		- Does not handle user management directly; instead, it complements User Pools by providing access to AWS resources after authentication.
+		- **Built-in user management**: No (complements User Pools for federated access)
 ### [[Blue-green deployment]]
 ### [[Aurora]]
 - provisioned vs serverless clusters
