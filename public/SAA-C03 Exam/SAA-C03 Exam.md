@@ -10,7 +10,6 @@ icon: MiSaaBadge
 ---
 # Overview
 
-Bear in mind that some of this was sourced from ChatGPT and therefore, if something doesn't turn up any results, it might not be real.
 ## Exam Scope
 ### Relavent [[AWS Products|Products]]
 
@@ -20,6 +19,7 @@ Bear in mind that some of this was sourced from ChatGPT and therefore, if someth
 - [[Aurora]]
 - [[Command Line Interface]]
 - [[CloudFormation]]
+- [[CloudTrail]]
 - [[Elastic Block Store]]
 - [[Elastic Cloud Compute]]
 - [[Kinesis]]
@@ -43,6 +43,8 @@ Bear in mind that some of this was sourced from ChatGPT and therefore, if someth
 - [[Elastic Load Balancing]]
 - [[EventBridge]]
 - [[Glue]]
+
+
 ## Self-Pointers and Fleeting Thoughts
 - **fucking pay closer attention to the actual punchline of the question** 
 - SSE-S3 keys cant be used to audit trail usage of the keys
@@ -50,6 +52,7 @@ Bear in mind that some of this was sourced from ChatGPT and therefore, if someth
 - Solutions can suffer from DNS cashing issues, especially for mobile users.
 	- this causes a delay in traffic redirection
 		- consider these things with differentiating between [[CloudFront]] and [[Route 53]]
+- the only s3 class Snowball devices can input into for data  
 
 ## Areas of Weakness (pink highlights elsewhere)
 ### pricing of multitiered services
@@ -106,34 +109,22 @@ Bear in mind that some of this was sourced from ChatGPT and therefore, if someth
 %% Begin Waypoint %%
 - **Practice Exams**
 
-- **[[Udemy SAA course]]**
+- **Udemy SAA course**
 	- **[[Course Code]]**
 		- **api-gateway**
-
 		- **cli**
-
 		- **cloudformation**
-
 		- **ebs**
-
 		- **ec2-fundamentals**
-
 		- **efs**
-
 		- **kinesis**
-
 		- **kms**
-
 		- **route53**
-
 		- **s3**
 
 		- **s3-advanced**
-
 		- **sqs**
-
 		- **ssm**
-
 
 %% End Waypoint %%
 

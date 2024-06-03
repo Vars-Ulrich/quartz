@@ -4,12 +4,13 @@ tags:
 icon: 
 aliases: 
 ---
+## Overview
+
 This note is home for all flashcards for the purpose of prep for the  [[SAA-C03 Exam|AWS Certified Solutions Architect-Associate (SAA-C03) Exam]]
 
 Heading defining different decks are solely for the purpose of reducing clutter.  Grouping is without method or reason.
 
-## SAA Deck 1 what the fuck what the fuck?
-
+## SAA Deck 1
 #flashcards/saa 
 
 How many dimensions can you have per cloudwatch metric? :: There are **up to 30 dimensions per metric**
@@ -304,11 +305,34 @@ Each [[Aurora]] database cluster is/can have how many primary instances?
 
 
 ## SAA Deck 3
-#flashcards/saa_exam
+#flashcards/saa 
+
+keywords related to auditing and monitoring, such as "audit," "monitor," "logging," or "tracking" may be an indication of....
+?
+[[CloudTrail]]
+
+You have tranfered approx 70 GB this billing period (consisting of 1 month) out of [[Simple Storage Service|S3]] to the net.  How will this effect your bill?
+?
+**Not at all,** As data egress from s3 is completely free of charge for the first 100 GB transferred out to the net over month
+
+you monthly bill for [[Simple Storage Service|S3]] egress out to the net is ***exactly*** 9 cents.  This means exactly how many gigabytes have gone out.
+?
+**1,100 GB** which can also be expressed as **10.1 TB**
+
+This month you have transfered a lot of data out of [[Simple Storage Service|S3]] the internet: about **200 TB**.  How much will this cost you **per GB** over 150 TB
+?
+per the pricing policies of [[Simple Storage Service|S3]], you can expect to pay $0.05 per GB for data exceeding the 150 TB pricing tier
 
 
 
-## Other decks
+
+
+
+
+
+
+
+## Maybe Pile
 
 
 ```
