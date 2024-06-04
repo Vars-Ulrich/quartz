@@ -26,6 +26,7 @@ icon: MiWhiteQuestionMark
 - [[Cyrillic Script]]
 - [[Data Warehouse]]
 - [[Eastern Bloc]]
+- [[Enhance macOS clear command with neofetch]]
 - [[Eurasia]]
 - [[exam 1_1 questions]]
 - [[February Revolution]]

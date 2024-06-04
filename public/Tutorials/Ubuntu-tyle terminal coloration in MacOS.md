@@ -1,8 +1,11 @@
 ---
 title: 
-tags: 
+tags:
+  - macOS
+  - terminal
+  - tutorial
 icon: 
-aliases: 
+aliases:
 ---
 This one is really simple and can be done in just a few seconds. Credit to 
 
