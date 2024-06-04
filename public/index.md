@@ -15,6 +15,7 @@ You've reached the knowledge vault of  [Kipp Burroughs](https://KippBurroughs.c
 - [[Music]]
 - [[People]]
 - [[Historical]]
+- [[Tutorials]]
 - [[Unsorted Items]]
 ## Kipp's Personal Links
 - [Link Tree](https://linktr.ee/Kipp_it_100)
