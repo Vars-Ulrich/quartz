@@ -4,7 +4,7 @@
 - [[Reverse Engineering]]
 - [[Social Engineering]]
 - [[Solar Sunrise]]
-- [[wannacry]]
-- [[Zero day RDE]]
+- [[WannaCry]]
+- [[Zero day exploit]]
 
 %% End Waypoint %%
