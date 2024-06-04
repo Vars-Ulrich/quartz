@@ -67,10 +67,10 @@ Amazon S3 Transfer Acceleration can speed up content transfers to and from Amazo
 
 ### Data Transfer Pricing (section incomplete)
 
-#### Pricing for S3 ingress **from** internet
+#### Pricing for [[Simple Storage Service|S3]] ingress **from** internet
 - always free
 
-#### Pricing for S3 egress **to** internet
+#### Pricing for [[Simple Storage Service|S3]] egress **to** internet
 - **Free for the first 100 GB out per month**.  After that, t follows tiered pricing, with discounts being rewarded by tiers:
 	- **First 10 TB/Month**
 		- $0.09 per GB
