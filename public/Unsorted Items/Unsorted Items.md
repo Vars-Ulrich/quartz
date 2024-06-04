@@ -100,7 +100,6 @@ icon: MiWhiteQuestionMark
 - [[The Communist Manifesto]]
 - [[Tmux usage]]
 - [[tvOS]]
-- [[Ubuntu-tyle terminal coloration in MacOS]]
 - [[Universal Serial Bus]]
 - [[Unix-like operating system]]
 - [[Vladimir Lenin]]

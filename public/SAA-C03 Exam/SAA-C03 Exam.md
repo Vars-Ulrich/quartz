@@ -112,19 +112,31 @@ icon: MiSaaBadge
 - **Udemy SAA course**
 	- **[[Course Code]]**
 		- **api-gateway**
+
 		- **cli**
+
 		- **cloudformation**
+
 		- **ebs**
+
 		- **ec2-fundamentals**
+
 		- **efs**
+
 		- **kinesis**
+
 		- **kms**
+
 		- **route53**
+
 		- **s3**
 
 		- **s3-advanced**
+
 		- **sqs**
+
 		- **ssm**
+
 
 %% End Waypoint %%
 
