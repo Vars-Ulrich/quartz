@@ -42,7 +42,7 @@ alias clearall=/usr/bin/clear
 ```
 
 ### 4.  Save and exit the file
-- ctl + o to write out.
+- ctl + o to write out
 	- press enter when prompted for a name.  It must be `.zshrc`
 - ctl + x to exit nano
 
