@@ -7,7 +7,9 @@ tags:
 icon: 
 aliases:
 ---
-This one is really simple and can be done in just a few seconds. Credit to 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TfW72EnOm68?si=EyiktGzIf1Ib16Sp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+This one is really simple and can be done in just a few seconds. 
 
 ### 1.  Create or open your `.zshrc` file:
 ```bash
