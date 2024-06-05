@@ -46,7 +46,7 @@ alias clearall=/usr/bin/clear
 	- press enter when prompted for a name.  It must be `.zshrc`
 - ctl + x to exit nano
 
-### 4. Set your newly saved file as your shell source:
+### 5. Set your newly saved file as your shell source:
 ```bash
 source ~/.zshrc
 ```
