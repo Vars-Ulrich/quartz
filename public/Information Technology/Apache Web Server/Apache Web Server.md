@@ -3,7 +3,7 @@
 
 %% End Waypoint %%
 
-> **The Apache HTTP Server** ( ə-PATCH-ee) is a free and open-source cross-platform web server software, released under the terms of Apache License 2.0. It is developed and maintained by a community of developers under the auspices of the Apache Software Foundation.
+> **The Apache HTTP Server** ( ə-PATCH-ee) is a free and open-source cross-platform web server software, released under the terms of Apache License 2.0. It is developed and maintained by a community of developers under the auspices of the [[Apache Software Foundation]].
 >
 > The vast majority of Apache HTTP Server instances run on a [[Linux]] distribution, but current versions also run on [[Windows|Microsoft Windows]], OpenVMS, and a wide variety of Unix-like systems. Past versions also ran on NetWare, OS/2 and other operating systems, including ports to mainframes.
 >

@@ -2,14 +2,4 @@
 aliases: 
 tags:
 ---
-# Overview
-
-
-
-
-
-
-
-
-
-###### Key words
+clean apache restart cmd
