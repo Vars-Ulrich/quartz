@@ -7,6 +7,8 @@ tags:
 icon: 
 aliases:
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xbaxeuv2I40?si=G_0glyKiZY3re9Nn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 This will hopefully help you as it has helped me in keeping my terminal windows disciplined when using multiple shells/tmux.  When applied, each use of the `clear` command will also invoke `neofetch` giving a visually appealing and which-shell-indicative print-out every time you issue the command. 
 
 We will also configure an alias called `clearall` which will invoke **only the original `clear` binary **
