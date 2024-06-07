@@ -1,5 +1,7 @@
 ---
 icon: AiKinesis
+aliases:
+  - Amazon Kinesis
 ---
 # Kinesis
 AWS Kinesis is a suite of fully managed services provided by Amazon Web Services (AWS) that enables users to build real-time data streaming applications for collecting, processing, and analyzing large volumes of data in real-time. Kinesis offers a range of services tailored to different use cases and requirements, including data ingestion, real-time processing, and data analytics, allowing users to easily scale and manage their streaming data workflows in the cloud.

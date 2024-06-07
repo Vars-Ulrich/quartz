@@ -1,5 +1,7 @@
 ---
 icon: AiGlue
+aliases:
+  - AWS Glue
 ---
 # Glue
 

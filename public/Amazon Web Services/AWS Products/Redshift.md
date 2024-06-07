@@ -1,5 +1,7 @@
 ---
 icon: AiRedshift
+aliases:
+  - Amazon Redshift
 ---
 # Redshift
 - Amazon Redshift is a fully-managed petabyte-scale cloud-based data warehouse product designed for large scale data set storage and analysis.

@@ -1,7 +1,9 @@
 ---
 icon: AiEMR
 aliases:
-- EMR
+  - EMR
+  - Amazon EMR
+  - Amazon Elastic MapReduce
 ---
 # Overview
 

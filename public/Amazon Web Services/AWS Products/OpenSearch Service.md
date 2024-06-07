@@ -1,5 +1,7 @@
 ---
 icon: AiOpenSearchService
+aliases:
+  - Amazon OpenSearch Service
 ---
 - Successor to ElasticSearch
 - With OpenSearch, you can search any field, even partial matches

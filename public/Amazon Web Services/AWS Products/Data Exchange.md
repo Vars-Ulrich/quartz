@@ -1,5 +1,7 @@
 ---
 icon: AiDataExchange
+aliases:
+  - AWS Data Exchange
 ---
 # Overview
 

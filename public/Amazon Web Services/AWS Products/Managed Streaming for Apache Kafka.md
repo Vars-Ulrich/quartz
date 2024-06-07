@@ -2,6 +2,8 @@
 icon: AiManagedStreamingForApacheKafka
 aliases:
   - MSK
+  - Amazon Managed Streaming for Apache Kafka
+  - Amazon MSK
 ---
 # Overview
 

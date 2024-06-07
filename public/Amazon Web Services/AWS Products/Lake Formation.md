@@ -1,5 +1,7 @@
 ---
 icon: AiLakeFormation
+aliases:
+  - AWS Lake Formation
 ---
 # Overview
 

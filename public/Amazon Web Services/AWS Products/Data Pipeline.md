@@ -1,5 +1,7 @@
 ---
 icon: AiDataPipeline
+aliases:
+  - AWS Data Pipeline
 ---
 # Overview
 

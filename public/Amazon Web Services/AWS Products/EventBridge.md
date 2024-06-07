@@ -1,5 +1,7 @@
 ---
 icon: AiEventBridge
+aliases:
+  - Amazon EventBridge
 ---
 # Overview
 
@@ -56,3 +58,5 @@ AWS EventBridge is a serverless event bus service that makes it easy to connect 
 10. **Business Process Orchestration**: EventBridge orchestrates complex business processes by coordinating multiple tasks, services, and systems through event-driven workflows, ensuring seamless execution and coordination of business operations.
 
 AWS EventBridge provides a versatile and scalable event-driven architecture for a wide range of use cases across industries, empowering organizations to build responsive, automated, and efficient applications and workflows.
+
+

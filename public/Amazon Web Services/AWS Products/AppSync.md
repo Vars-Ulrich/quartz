@@ -1,5 +1,7 @@
 ---
 icon: AiAppSync
+aliases:
+  - Amazon AppSync
 ---
 # Overview
 
