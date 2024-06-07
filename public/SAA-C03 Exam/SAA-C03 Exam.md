@@ -15,7 +15,7 @@ This is the slop sheet for all thing's Amazon Certified Solutions Architect - As
 
 # Exam Scope
 
-## Technologies and concepts that might appear on the exam
+##         Technologies and concepts that might appear on the exam
 
 - Compute
 - Cost management
@@ -32,7 +32,7 @@ This is the slop sheet for all thing's Amazon Certified Solutions Architect - As
 - Storage
 
 
-## In-scope AWS services and features
+##         In-scope AWS services and features
 
 ### Analytics:
 
@@ -215,7 +215,163 @@ This is the slop sheet for all thing's Amazon Certified Solutions Architect - As
 - [[Simple Storage Service Glacier]]
 - [[Storage Gateway]]
 
+##  Out-of-Scope
 
+# Content Domains
+
+## 1. Design Secure Architectures
+
+### Task Statement 1.1: Design secure access to AWS resources.
+#### Knowledge of:
+- Access controls and management across multiple accounts
+- AWS federated access and identity services (for example, AWS Identity and Access Management [IAM], AWS IAM Identity Center [AWS Single Sign-On])
+- AWS global infrastructure (for example, Availability Zones, AWS Regions)
+- AWS security best practices (for example, the principle of least privilege)
+- The AWS [[Shared Responsibility Model]]
+#### Skills in:
+
+- Applying AWS security best practices to IAM users and root users (for example, multi-factor authentication [MFA])
+- Designing a flexible authorization model that includes IAM users, groups, roles, and policies
+- Designing a role-based access control strategy (for example, AWS Security Token Service [AWS STS], role switching, cross-account access)
+- Designing a security strategy for multiple AWS accounts (for example, AWS Control Tower, service control policies [SCPs])
+- Determining the appropriate use of resource policies for AWS services
+- Determining when to federate a directory service with IAM roles
+### Task Statement 1.2: Design secure workloads and applications.
+#### Knowledge of:
+- Application configuration and credentials security
+- AWS service endpoints
+- Control ports, protocols, and network traffic on AWS
+- Secure application access
+- Security services with appropriate use cases (for example, Amazon Cognito, Amazon GuardDuty, Amazon Macie)
+- Threat vectors external to AWS (for example, DDoS, SQL injection)
+
+#### Skills in: 
+- Designing VPC architectures with security components (for example, security groups, route tables, network ACLs, NAT gateways)
+- Determining network segmentation strategies (for example, using public subnets and private subnets)
+- Integrating AWS services to secure applications (for example, AWS Shield, AWS WAF, IAM Identity Center, AWS Secrets Manager)
+- Securing external network connections to and from the AWS Cloud (for example, VPN, AWS Direct Connect)
+
+### Task Statement 1.3: Determine appropriate data security controls.
+
+#### Knowledge of:
+#### Skill in:
+
+
+#### Knowledge of
+- Data access and governance
+- Data recovery
+- Data retention and classification
+- Encryption and appropriate key management
+
+#### Skills in
+- Aligning AWS technologies to meet compliance requirements
+- Encrypting data at rest (for example, AWS Key Management Service [AWS KMS])
+- Encrypting data in transit (for example, AWS Certificate Manager [ACM] using TLS)
+- Implementing access policies for encryption keys
+- Implementing data backups and replications
+- Implementing policies for data access, lifecycle, and protection
+- Rotating encryption keys and renewing certificates
+
+## 2. Design  Resilient Architectures
+### Task Statement 2.1: Design scalable and loosely coupled architectures.
+#### Knowledge of:
+- API creation and management (for example, Amazon API Gateway, REST API)
+- AWS managed services with appropriate use cases (for example, AWS Transfer Family, Amazon Simple Queue Service [Amazon SQS], Secrets Manager)
+- Caching strategies
+- Design principles for microservices (for example, stateless workloads compared with stateful workloads)
+- Event-driven architectures
+- Horizontal scaling and vertical scaling
+- How to appropriately use edge accelerators (for example, content delivery network [CDN]) • How to migrate applications into containers
+- Load balancing concepts (for example, Application Load Balancer)
+- Multi-tier architectures
+- Queuing and messaging concepts (for example, publish/subscribe)
+- Serverless technologies and patterns (for example, AWS Fargate, AWS Lambda)
+- Storage types with associated characteristics (for example, object, file, block)
+- The orchestration of containers (for example, Amazon Elastic Container Service [Amazon ECS], Amazon Elastic Kubernetes Service [Amazon EKS])
+- When to use read replicas
+- Workflow orchestration (for example, AWS Step Functions)
+#### Skills in:
+- Designing event-driven, microservice, and/or multi-tier architectures based on requirements
+- Determining scaling strategies for components used in an architecture design
+- Determining the AWS services required to achieve loose coupling based on requirements
+- Determining when to use containers
+- Determining when to use serverless technologies and patterns
+- Recommending appropriate compute, storage, networking, and database technologies based on requirements
+- Using purpose-built AWS services for workloads
+
+
+###  Task Statement 2.2: Design highly available and/or fault-tolerant architectures.
+#### Knowledge of:
+- AWS global infrastructure (for example, Availability Zones, AWS Regions, Amazon Route 53)
+- AWS managed services with appropriate use cases (for example, [[Comprehend|Amazon Comprehend]], Amazon [[Polly|Amazon Polly]])
+- Basic networking concepts (for example, route tables)
+- Disaster recovery (DR) strategies (for example, backup and restore, pilot light, warm standby, active-active failover, recovery point objective [RPO], recovery time objective [RTO])
+- Distributed design patterns
+- Failover strategies
+- Immutable infrastructure
+- Load balancing concepts (for example, Application Load Balancer)
+- Proxy concepts (for example, Amazon RDS Proxy)
+- Service quotas and throttling (for example, how to configure the service quotas for a workload in a standby environment)
+- Storage options and characteristics (for example, durability, replication)
+- Workload visibility (for example, AWS X-Ray)
+#### Skills in:
+- Determining automation strategies to ensure infrastructure integrity • Determining the AWS services required to provide a highly available and/or fault-tolerant architecture across AWS Regions or Availability Zones • Identifying metrics based on business requirements to deliver a highly available solution • Implementing designs to mitigate single points of failure • Implementing strategies to ensure the durability and availability of data (for example, backups) • Selecting an appropriate DR strategy to meet business requirements • Using AWS services that improve the reliability of legacy applications and applications not built for the cloud (for example, when application changes are not possible) • Using purpose-built AWS services for workloads
+## 3. Design High-Performing Architectures
+### Task Statement 3.1: Determine high-performing and/or scalable storage solutions.
+#### Knowledge of:
+- Hybrid storage solutions to meet business requirements
+- Storage services with appropriate use cases (for example, Amazon S3, Amazon Elastic File System [Amazon EFS], Amazon Elastic Block Store [Amazon EBS])
+- Storage types with associated characteristics (for example, object, file, block)
+#### Skills in:
+- Determining storage services and configurations that meet performance demands
+- Determining storage services that can scale to accommodate future needs
+
+### Task Statement 3.2: Design high-performing and elastic compute solutions.
+#### Knowledge of:
+- AWS compute services with appropriate use cases (for example, AWS Batch, Amazon EMR, Fargate)
+- Distributed computing concepts supported by AWS global infrastructure and edge services
+- Queuing and messaging concepts (for example, publish/subscribe)
+- Scalability capabilities with appropriate use cases (for example, Amazon EC2 Auto Scaling, AWS Auto Scaling)
+- Serverless technologies and patterns (for example, Lambda, Fargate)
+- The orchestration of containers (for example, Amazon ECS, Amazon EKS)
+#### Skills in:
+- Decoupling workloads so that components can scale independently
+- Identifying metrics and conditions to perform scaling actions
+- Selecting the appropriate compute options and features (for example, EC2 instance types) to meet business requirements
+- Selecting the appropriate resource type and size (for example, the amount of Lambda memory) to meet business requirements
+
+### Task Statement 3.3: Determine high-performing database solutions.
+#### Knowledge of:
+- AWS global infrastructure (for example, Availability Zones, AWS Regions)
+- Caching strategies and services (for example, Amazon ElastiCache) • Data access patterns (for example, read-intensive compared with write- intensive)
+- Database capacity planning (for example, capacity units, instance types, Provisioned IOPS)
+- Database connections and proxies
+- Database engines with appropriate use cases (for example, heterogeneous migrations, homogeneous migrations)
+- Database replication (for example, read replicas)
+- Database types and services (for example, serverless, relational compared with non-relational, in-memory)
+
+#### Skills in:
+- Configuring read replicas to meet business requirements
+- Designing database architectures
+- Determining an appropriate database engine (for example, MySQL compared with PostgreSQL)
+- Determining an appropriate database type (for example, Amazon Aurora, Amazon DynamoDB)
+- Integrating caching to meet business requirements
+
+### Task Statement 3.4: Determine high-performing and/or scalable network architectures.
+#### Knowledge of:
+- Edge networking services with appropriate use cases (for example, Amazon CloudFront, AWS Global Accelerator)
+- How to design network architecture (for example, subnet tiers, routing, IP addressing)
+- Load balancing concepts (for example, Application Load Balancer)
+- Network connection options (for example, AWS VPN, Direct Connect, AWS PrivateLink)
+
+#### Skills in:
+- Creating a network topology for various architectures (for example, global, hybrid, multi-tier)
+- Determining network configurations that can scale to accommodate future needs
+- Determining the appropriate placement of resources to meet business requirements
+- Selecting the appropriate load balancing strategy
+
+### Task Statement 3.5: Determine high-performing data ingestion and transformation solutions.
+## 4. Design Cost-Optimized Architectures
 # Self-Pointers and Fleeting Thoughts
 - **fucking pay closer attention to the actual punchline of the question** 
 - SSE-S3 keys cant be used to audit trail usage of the keys
