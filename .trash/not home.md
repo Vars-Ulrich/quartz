@@ -1,9 +1,8 @@
 ---
-title: Home
+title: 
 tags: 
-icon: MiHomeOrangeRoof
-aliases:
-  - Home
+icon: 
+aliases: 
 ---
 # [Kipp Burroughs's](https://KippBurroughs.com) Knowledge Vault
 - Created using [Obsidian](https://obsidian.md/)
