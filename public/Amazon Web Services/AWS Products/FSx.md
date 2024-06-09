@@ -1,5 +1,7 @@
 ---
 icon: AiFSx
+aliases:
+  - Amazon FSx
 ---
 # Overview
 

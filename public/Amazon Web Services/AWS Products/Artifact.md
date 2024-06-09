@@ -1,5 +1,7 @@
 ---
 icon: AiArtifact
+aliases:
+  - AWS Artifact
 ---
 # Overview
 

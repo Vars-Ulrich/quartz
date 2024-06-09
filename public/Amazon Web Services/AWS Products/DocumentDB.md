@@ -1,5 +1,7 @@
 ---
 icon: AiDocumentDB
+aliases:
+  - Amazon DocumentDB
 ---
 # Overview
 

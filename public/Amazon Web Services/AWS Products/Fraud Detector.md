@@ -1,5 +1,7 @@
 ---
 icon: AiFraudDetector
+aliases:
+  - Amazon Fraud Detector
 ---
 # Overview
 

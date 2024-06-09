@@ -1,5 +1,7 @@
 ---
 icon: AiKeyspaces
+aliases:
+  - Amazon Keyspaces
 ---
 # Overview
 

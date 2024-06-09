@@ -1,5 +1,7 @@
 ---
 icon: AiTranslate
+aliases:
+  - Amazon Translate
 ---
 # Overview
 

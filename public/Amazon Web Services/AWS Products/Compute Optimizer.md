@@ -1,5 +1,7 @@
 ---
 icon: AiComputeOptimizer
+aliases:
+  - AWS Compute Optimizer
 ---
 # Overview
 AWS Compute Optimizer recommends optimal [[amazon web services|AWS]] resources for your workloads to reduce costs and improve performance by using machine learning to analyze historical utilization metrics. Over-provisioning resources can lead to unnecessary infrastructure costs, and under-provisioning resources can lead to poor application performance. Compute Optimizer helps you choose optimal configurations for three types of AWS resources: Amazon [[Elastic Cloud Compute|EC2]] instances, Amazon [[Elastic Block Store|EBS]] volumes, and AWS [[Lambda]] functions, based on your utilization data.

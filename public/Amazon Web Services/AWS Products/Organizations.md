@@ -1,5 +1,7 @@
 ---
 icon: AiOrganizations
+aliases:
+  - AWS Organizations
 ---
 # Organizations
 

@@ -1,5 +1,7 @@
 ---
 icon: AiMigrationHub
+aliases:
+  - AWS Migration Hub
 ---
 # Overview
 

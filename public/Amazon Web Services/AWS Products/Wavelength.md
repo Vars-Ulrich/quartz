@@ -1,5 +1,7 @@
 ---
 icon: AiWavelength
+aliases:
+  - AWS Wavelength
 ---
 # Overview
 

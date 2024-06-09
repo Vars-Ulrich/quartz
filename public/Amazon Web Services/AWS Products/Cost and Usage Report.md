@@ -1,5 +1,7 @@
 ---
 icon: AiCostAndUsageReport
+aliases:
+  - AWS Cost and Usage Report
 ---
 # Overview
 - Contains **most comprehensive** set of cost and usage data available

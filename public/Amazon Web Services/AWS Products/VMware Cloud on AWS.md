@@ -1,5 +1,7 @@
 ---
 icon: AiVMwareCloudOnAWS
+aliases:
+  - VMware Cloud on AWS
 ---
 # Overview
 

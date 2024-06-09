@@ -1,5 +1,7 @@
 ---
 icon: AiAutoScaling
+aliases:
+  - AWS Auto Scaling
 ---
 # Overview
 

@@ -1,5 +1,7 @@
 ---
 icon: AiStorageGateway
+aliases:
+  - AWS Storage Gateway
 ---
 # Storage Gateway
 AWS Storage Gateway is a hybrid cloud storage service that connects your existing on-premises environments with the AWS Cloud. Customers use Storage Gateway to simplify storage management and reduce costs for key hybrid cloud storage use cases.

@@ -1,5 +1,7 @@
 ---
 icon: AiAPIGateway
+aliases:
+  - Amazon API Gateway
 ---
 # Overview
 - Fully Managed

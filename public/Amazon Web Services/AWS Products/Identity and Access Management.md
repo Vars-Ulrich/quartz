@@ -2,6 +2,8 @@
 icon: AiIdentityAndAccessManagement
 aliases:
   - IAM
+  - AWS Identity and Access Management
+  - AWS IAM
 ---
 
 # Identity and Access Management

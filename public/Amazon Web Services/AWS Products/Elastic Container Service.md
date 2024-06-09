@@ -2,6 +2,8 @@
 icon: AiElasticContainerService
 aliases:
   - ECS
+  - Amazon Elastic Container Service
+  - Amazon ECS
 ---
 # Elastic Container Service
 Amazon Elastic Container Service (Amazon ECS) is a highly scalable, fast, container management service that makes it easy to run, stop, and manage Docker containers on a cluster.

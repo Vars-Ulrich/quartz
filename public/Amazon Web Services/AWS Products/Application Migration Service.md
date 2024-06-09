@@ -1,5 +1,7 @@
 ---
 icon: AiApplicationMigrationService
+aliases:
+  - AWS Application Migration Service
 ---
 # Overview
 

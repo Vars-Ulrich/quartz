@@ -13,7 +13,7 @@ AWS AppSync is a managed serverless [[GraphQL]] service provided by Amazon Web S
     
 2. **Real-Time Data with Subscriptions**: Supports real-time updates with GraphQL subscriptions, enabling web and mobile applications to maintain live updates. This is ideal for applications like chat apps, real-time notifications, and live data feeds.
     
-3. **Data Integration**: AppSync can integrate with various data sources directly, including AWS DynamoDB, AWS Lambda, Amazon Elasticsearch Service, as well as HTTP REST APIs. This allows it to act as a unified API layer for multiple backend services.
+3. **Data Integration**: AppSync can integrate with various data sources directly, including AWS DynamoDB, AWS Lambda, Amazon Elasticsearch Service, as well as HTTP [[REST API]]s. This allows it to act as a unified [[Application Programming Interface|API]] layer for multiple backend services.
     
 4. **Offline Support**: AppSync provides automatic data synchronization capabilities, which enable applications to function seamlessly offline and resynchronize with backend data stores when connectivity is restored.
     

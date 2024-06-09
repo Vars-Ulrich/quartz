@@ -3,6 +3,7 @@ icon: AiEFS
 aliases:
   - EFS
   - Amazon EFS
+  - Amazon Elastic File System
 ---
 # Elastic File System
 Support high availability by default

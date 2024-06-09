@@ -1,5 +1,7 @@
 ---
 icon: AiPinpoint
+aliases:
+  - Amazon Pinpoint
 ---
 # Overview
 

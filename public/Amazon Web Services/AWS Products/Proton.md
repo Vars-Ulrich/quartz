@@ -1,5 +1,7 @@
 ---
 icon: AiProton
+aliases:
+  - AWS Proton
 ---
 # Overview
 

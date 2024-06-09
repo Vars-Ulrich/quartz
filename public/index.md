@@ -3,12 +3,13 @@ title: Home
 tags: 
 icon: MiHomeOrangeRoof
 aliases:
-  - Home
+  - 🏠Home
 ---
 # [Kipp Burroughs's](https://KippBurroughs.com) Knowledge Vault
 - Created using [Obsidian](https://obsidian.md/)
 - Built using [Quartz](https://quartz.jzhao.xyz/)
 - Hosted on [GitHub Pages](https://pages.github.com/)
+
 ## Vault Overview
 - ### [[Amazon Web Services]] 
 - ### [[SAA-C03 Exam]]
@@ -18,6 +19,7 @@ aliases:
 - ### [[Historical]]
 - ### [[Tutorials]]
 - ### [[Unsorted Items]]
+
 ## Kipp's Personal Links
 - [Link Tree](https://linktr.ee/Kipp_it_100)
 - [LinkedIn](https://www.linkedin.com/in/kipp-burroughs/)

@@ -1,5 +1,7 @@
 ---
 icon: AiRekognition
+aliases:
+  - Amazon Rekognition
 ---
 # Rekognition
 Regional in scope

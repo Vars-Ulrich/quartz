@@ -26,7 +26,7 @@ aliases:
 ## Use Cases
 - Business intelligence
 - Analytics
-- report, analyze, & query VPC flow logs
+- report, analyze, & query [[Virtual Private Cloud|VPC]] flow logs
 - [[Elastic Load Balancing|ELB]] Logs
 - [[CloudTrail]] trails
 - Ad-hoc queries
@@ -66,19 +66,12 @@ aliases:
 
 ## Federated Query
 - Allows you to run [[Structured Query Language|SQL]] queries across data stored in relational, nne-relational, object, and custom data sources
-	- AWS or om-premises
+	- AWS or on-premises
 - Uses Data Source Connectors that run on [[Lambda|AWS Lambda]] to run Federated Queries, for example
 	- [[CloudWatch]] Logs
 	- [[DynamoDB]]
 	- [[Relational Database Service|RDS]]
 - Store the results back in [[Simple Storage Service|S3]]
- 
+
 ## Exam Alerts
 - Analyze data in [[Simple Storage Service|S3]] using serverless [[Structured Query Language|SQL]], you should be thinking [[Athena]]
-- 
-
-
-
-
-
-

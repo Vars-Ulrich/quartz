@@ -1,5 +1,7 @@
 ---
 icon: AiLambda
+aliases:
+  - AWS Lambda
 ---
 # Overview
 lets you run code without provisioning or managing servers

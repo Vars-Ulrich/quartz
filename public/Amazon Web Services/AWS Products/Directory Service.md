@@ -1,5 +1,7 @@
 ---
 icon: AiDirectoryService
+aliases:
+  - AWS Directory Service
 ---
 # Overview
 

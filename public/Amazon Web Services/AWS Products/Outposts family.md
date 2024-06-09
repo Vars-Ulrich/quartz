@@ -1,5 +1,6 @@
 ---
 icon: AiOutpostsFamily
+aliases:
 ---
 # Overview
 

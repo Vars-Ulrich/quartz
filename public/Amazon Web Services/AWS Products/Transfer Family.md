@@ -1,5 +1,7 @@
 ---
 icon: AiTransferFamily
+aliases:
+  - AWS Transfer Family
 ---
 # Overview
 

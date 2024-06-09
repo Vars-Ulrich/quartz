@@ -1,5 +1,7 @@
 ---
 icon: AiApplicationDiscoveryService
+aliases:
+  - AWS Application Discovery Service
 ---
 # Overview
 

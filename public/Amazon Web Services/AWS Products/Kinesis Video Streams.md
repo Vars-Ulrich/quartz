@@ -1,5 +1,7 @@
 ---
 icon: AiKinesisVideoStreams
+aliases:
+  - Amazon Kinesis Video Streams
 ---
 # Overview
 

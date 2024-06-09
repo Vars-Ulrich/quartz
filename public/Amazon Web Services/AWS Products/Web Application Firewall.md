@@ -2,6 +2,8 @@
 icon: AiWAF
 aliases:
   - WAF
+  - AWS WAF 
+  - AWS Web Application Firewall
 ---
 # Overview
 - a web app firewall allowing for  monitoring of [[Hypertext Transfer Protocol|HTTP]] reqs that are forwarded to:

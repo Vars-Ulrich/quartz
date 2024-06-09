@@ -2,6 +2,7 @@
 icon: AiSimpleStorageServiceGlacier
 aliases:
   - S3 Glacier
+  - Amazon S3 Glacier
 ---
 # Overview
 

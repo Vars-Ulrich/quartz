@@ -1,5 +1,7 @@
 ---
 icon: AiClientVPN
+aliases:
+  - AWS Client VPN
 ---
 # Overview
 

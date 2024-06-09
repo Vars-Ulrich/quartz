@@ -1,5 +1,7 @@
 ---
 icon: AiForecast
+aliases:
+  - Amazon Forecast
 ---
 # Overview
 

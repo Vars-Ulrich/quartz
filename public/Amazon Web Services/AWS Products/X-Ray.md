@@ -1,5 +1,7 @@
 ---
 icon: AiXRay
+aliases:
+  - AWS X-Ray
 ---
 # Overview
 

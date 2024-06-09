@@ -1,5 +1,7 @@
 ---
 icon: AiAuditManager
+aliases:
+  - AWS Audit Manager
 ---
 # Overview
 

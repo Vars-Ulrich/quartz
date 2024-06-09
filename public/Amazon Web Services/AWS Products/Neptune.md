@@ -1,5 +1,7 @@
 ---
 icon: AiNeptune
+aliases:
+  - Amazon Neptune
 ---
 # Overview 
 - Fully-managed graph database

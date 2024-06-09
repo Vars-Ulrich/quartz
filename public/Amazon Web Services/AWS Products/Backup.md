@@ -1,5 +1,7 @@
 ---
 icon: AiBackup
+aliases:
+  - AWS Backup
 ---
 # Overview
 

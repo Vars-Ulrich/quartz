@@ -2,6 +2,7 @@
 icon: AiDataExchange
 aliases:
   - AWS Data Exchange
+title:
 ---
 # Overview
 
@@ -11,7 +12,7 @@ AWS Data Exchange is a service offered by Amazon Web Services that makes it easy
 
 1. **Vast Catalog of Datasets**: AWS Data Exchange provides access to a rich and diverse catalog of third-party datasets from various industries such as financial services, healthcare, media, and more. These datasets are provided by reputable data providers who manage and update their data offerings.
     
-2. **Seamless Integration with AWS Services**: Once subscribed to a dataset, data consumers can easily use AWS services such as Amazon S3, Amazon Redshift, and Amazon Athena to analyze the data. This integration simplifies the workflow from data subscription to analysis.
+2. **Seamless Integration with AWS Services**: Once subscribed to a dataset, data consumers can easily use AWS services such as [[Simple Storage Service|Amazon S3]], [[Redshift|Amazon Redshift]], and [[Athena|Amazon Athena]] to analyze the data. This integration simplifies the workflow from data subscription to analysis.
     
 3. **Managed and Secure Subscription Process**: The subscription process is managed entirely within the AWS environment, ensuring that all data transfers are secure and that the data usage complies with licensing agreements set by the data providers.
     

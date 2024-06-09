@@ -1,5 +1,7 @@
 ---
 icon: AiSecurityHub
+aliases:
+  - AWS Security Hub
 ---
 # Overview
 

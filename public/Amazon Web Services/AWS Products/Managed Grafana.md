@@ -1,5 +1,7 @@
 ---
 icon: AiManagedGrafana
+aliases:
+  - Amazon Managed Grafana
 ---
 # Overview
 

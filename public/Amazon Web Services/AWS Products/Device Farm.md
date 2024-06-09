@@ -1,5 +1,7 @@
 ---
 icon: AiDeviceFarm
+aliases:
+  - AWS Device Farm
 ---
 
 # Overview

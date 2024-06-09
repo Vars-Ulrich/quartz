@@ -1,5 +1,7 @@
 ---
 icon: AiEKSAnywhere
+aliases:
+  - Amazon EKS Anywhere
 ---
 # Overview
 

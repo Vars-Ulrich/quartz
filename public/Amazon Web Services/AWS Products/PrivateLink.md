@@ -1,5 +1,7 @@
 ---
 icon: AiPrivateLink
+aliases:
+  - AWS PrivateLink
 ---
 # Overview
 

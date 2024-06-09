@@ -1,5 +1,7 @@
 ---
 icon: AiDataSync
+aliases:
+  - AWS DataSync
 ---
 # Overview
 - AWS DataSync is a secure online data transfer service that simplifies, automates, and accelerates copying terabytes of data to and from AWS storage services. Easily migrate or replicate large data sets without having to build custom solutions or oversee repetitive tasks. DataSync can copy data between [[Network File System|Network File System (NFS)]] shares, or [[Server Message Block|Server Message Block (SMB)]] shares, self-managed object storage, [[Snowcone|AWS Snowcone]], [[Simple Storage Service|Amazon Simple Storage Service (Amazon S3)]] buckets, [[Elastic File System|Amazon Elastic File System (Amazon EFS)]] file systems, and [[FSx|Amazon FSx]] for Windows File Server file systems.

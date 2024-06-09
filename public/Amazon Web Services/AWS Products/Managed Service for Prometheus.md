@@ -1,5 +1,7 @@
 ---
 icon: AiManagedServiceForPrometheus
+aliases:
+  - Amazon Managed Service for Prometheus
 ---
 # Overview
 

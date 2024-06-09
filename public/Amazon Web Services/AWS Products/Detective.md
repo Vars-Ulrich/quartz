@@ -1,5 +1,7 @@
 ---
 icon: AiDetective
+aliases:
+  - Amazon Detective
 ---
 # Overview
 

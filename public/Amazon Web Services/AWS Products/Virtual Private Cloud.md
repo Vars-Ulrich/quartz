@@ -2,6 +2,8 @@
 icon: AiVirtualPrivateCloud
 aliases:
   - VPC
+  - Amazon VPC
+  - Amazon Virtual Private Cloud
 ---
 # Virtual Private Cloud
 - Amazon Virtual Private Cloud (Amazon VPC) is a logically isolated section of the AWS Cloud where you can launch AWS resources in a virtual network that you define. You have complete control over your virtual networking environment, including the selection of your IP address range, creation of subnets, and configuration of route tables and network gateways. 

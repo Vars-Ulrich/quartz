@@ -17,19 +17,19 @@ How many dimensions can you have per cloudwatch metric? :: There are **up to 30 
 <!--SR:!2024-06-15,14,232-->
 
 When being asked about improving performance for applications over TCP or UDP think... :: [[Global Accelerator]]
-<!--SR:!2024-06-06,1,172-->
+<!--SR:!2024-06-10,2,172-->
 
 Which data sources are supported by GuardDuty? :: VPC Flow Logs, DNS Logs, CloudTrail events
-<!--SR:!2024-06-07,2,170-->
+<!--SR:!2024-06-11,3,170-->
 
 Scenarios necessitating serverless architecture wont include what AWS product? :: EC2
 <!--SR:!2024-06-26,22,250-->
 
 How many messages per second are supported by SQS FIFO? :: 300
-<!--SR:!2024-06-06,13,272-->
+<!--SR:!2024-06-09,1,252-->
 
 How many batch messages per operation are supported by SQS FIFO :: 10
-<!--SR:!2024-06-06,2,212-->
+<!--SR:!2024-06-12,4,212-->
 
 EC2 Spot Blocks can be used for up to how long? :: 6 hours
 <!--SR:!2024-06-10,9,232-->
@@ -38,7 +38,7 @@ RDS Multi-AZ follows what kind of replication? :: Synchronous
 <!--SR:!2024-06-10,6,232-->
 
 RDS Read replicas follow what kind of replication? :: Asynchronous
-<!--SR:!2024-06-07,2,192-->
+<!--SR:!2024-06-12,4,192-->
 
 AWS Lamda Currently supports how many concurrent executions per AWS account per region? :: 1000
 <!--SR:!2024-06-24,20,252-->
@@ -53,10 +53,10 @@ Any time that you see that you need to rapidly evolve schemas/have a flexible ty
 <!--SR:!2024-06-11,10,272-->
 
 If you encounter an exam question, it's asking about a dynamo DB implementation that is capable of microsecond read latency, you come to mind? :: A [[DynamoDB#Dynamo DB accelerator (DAX)|DynamoDB Accelerator (DAX)]]  cluster can be used as a read cache, providing miscrosecond latency
-<!--SR:!2024-06-08,7,210-->
+<!--SR:!2024-06-09,1,190-->
 
 Which database option is ideal for serverless app development use cases that use small documents or for a distributed serverless cache? :: [[DynamoDB]]
-<!--SR:!2024-06-06,2,172-->
+<!--SR:!2024-06-09,1,152-->
 
 What is the max object size that can be stored using [[Simple Storage Service|S3]]? :: 5 terabytes is the max object size for storage in [[Simple Storage Service|S3]]
 <!--SR:!2024-06-14,13,230-->
@@ -76,7 +76,7 @@ Which AWS databases support both in-transit and at-rest encryption? :: All of AW
 <!--SR:!2024-06-20,19,250-->
 
 Which database helps you store relational datasets, with SQL language compatibility and the capability of processing transactions such as insert, update, and delete? :: [[Relational Database Service]]
-<!--SR:!2024-06-07,2,170-->
+<!--SR:!2024-06-11,3,170-->
 
 Which AWS service provides you with caching capability that is compatible with Redis API? :: [[ElastiCache]]
 <!--SR:!2024-06-16,15,230-->
@@ -85,7 +85,7 @@ You want to migrate an on-premises MongoDB NoSQL database to AWS. You don't want
 <!--SR:!2024-06-09,8,212-->
 
 You are looking to perform Online Transaction Processing (OLTP). You would like to use a database that has built-in auto-scaling capabilities and provides you with the maximum number of replicas for its underlying storage. What AWS service do you recommend? :: [[Aurora]]
-<!--SR:!2024-06-06,2,192-->
+<!--SR:!2024-06-12,4,192-->
 
 As a Solutions Architect, a startup company asked you for help as they are working on an architecture for a social media website where users can be friends with each other, and like each other's posts. The company plan on performing some complicated queries such as _"What are the number of likes on the posts that have been posted by the friends of Mike?"_. Which database do you recommend?  :: [[Neptune]]
 <!--SR:!2024-06-18,17,252-->
@@ -97,19 +97,19 @@ A company has an on-premises website that uses ReactJS as its frontend, NodeJS a
 <!--SR:!2024-06-09,8,230-->
 
 A company using a self-hosted on-premises Apache Cassandra database which they want to migrate to AWS. Which AWS service can they use which provides them with a fully managed, highly available, and scalable Apache Cassandra database? :: [[Keyspaces]]
-<!--SR:!2024-06-08,4,210-->
+<!--SR:!2024-06-18,10,210-->
 
 An online payment company is using AWS to host its infrastructure. Due to the application’s nature, they have a strict requirement to store an accurate record of financial transactions such as credit and debit transactions. Those transactions must be stored in secured, immutable, encrypted storage which can be cryptographically verified. Which AWS service is best suited for this use case? :: [[Quantum Ledger Database]]
 <!--SR:!2024-06-16,15,230-->
 
 A startup is working on developing a new project to reduce forest fires due to climate change. The startup is developing sensors that will be spread across the entire forest to make some readings such as temperature, humidity, and pressures which will help detect the forest fires before it happens. They are going to have thousands of sensors that are going to store a lot of readings each second. There is a requirement to store those readings and do fast analytics so they can predict if there is a fire. Which AWS service can they use to store those readings? :: [[Timestream]]
-<!--SR:!2024-06-07,2,230-->
+<!--SR:!2024-06-13,5,230-->
 
 Any time you need to analyze data in S3 using a serverless SQL engine, think... :: [[Athena]]
-<!--SR:!2024-06-08,4,210-->
+<!--SR:!2024-06-21,13,230-->
 
 You have five [[CloudFormation]] templates; each template is for a different application architecture. This architecture varies between your blog apps and your gaming apps. What determines the cost of using the CloudFormation templates? ::  [[CloudFormation]] does not have any additional cost but you are charged for the underlying resources it builds.
-<!--SR:!2024-06-07,3,230-->
+<!--SR:!2024-06-09,1,210-->
 
 If you want to use an [[Secure Sockets Layer|SSL]] protocol but do not want to terminate the connection on your load balancer, you can use a __________ protocol for connection from the client to your load balancer. :: [[Transmission Control Protocol|TCP]]
 <!--SR:!2024-06-12,11,230-->
@@ -118,28 +118,28 @@ You are building an automated transcription service in which "Amazon EC2 worker"
 <!--SR:!2024-06-10,9,212-->
 
 In the event of a planned or an unplanned outage of your primary DB instance, Amazon RDS automatically switches to a standby replica in another Availability Zone if you have enabled_________. :: Multiple Availability Zones
-<!--SR:!2024-06-07,2,230-->
+<!--SR:!2024-06-13,5,230-->
 
 Which of the following approaches provides the lowest cost for Amazon elastic block store snapshots while giving you the ability to fully restore data? :: Maintain two snapshots: the original snapshot and the latest incremental snapshot.
 <!--SR:!2024-06-11,10,230-->
 
 A user has created multiple data points for the CloudWatch metrics with the dimensions, Box=UAT, App = Document and Box = UAT, App = Notes. If the user queries CloudWatch with the dimensions parameter as, Server=prod, what data will he get? :: It will not return any data as the dimension for Box=UAT does not exist
-<!--SR:!2024-06-07,3,230-->
+<!--SR:!2024-06-09,1,210-->
 
 You try to enable lifecycle policies on one of the S3 buckets created by you, but you are not able to do so on that particular bucket. What could be the reason? :: Versioning is not enabled on that bucket.
 <!--SR:!2024-06-20,19,252-->
 
 Which IAM policy condition key should be used if you want to check whether the request was sent using SSL? :: AWS: secure transport
-<!--SR:!2024-06-06,1,192-->
+<!--SR:!2024-06-11,3,212-->
 
 Allow users to use actions that start with 'Describe' across all the EC2 resources. ::: What does the following policy for Amazon EC2 do? { "Statement": [{ "Effect":"Allow", "Action":"ec2: Describe*", "Resource":"*" }
-<!--SR:!2024-06-06,2,192!2024-06-07,3,232-->
+<!--SR:!2024-06-09,1,250!2024-06-20,12,252-->
 
 To create an Amazon [[Elastic Block Store|EBS-backed]] from an Amazon EBS-backed instance that is either running or has stopped ::: For what purpose is the string "create image" API action used?
-<!--SR:!2024-06-07,3,250!2024-06-13,12,230-->
+<!--SR:!2024-06-09,1,230!2024-06-13,12,230-->
 
 dedicated instance ::: If you launch an instance into a [[Virtual Private Cloud|VPC]] that has an <mark style="background: #FFB8EBA6;">instance tenancy</mark> of a ______________, your instance is automatically a Dedicated Instance, regardless of the tenancy of the instance
-<!--SR:!2024-06-09,8,230!2024-06-06,1,210-->
+<!--SR:!2024-06-09,8,230!2024-06-09,1,190-->
 
 This is a serverless query service used to analyze data stored on [[Simple Storage Service|S3]]. :: [[Athena]]
 <!--SR:!2024-06-20,16,250-->
@@ -166,7 +166,7 @@ Logs from this AWS product are stored in an [[Simple Storage Service|Amazon S3]]
 <!--SR:!2024-06-14,10,270-->
 
 - Think infrastructure as code, think... :: [[CloudFormation]]
-<!--SR:!2024-06-07,3,232-->
+<!--SR:!2024-06-14,6,232-->
 
 
 ## SAA Deck 2
@@ -185,12 +185,12 @@ Aurora Global can have up to how many read instances in each region where databa
 <!--SR:!2024-06-14,13,232-->
 
 How fast can [[Aurora|Aurora Global]] perform storage replication? :: [[Aurora|Aurora Global]] is capable of **sub-second** storage replication
-<!--SR:!2024-06-07,2,192-->
+<!--SR:!2024-06-12,4,192-->
 
 What is the main purpose of [[Relational Database Service|RDS]]Multi-AZ deployments?
 ?
 The primary purpose of Multi-AZ is **high availability**
-<!--SR:!2024-06-06,5,229--> 
+<!--SR:!2024-06-09,1,209--> 
 
 [[Relational Database Service|RDS]]Read replicas can be within which infrastructural locations?
 ?
@@ -198,29 +198,29 @@ Read replicas can be within:
 - an Availability Zone
 - Cross-AZ
 - Cross-Region
-<!--SR:!2024-06-08,4,210-->
+<!--SR:!2024-06-18,10,210-->
 
 what is the main purpose of [[Relational Database Service|RDS]] Multi-Region deployments?
 ?
 the main purposes of Multi-Region
 - **disaster recovery**
 - **local performance**
-<!--SR:!2024-06-07,2,169-->
+<!--SR:!2024-06-11,3,169-->
 
 RDS Multi-region deployments follow which kind of replication?
 ?
 Multi-region deploys follow **Asynchronous** replication
-<!--SR:!2024-06-06,5,229-->
+<!--SR:!2024-06-09,1,209-->
 
 how rapidly can [[Relational Database Service|RDS]] Multi-AZ with **two readable standbys** can be expected to achieve auto-failover?
 ?
 [[Relational Database Service]] deployments with Multi-AZ with two readable standbys typically auto-failover in **under 35 seconds**.  This occurs with zero data loss and obvi, no manual intervention.
-<!--SR:!2024-06-08,4,210-->
+<!--SR:!2024-06-15,7,210-->
 
 how rapidly can [[Relational Database Service|RDS]] Multi-AZ with **one standby** can be expected to achieve auto-failover?
 ?
 60 seconds
-<!--SR:!2024-06-06,5,230-->
+<!--SR:!2024-06-22,14,230-->
 
 There are 7 [[Relational Database Service]] engines that are compatible with both Single-AZ and Multi-AZ/**single standby** deployments. What are they?
 ?
@@ -231,20 +231,20 @@ RDS engines available with both of these deployment types are:
 - Amazon RDS for [[SQL Server]]
 - Amazon RDS for [[Oracle Corporation|Oracle]]
 - Amazon RDS for [[IBM Db2|Db2]]
-<!--SR:!2024-06-06,1,149-->
+<!--SR:!2024-06-09,1,130-->
 
 Which two [[Relational Database Service|RDS]] engines are compatible with Multi-AZ with two readable standbys?
 ?
 - [[Relational Database Service|Amazon RDS]] for [[PostgreSQL]]
 - [[Relational Database Service|Amazon RDS]] for [[MySQL]]
-<!--SR:!2024-06-06,1,170-->
+<!--SR:!2024-06-09,1,150-->
 
 which replication method is well-suited for use-cases in which data integrity and zero data loss are priorities?
 ?
 **synchronous replication**
 - it provides strong data consistency, ensuring the data on the primary and replica are identical at all time.
 - This makes it ideal for applications where data integrity is crucial, such as financial transactions, inventory systems, and critical databases.
-<!--SR:!2024-06-06,5,229-->
+<!--SR:!2024-06-09,1,209-->
 
 which replication method is heavier on performance overhead of the two?
 ?
@@ -252,14 +252,14 @@ which replication method is heavier on performance overhead of the two?
 - it needs to wait for ack from the replica, introducing latency and reducing overall system performance
 - it also requires more bandwidth and processing power to maintain real-time sync
 	- this is costly and resource hungry
-<!--SR:!2024-06-06,5,229-->
+<!--SR:!2024-06-25,17,249-->
 
 [[CloudTrail]] can stream data to only two locations.  What are they?
 ?
 [[cloudtrail]] can only stream to:
 1. [[Simple Storage Service|S3]] buckets
 2. [[CloudWatch]] logs
-<!--SR:!2024-06-07,2,209-->
+<!--SR:!2024-06-12,4,209-->
 
 [[Aurora]] DB instances auto-scale vertically up to what size?
 ?
@@ -272,18 +272,18 @@ What are the four most common use cases for [[Kinesis Data Analytics]]?
 2. **Continuous** metric generation
 3. responsive **real-time** analytics
 4. **interactive** querying of data
-<!--SR:!2024-06-06,1,169-->
+<!--SR:!2024-06-09,1,149-->
 
 [[Kinesis Data Analytics]] for [[Apache Flink]] provides how much running application storage per Kinesis Processing Unit (KPU)?
 ?
 **50 GB**
-<!--SR:!2024-06-06,2,209-->
+<!--SR:!2024-06-12,4,209-->
 
 [[API Gateway]] offers two options to create RESTful APIs.  What are they?
 ?
 1. [[HTTP APIs]]
 2. **[[REST API|REST APIs]]**
-<!--SR:!2024-06-06,2,209-->
+<!--SR:!2024-06-12,4,209-->
 
 Question referring to a key-value store is usually an indication of what kind of database?
 ?
@@ -293,17 +293,17 @@ Question referring to a key-value store is usually an indication of what kind of
 Which [[cognito]] pool type boasts built-in user management?
 ?
 [[Cognito]] **User pools**
-<!--SR:!2024-06-07,2,189-->
+<!--SR:!2024-06-12,4,189-->
 
 How many virtual CPUs (vCPUs) does an [[Snowball|AWS Snowball]] Edge Storage Optimized device contain:
 ?
 **40 vCPUs**
-<!--SR:!2024-06-07,2,205-->
+<!--SR:!2024-06-12,4,205-->
 
 Each [[Aurora]] database cluster is/can have how many primary instances?
 ?
 **One:** clusters can have one and only one primary instance.  Emphasis on the singular form of the word "instance"
-<!--SR:!2024-06-07,2,205-->
+<!--SR:!2024-06-12,4,205-->
 
 
 ## SAA Deck 3
@@ -312,26 +312,27 @@ Each [[Aurora]] database cluster is/can have how many primary instances?
 keywords related to auditing and monitoring, such as "audit," "monitor," "logging," or "tracking" may be an indication of....
 ?
 [[CloudTrail]]
-<!--SR:!2024-06-08,3,225-->
+<!--SR:!2024-06-16,8,225-->
 
 You have tranfered approx 70 GB this billing period (consisting of 1 month) out of [[Simple Storage Service|S3]] to the net.  How will this effect your bill?
 ?
 **Not at all,** As data egress from s3 is completely free of charge for the first 100 GB transferred out to the net over month
-<!--SR:!2024-06-06,1,185-->
+<!--SR:!2024-06-09,1,165-->
 
 you monthly bill for [[Simple Storage Service|S3]] egress out to the net is ***exactly*** 9 cents.  This means exactly how many gigabytes have gone out.
 ?
 **1,100 GB** which can also be expressed as **10.1 TB**
-<!--SR:!2024-06-06,1,185-->
+<!--SR:!2024-06-09,1,165-->
 
 This month you have transfered a lot of data out of [[Simple Storage Service|S3]] the internet: about **200 TB**.  How much will this cost you **per GB** over 150 TB
 ?
 per the pricing policies of [[Simple Storage Service|S3]], you can expect to pay $0.05 per GB for data exceeding the 150 TB pricing tier
-<!--SR:!2024-06-07,2,205-->
+<!--SR:!2024-06-09,1,185-->
 
 Explain the pricing for [[Athena]]
 ?
 [[Athena]] is charged at a **fixed amount** of $5.00 per TB data scanned
+<!--SR:!2024-06-10,2,219-->
 
 
 

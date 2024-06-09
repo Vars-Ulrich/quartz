@@ -1,5 +1,7 @@
 ---
 icon: AiRoute53
+aliases:
+  - Amazon Route 53
 ---
 ## Routing Policies
 

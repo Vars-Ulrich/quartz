@@ -1,5 +1,7 @@
 ---
 icon: AiBudgets
+aliases:
+  - AWS Budgets
 ---
 
 # Overview

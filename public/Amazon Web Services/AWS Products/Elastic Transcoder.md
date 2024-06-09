@@ -1,5 +1,7 @@
 ---
 icon: AiElasticTranscoder
+aliases:
+  - Amazon Elastic Transcoder
 ---
 # Overview
 

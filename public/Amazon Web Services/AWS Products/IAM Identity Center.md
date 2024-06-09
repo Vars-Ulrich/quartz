@@ -1,5 +1,8 @@
 ---
 icon: AiIAMIdentityCenter
+aliases:
+  - AWS IAM Identity Center
+  - AWS Single Sign-On
 ---
 # Overview
 

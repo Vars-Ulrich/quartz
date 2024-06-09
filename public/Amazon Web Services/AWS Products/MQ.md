@@ -1,5 +1,7 @@
 ---
 icon: AiMQ
+aliases:
+  - Amazon MQ
 ---
 # Overview
 

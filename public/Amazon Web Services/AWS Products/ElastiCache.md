@@ -1,5 +1,7 @@
 ---
 icon: AiElastiCache
+aliases:
+  - Amazon ElastiCache
 ---
 # Overview
 

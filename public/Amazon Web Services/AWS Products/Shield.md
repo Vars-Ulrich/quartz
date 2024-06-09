@@ -1,5 +1,7 @@
 ---
 icon: AiShield
+aliases:
+  - AWS Shield
 ---
 # Overview
 

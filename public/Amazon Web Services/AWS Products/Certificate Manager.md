@@ -1,5 +1,8 @@
 ---
 icon: AiCertificateManager
+aliases:
+  - AWS Certificate Manager
+  - ACM
 ---
 # Overview
 

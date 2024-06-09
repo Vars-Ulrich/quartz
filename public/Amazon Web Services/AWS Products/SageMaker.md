@@ -1,5 +1,7 @@
 ---
 icon: AiSageMaker
+aliases:
+  - Amazon SageMaker
 ---
 # Overview
 

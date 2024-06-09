@@ -2,6 +2,7 @@
 icon: AiEC2
 aliases:
   - EC2
+  - Amazon EC2
 ---
 
 - EC2 is a web service that provides secure, resizable compute capacity in the cloud with support for per-second billing. It is the easiest way to provision servers on AWS Cloud and access the underlying OS. EC2 is not a serverless service.

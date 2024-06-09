@@ -1,5 +1,7 @@
 ---
 icon: AiTranscribe
+aliases:
+  - Amazon Transcribe
 ---
 # Overview
 

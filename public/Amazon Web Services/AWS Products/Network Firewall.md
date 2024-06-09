@@ -1,5 +1,7 @@
 ---
 icon: AiNetworkFirewall
+aliases:
+  - AWS Network Firewall
 ---
 # Overview
 

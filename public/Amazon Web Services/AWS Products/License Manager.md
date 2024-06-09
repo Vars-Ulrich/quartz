@@ -1,5 +1,7 @@
 ---
 icon: AiLicenseManager
+aliases:
+  - AWS License Manager
 ---
 # Overview
 

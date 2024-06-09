@@ -1,5 +1,7 @@
 ---
 icon: AiWellArchitectedTool
+aliases:
+  - AWS Well-Architected Tool
 ---
 # Overview
 

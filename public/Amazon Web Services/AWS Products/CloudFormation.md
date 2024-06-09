@@ -1,5 +1,7 @@
 ---
 icon: AiCloudFormation
+aliases:
+  - AWS CloudFormation
 ---
 # Overview
 

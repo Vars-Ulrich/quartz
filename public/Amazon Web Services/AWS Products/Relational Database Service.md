@@ -3,6 +3,7 @@ icon: AiRDS
 aliases:
   - RDS
   - Amazon RDS
+  - Amazon Relation Database Service
 ---
 # Relational Database Service
 https://aws.amazon.com/rds/features/multi-az/

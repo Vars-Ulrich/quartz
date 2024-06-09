@@ -2,6 +2,7 @@
 icon: AiDirectConnect
 aliases:
   - DX
+  - AWS Direct Connect
 ---
 # Overview
 AWS Direct Connect is a cloud service solution that makes it easy to establish a dedicated network connection from your premises to AWS. 

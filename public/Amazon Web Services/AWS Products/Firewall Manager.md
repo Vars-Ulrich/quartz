@@ -1,5 +1,7 @@
 ---
 icon: AiFirewallManager
+aliases:
+  - AWS Firewall Manager
 ---
 # Overview
 

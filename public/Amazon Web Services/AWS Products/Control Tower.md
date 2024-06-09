@@ -1,5 +1,7 @@
 ---
 icon: AiControlTower
+aliases:
+  - AWS Control Tower
 ---
 # Overview
 

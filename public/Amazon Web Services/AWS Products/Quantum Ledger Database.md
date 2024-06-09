@@ -2,6 +2,8 @@
 icon: AiQuantumLedgerDatabase
 aliases:
   - QLDB
+  - Amazon Quantum Ledger Database
+  - Amazon QLDB
 ---
 - Fully Managed
 - Serverless

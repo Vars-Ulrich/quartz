@@ -4,11 +4,11 @@ aliases:
   - Amazon AppFlow
 ---
 # Overview
-AWS AppFlow is a fully managed integration service that enables you to securely transfer data between [[Software-as-a-Service]] (SaaS) applications like Salesforce, Slack, and ServiceNow, and AWS services like [[Simple Storage Service|Amazon S3]] and [[Redshift|Amazon Redshift]], as well as custom APIs. It is designed to simplify data flows and automate data integration tasks, making it an excellent tool for building data pipelines without writing custom code.
+AWS AppFlow is a fully managed integration service that enables you to securely transfer data between [[Software-as-a-Service]] (SaaS) applications like Salesforce, Slack, and ServiceNow, and AWS services like [[Simple Storage Service|Amazon S3]] and [[Redshift|Amazon Redshift]], as well as custom [[Application Programming Interface|APIs]]. It is designed to simplify data flows and automate data integration tasks, making it an excellent tool for building data pipelines without writing custom code.
 
 ### Key Features of AWS AppFlow
 
-1. **Secure Data Transfer**: AppFlow ensures that your data transfers are secure, using AWS’s robust security measures such as encryption at rest and in transit.
+1. **Secure Data Transfer**: AppFlow ensures that your data transfers are secure, using AWS’s robust security measures such as [[encryption]] at rest and in transit.
     
 2. **Integration with SaaS Applications**: Supports numerous popular SaaS applications, allowing you to connect and integrate their data with AWS services seamlessly. This includes CRM, marketing automation, and business communication platforms.
     
@@ -23,11 +23,11 @@ AWS AppFlow is a fully managed integration service that enables you to securely 
 
 ### How It Works
 
-- **Choose Source and Destination**: Select where your data will come from (like Salesforce or Slack) and where it will go (such as Amazon S3 or Redshift).
+- **Choose Source and Destination**: Select where your data will come from (like Salesforce or Slack) and where it will go (such as [[Simple Storage Service|Amazon S3]] or [[Redshift]]).
 - **Configure Flow**: Set up your data flow in the AppFlow interface, specifying details such as the fields to transfer, transformation rules, and scheduling.
 - **Data Transformation**: Apply transformations to the data as it moves from source to destination, such as concatenating fields, filtering rows, or converting data formats.
 - **Schedule or Trigger**: Decide whether the flow should be triggered by an event or run on a schedule.
-- **Monitor**: Use AWS CloudWatch to monitor the flow and track metrics like the volume of data transferred and flow run times.
+- **Monitor**: Use [[CloudWatch|AWS CloudWatch]] to monitor the flow and track metrics like the volume of data transferred and flow run times.
 
 ### Benefits
 

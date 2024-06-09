@@ -2,6 +2,8 @@
 icon: AiSimpleQueueService
 aliases:
   - SQS
+  - Amazon Simple Queue Service
+  - Amazon SQS
 ---
 # Overview
 
