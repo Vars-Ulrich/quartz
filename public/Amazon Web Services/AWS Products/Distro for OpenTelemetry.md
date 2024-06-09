@@ -5,15 +5,15 @@ aliases:
 ---
 # Overview
 
-AWS Distro for OpenTelemetry (ADOT) is a secure, production-ready, AWS-supported distribution of the OpenTelemetry project. OpenTelemetry provides open-source [[Application Programming Interface|API]]s, libraries, and agents to collect distributed traces and metrics for application monitoring. AWS Distro for OpenTelemetry enhances the OpenTelemetry components to offer a seamless monitoring solution that can integrate efficiently with AWS services.
+AWS Distro for OpenTelemetry (ADOT) is a secure, production-ready, AWS-supported distribution of the OpenTelemetry. OpenTelemetry provides open-source [[Application Programming Interface|API]]s, libraries, and agents to collect distributed traces and metrics for application monitoring. AWS Distro for OpenTelemetry enhances the OpenTelemetry components to offer a seamless monitoring solution that can integrate efficiently with AWS services.
 
 ### Key Features of AWS Distro for OpenTelemetry
 
-1. **Seamless Integration with AWS Services**: ADOT is specifically enhanced to integrate with AWS monitoring services such as Amazon CloudWatch, AWS X-Ray, and Amazon Managed Service for Prometheus. This allows users to send telemetry data (traces, metrics, and logs) directly to these services for analysis and monitoring.
+1. **Seamless Integration with AWS Services**: ADOT is specifically enhanced to integrate with AWS monitoring services such as Amazon [[CloudWatch]], AWS [[X-Ray]], and Amazon Managed Service for Prometheus. This allows users to send telemetry data (traces, metrics, and logs) directly to these services for analysis and monitoring.
     
 2. **Enhanced Support for AWS SDKs**: The distro includes auto-instrumentation agents that automatically capture telemetry data from AWS SDKs. This means that applications using AWS SDKs can be monitored without the need for extensive manual instrumentation.
     
-3. **Support for Popular Languages and Frameworks**: ADOT supports several programming languages and frameworks, ensuring that it can be used in a variety of application stacks. This includes support for Java, JavaScript, Python, and .NET, among others.
+3. **Support for Popular Languages and Frameworks**: ADOT supports several programming languages and frameworks, ensuring that it can be used in a variety of application stacks. This includes support for Java, [[JavaScript]], [[Python Programming Language|Python]], and .NET, among others.
     
 4. **Customization and Flexibility**: While ADOT provides out-of-the-box support for AWS services, it remains flexible and customizable, allowing developers to tweak configurations, data collection, and exports to fit their specific needs or to integrate with other backends that support OpenTelemetry.
     

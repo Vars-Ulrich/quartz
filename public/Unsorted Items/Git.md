@@ -4,7 +4,7 @@ tags:
 icon: 
 aliases: 
 ---
-> **Git** () is a distributed version control system that tracks versions of files. It is often used to control [[source code]] by programmers collaboratively developing  software.
+> **Git** () is a distributed version control system that tracks versions of files. It is often used to control [[Source code]] by programmers collaboratively developing  software.
 >
 > Design goals of Git include speed, data integrity, and support for distributed, non-linear workflows – thousands of parallel branches running on different computers. 
 >
