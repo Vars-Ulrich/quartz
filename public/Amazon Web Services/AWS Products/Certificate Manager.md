@@ -6,19 +6,19 @@ aliases:
 ---
 # Overview
 
-AWS Certificate Manager (ACM) is a service offered by Amazon Web Services that makes it easier to deploy and manage SSL/TLS certificates for your AWS-based websites and applications. This service is crucial for securing server communication and ensuring that data transmitted over the internet is encrypted and secure from interception.
+AWS Certificate Manager (ACM) is a service offered by Amazon Web Services that makes it easier to deploy and manage [[Secure Sockets Layer|SSL]]/[[Transport Layer Security|TLS]] certificates for your AWS-based websites and applications. This service is crucial for securing server communication and ensuring that data transmitted over the internet is encrypted and secure from interception.
 
 ### Key Features of AWS Certificate Manager
 
 1. **SSL/TLS Certificate Provisioning**: ACM allows you to easily provision, manage, and deploy public and private Secure Sockets Layer/Transport Layer Security (SSL/TLS) certificates. These certificates are used for securing network communications and establishing the identity of websites over the Internet.
     
-2. **Seamless Integration with AWS Services**: ACM certificates can be directly integrated with AWS services such as Elastic Load Balancing, Amazon CloudFront, Amazon API Gateway, and more, allowing you to secure applications easily.
+2. **Seamless Integration with AWS Services**: ACM certificates can be directly integrated with AWS services such as [[Elastic Load Balancing]], [[CloudFront|Amazon CloudFront]], [[API Gateway|Amazon API Gateway]], and more, allowing you to secure applications easily.
     
 3. **Automated Certificate Renewal**: ACM handles the renewal of the SSL/TLS certificates it manages. This automation ensures that the certificates are always valid and reduces the risk of outages due to expired certificates.
     
-4. **Centralized Management**: Through the ACM console or the AWS CLI, you can manage all your certificates from one place, simplifying the process of deploying, renewing, and managing certificates across various AWS services.
+4. **Centralized Management**: Through the ACM console or the [[Command Line Interface|AWS CLI]], you can manage all your certificates from one place, simplifying the process of deploying, renewing, and managing certificates across various AWS services.
     
-5. **Private Certificate Authority**: ACM also includes an option to create a private certificate authority (CA) with AWS Certificate Manager Private CA. This private CA can issue certificates used to secure communication within your organization, useful for scenarios where public trust is not required.
+5. **Private Certificate Authority**: ACM also includes an option to create a private [[Certificate authority]] (CA) with AWS Certificate Manager Private CA. This private CA can issue certificates used to secure communication within your organization, useful for scenarios where public trust is not required.
     
 
 ### How It Works

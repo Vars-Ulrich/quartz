@@ -1,9 +1,11 @@
 ---
 icon: AiDistroForOpenTelemetry
+aliases:
+  - ADOT
 ---
 # Overview
 
-AWS Distro for OpenTelemetry (ADOT) is a secure, production-ready, AWS-supported distribution of the OpenTelemetry project. OpenTelemetry provides open-source APIs, libraries, and agents to collect distributed traces and metrics for application monitoring. AWS Distro for OpenTelemetry enhances the OpenTelemetry components to offer a seamless monitoring solution that can integrate efficiently with AWS services.
+AWS Distro for OpenTelemetry (ADOT) is a secure, production-ready, AWS-supported distribution of the OpenTelemetry project. OpenTelemetry provides open-source [[Application Programming Interface|API]]s, libraries, and agents to collect distributed traces and metrics for application monitoring. AWS Distro for OpenTelemetry enhances the OpenTelemetry components to offer a seamless monitoring solution that can integrate efficiently with AWS services.
 
 ### Key Features of AWS Distro for OpenTelemetry
 

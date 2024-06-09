@@ -3,15 +3,15 @@ icon: AiChatbot
 ---
 # Overview
 
-AWS Chatbot is an interactive agent that integrates with AWS services to enable DevOps and software development teams to receive alerts, execute commands, and interact with AWS resources directly through a chat interface. This service supports popular chat platforms such as Slack and Amazon Chime, making it accessible and convenient for teams to manage their AWS environment in a collaborative and real-time manner.
+AWS Chatbot is an interactive agent that integrates with AWS services to enable DevOps and software development teams to receive alerts, execute commands, and interact with AWS resources directly through a chat interface. This service supports popular chat platforms such as Slack and [[Chime]], making it accessible and convenient for teams to manage their AWS environment in a collaborative and real-time manner.
 
 ### Key Features of AWS Chatbot
 
 1. **Chat Integration**: AWS Chatbot can be configured to work with Slack and Amazon Chime, allowing teams to receive notifications and execute commands within the chat channels they already use for communication.
     
-2. **Alerts and Notifications**: It integrates with Amazon CloudWatch and AWS SNS (Simple Notification Service) to deliver alerts about the status of AWS resources directly into a chat channel. This helps teams to monitor their applications and respond quickly to changes or issues.
+2. **Alerts and Notifications**: It integrates with Amazon [[CloudWatch]] and [[Simple Notification Service|Amazon SNS]] (Simple Notification Service) to deliver alerts about the status of AWS resources directly into a chat channel. This helps teams to monitor their applications and respond quickly to changes or issues.
     
-3. **Execute Commands**: Users can run AWS CLI (Command Line Interface) commands directly from the chat interface to retrieve information or take action on AWS resources. This capability is managed through IAM (Identity and Access Management) policies to ensure security and control.
+3. **Execute Commands**: Users can run AWS [[Command Line Interface]] (Command Line Interface) commands directly from the chat interface to retrieve information or take action on AWS resources. This capability is managed through IAM (Identity and Access Management) policies to ensure security and control.
     
 4. **Customizable Notifications**: AWS Chatbot allows customization of notification details, providing control over the information that is sent to the chat channels. This ensures that teams receive relevant and actionable data.
     
@@ -26,7 +26,7 @@ AWS Chatbot is an interactive agent that integrates with AWS services to enable 
     
 - **Configure SNS Topics or CloudWatch Alarms**: Set up AWS SNS topics or CloudWatch alarms that you want to monitor. AWS Chatbot uses these services to push notifications to your chat application.
     
-- **Interact Through Chat**: Once configured, team members can receive notifications and execute commands directly from their chat interface. For instance, you can query the status of an EC2 instance or trigger a Lambda function right from Slack or Amazon Chime.
+- **Interact Through Chat**: Once configured, team members can receive notifications and execute commands directly from their chat interface. For instance, you can query the status of an [[Elastic Cloud Compute|EC2]] instance or trigger a Lambda function right from Slack or Amazon Chime.
     
 
 ### Benefits

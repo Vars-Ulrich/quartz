@@ -61,7 +61,7 @@ icon: MiHappyMac
 - [[iOS]]
 - [[IPv4]]
 - [[IPv6]]
-- [[Javascript]]
+- [[JavaScript]]
 - [[Kernel]]
 - [[Lightweight Directory Access Protocol]]
 - [[Local Area Network]]
