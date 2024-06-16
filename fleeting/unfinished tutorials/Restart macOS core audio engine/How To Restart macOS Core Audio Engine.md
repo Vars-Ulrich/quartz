@@ -30,17 +30,17 @@ Native processes/features that may cause audio issues
 - Airplay transmitter
 - Bluetooth transmitter
 
-# ChatGPT generated
+## ChatGPT generated
 
-# How to Restart the macOS Core Audio Engine
+### How to Restart the macOS Core Audio Engine
 
 The macOS Core Audio engine is a crucial component of the operating system that manages audio operations, including audio input and output, MIDI, and various other audio-related processes. Occasionally, users may encounter issues such as audio dropouts, distortion, or the inability to select certain audio devices. Restarting the Core Audio engine can often resolve these problems. This guide will detail the methods to restart the macOS Core Audio engine, ensuring that your audio system runs smoothly.
 
-## Understanding Core Audio
+### Understanding Core Audio
 
 Core Audio is Apple's low-level API for dealing with sound in macOS and iOS. It is responsible for audio playback, recording, MIDI processing, and audio unit hosting. Any issues with Core Audio can disrupt these functionalities, leading to problems with sound quality and device connectivity.
 
-## When to Restart Core Audio
+### When to Restart Core Audio
 
 Before diving into the steps, it's essential to identify scenarios that may necessitate a Core Audio restart:
 
@@ -49,13 +49,13 @@ Before diving into the steps, it's essential to identify scenarios that may nece
 - **Device Recognition Issues**: External audio devices are not recognized or not functioning correctly.
 - **MIDI Problems**: Issues with MIDI device connectivity or performance.
 
-## Methods to Restart Core Audio
+### Methods to Restart Core Audio
 
-### 1. Restarting Core Audio via Terminal
+###$ 1. Restarting Core Audio via Terminal
 
 One of the most effective ways to restart the Core Audio engine is by using the Terminal application. This method involves killing the `coreaudiod` process, which macOS will automatically restart.
 
-#### Steps:
+##### Steps:
 
 1. **Open Terminal**: You can find Terminal in the Utilities folder within Applications, or by searching for it using Spotlight (Cmd + Space, then type "Terminal").
     
@@ -72,11 +72,11 @@ One of the most effective ways to restart the Core Audio engine is by using the 
 3. **Verify Restart**: After running the command, the `coreaudiod` process will terminate and automatically restart. You can verify this by checking your audio output or input settings in the Sound preferences.
     
 
-### 2. Restarting Core Audio via Activity Monitor
+#### 2. Restarting Core Audio via Activity Monitor
 
 If you prefer a graphical user interface, you can use Activity Monitor to restart Core Audio.
 
-#### Steps:
+##### Steps:
 
 1. **Open Activity Monitor**: You can find Activity Monitor in the Utilities folder within Applications, or by searching for it using Spotlight.
     
@@ -87,11 +87,11 @@ If you prefer a graphical user interface, you can use Activity Monitor to restar
 4. **Verify Restart**: The process will automatically restart. Check your audio settings to ensure everything is functioning correctly.
     
 
-### 3. Restarting the Mac
+#### 3. Restarting the Mac
 
 If the above methods do not resolve your issue, restarting your Mac can also restart the Core Audio engine and may fix the problem.
 
-#### Steps:
+##### Steps:
 
 1. **Save Work and Close Applications**: Make sure to save any open work and close all applications.
     
@@ -100,11 +100,11 @@ If the above methods do not resolve your issue, restarting your Mac can also res
 3. **Verify Audio**: After your Mac restarts, check your audio settings and test your audio devices.
     
 
-### 4. Using System Preferences
+#### 4. Using System Preferences
 
 In some cases, simply changing the audio output device in System Preferences can reset the Core Audio engine.
 
-#### Steps:
+##### Steps:
 
 1. **Open Sound Preferences**: Click the Apple menu, select "System Preferences", and then click "Sound".
     
