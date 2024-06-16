@@ -334,7 +334,9 @@ Explain the pricing for [[Athena]]
 [[Athena]] is charged at a **fixed amount** of $5.00 per TB data scanned
 <!--SR:!2024-06-10,2,219-->
 
-
+(Blank) is a good fit for non-HTTP use cases, such as gaming (UDP), IoT (MQTT), or Voice over IP, as well as for HTTP use cases that specifically require static IP addresses or deterministic, fast regional failover.
+?
+[[Global Accelerator]]
 
 
 

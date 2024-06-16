@@ -78,6 +78,7 @@ icon: MiSaaBadge
 - [[Out-of-Scope]]
 - **Practice Exams**
 
+- [[SAA Flashcards]]
 - **Udemy SAA course**
 	- **[[Course Code]]**
 		- **api-gateway**
